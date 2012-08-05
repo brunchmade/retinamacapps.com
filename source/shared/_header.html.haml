@@ -1,12 +1,15 @@
 #main-header
 	%header
-		%a#logo{href: "/", title: "Go home"}
+		%h1
+			%a#logo{href: "/", title: "Go home"}= data.config.title
 
-	%nav#main-nav
-		%ul
+	%nav
+		%ul#main-nav
 			%li
 				%a{href: "#", title: "Submit your retina app"} Submit
 			%li
 				%a{href: "http://twitter.com/retinapps", target: "_blank", title: "Follow @retinapps"} @retinapps
 			%li
 				%a{href: "#", title: "Subscribe to our RSS feed"} RSS
+
+	= partial "shared/_footer"
