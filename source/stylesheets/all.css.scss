@@ -1,4 +1,5 @@
 @charset "utf-8";
+@import "mixins";
 
 /* ========== BASE ========== */
 body {
@@ -7,23 +8,48 @@ body {
 }
 
 ul {
+  margin: 0;
+  padding: 0;
   list-style: none;
+}
+
+p {
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+  text-indent: -9999px;
 }
 
 /* ========== LAYOUT ========== */
 #main-header {
+  width: 256px;
+  padding: 0 20px;
   float: left;
+}
+
+#main-content {
+  width: 100%;
 }
 
 #main-footer {
-  float: left;
+  margin-top: 30px;
+  color: #999;
+  font-size: 11px;
+
+  a {
+    color: #3fbfff;
+    text-decoration: none;
+
+    &:hover,
+    &focus {
+      text-decoration: underline;
+    }
+  }
 }
 
 /* ========== MODULE ========== */
-#main-nav {
-  
-}
-
 #logo {
   width: 256px;
   height: 256px;
@@ -31,5 +57,40 @@ ul {
   background: url('../images/retinapps.png') no-repeat 0 0;
 }
 
+#main-nav {
+  li {
+    margin-bottom: 2px;
+  }
+
+  a {
+    color: #3fbfff;
+    text-decoration: none;
+
+    &:hover,
+    &focus {
+      text-decoration: underline;
+    }
+  }
+}
+
+#app-list {
+  overflow: hidden;
+}
+
+.app-item {
+  width: 256px;
+  float: left;
+  position: relative;
+}
+
+.tooltip {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #fff;
+  @include border-radius;
+  border: 1px solid #000;
+}
 
 /* ========== STATE ========== */

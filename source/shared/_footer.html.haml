@@ -1,9 +1,7 @@
 %footer#main-footer
-	%p Copyright 2012
-	%p
-		Created by&nbsp;
-		%a{href: "http://wells.ee", target: "_blank", title: "Visit Wells Riley"}> Wells Riley
-		,&nbsp;
-		%a{href: "http://ianhirschfeld.com", target: "_blank", title: "Visit Ian Hirschfeld"}> Ian Hirschfeld
-		,&nbsp;
-		%a{href: "http://alexbaldw.in/", target: "_blank", title: "Visit Alex Baldwin"}> Alex Baldwin
+  %p Copyright 2012
+  %ul
+    %li Created by&nbsp;
+    - data.creators.each_with_index do |c, i|
+      %li
+        %a{href: "#{c.site}", target: "_blank", title: "Visit #{c.name}"}>= c.name
