@@ -1,0 +1,9 @@
+-
+  id: 1
+  name: "1Password"
+  shortname: "1password"
+  downloadURL: "http://itunes.apple.com/us/app/1password-password-manager/id443987910?mt=12"
+  developerURL: "https://agilebits.com"
+  category: "Productivity"
+  developer: "AgileBits"
+  date: "2012-08-04"

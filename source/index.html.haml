@@ -1,0 +1,4 @@
+%ul
+  - data.apps.each do |a|
+    %li
+      %img{src: "/images/apps/#{a.shortname}.png", alt: "#{a.name}", title: "#{a.name}", width: 256, height: 256}
