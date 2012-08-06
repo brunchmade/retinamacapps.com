@@ -58,13 +58,10 @@ h3 {
   width: $sidebarWidth;
   padding-left: $gutter;
   position: fixed;
-  z-index: 1;
 }
 
 #main-content {
 	padding: 0 0 $gutter $sidebarWidth + $gutter;
-  position: relative;;
-  z-index: 20;
 }
 
 #main-footer {
@@ -125,10 +122,7 @@ h3 {
   width: 64px;
   height: 64px;
   margin: 0 0 5px;
-
-  a {
-    display: block;
-  }
+  display: block;
 }
 
 #main-nav {
