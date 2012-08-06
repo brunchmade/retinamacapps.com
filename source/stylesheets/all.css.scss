@@ -2,6 +2,7 @@
 @import "compass";
 
 /* ========== VARIABLES ========== */
+$sidebarWidth: 130px;
 $gutter: 40px;
 $ipadLGutterDelta: 22px;
 $ipadPGutterDelta: 28px;
@@ -48,20 +49,20 @@ h1 {
 
 /* ========== LAYOUT ========== */
 #main-header {
-  width: 130px;
+  width: $sidebarWidth;
   padding-left: $gutter;
   position: fixed;
   z-index: 1;
 }
 
 #main-content {
-	padding: 0 0 $gutter 130px + $gutter;
+	padding: 0 0 $gutter $sidebarWidth + $gutter;
   position: relative;;
   z-index: 20;
 }
 
 #main-footer {
-	width: 130px;
+	width: $sidebarWidth;
   margin-top: 130px;
   color: #999;
   font-size: 0.7em;
@@ -89,7 +90,7 @@ h1 {
   }
 
   #main-content {
-    padding: 0 0 $gutter - $ipadLGutterDelta 120px + $gutter - $ipadLGutterDelta;
+    padding: 0 0 $gutter - $ipadLGutterDelta $sidebarWidth + $gutter - $ipadLGutterDelta;
   }
 }
 
@@ -99,7 +100,7 @@ h1 {
   }
 
   #main-content {
-    padding: 0 0 $gutter - $ipadPGutterDelta 120px + $gutter - $ipadPGutterDelta;
+    padding: 0 0 $gutter - $ipadPGutterDelta $sidebarWidth + $gutter - $ipadPGutterDelta;
   }
 }
 
@@ -109,7 +110,7 @@ h1 {
   }
 
   #main-content {
-    padding: 0 0 $gutter - $iphoneGutterDelta 120px + $gutter - $iphoneGutterDelta;
+    padding: 0 0 $gutter - $iphoneGutterDelta $sidebarWidth + $gutter - $iphoneGutterDelta;
   }
 }
 
@@ -139,6 +140,10 @@ h1 {
       text-decoration: underline;
     }
   }
+}
+
+#app-list {
+  overflow: hidden;
 }
 
 .app-item {
