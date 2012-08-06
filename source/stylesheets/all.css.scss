@@ -29,11 +29,12 @@ h1 {
   margin: $gutter 0;
 }
 
-h3 {text-overflow: ellipsis;
+h3 {
+  margin: 10px 0 -4px 0;
   color: #999;
   font-size: 0.75em;
   font-weight: 600;
-  margin: 10px 0 -4px 0;
+  text-overflow: ellipsis;
 }
 
 @media screen and (max-width: 768px) {
@@ -132,6 +133,7 @@ h3 {text-overflow: ellipsis;
 }
 
 .app-item {
+  width: 256px;
   margin: $gutter 0 0 $gutter;
   float: left;
   position: relative;
@@ -152,14 +154,17 @@ h3 {text-overflow: ellipsis;
   text-decoration: none;
   margin: 0;
   width: 256px;
-}
-.developer:hover {
+  
+  &:hover,
+  &:focus {
 		color: $highlight;
 		text-decoration: underline;
 	}
+}
 
 @media screen and (max-width: 768px) {
   .app-item {
+    width: 128px;
     margin: $gutter - $ipadPGutterDelta 0 0 $gutter - $ipadPGutterDelta;
 
     img {
@@ -171,6 +176,7 @@ h3 {text-overflow: ellipsis;
 
 @media screen and (max-width: 480px) {
   .app-item {
+    width: 64px;
     margin: $gutter - $iphoneGutterDelta 0 0 $gutter - $iphoneGutterDelta;
 
     img {
