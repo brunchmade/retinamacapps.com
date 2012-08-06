@@ -1,8 +1,10 @@
 %footer#main-footer
   %p &#9786; 2012
   %p  
-    Created by 
-    %a{href: "http://wells.ee", title: "Wells Riley"} Wells Riley
-    and
-    %a{href: "http://ianhirschfeld.com", title: "Ian Hirschfeld"} Ian Hirschfeld
+    Created by&nbsp;
+    - data.creators.each_with_index do |c, i|
+      %a{href: "#{c.site}", target: "_blank", title: "Visit #{c.name}"}>= c.name
+      &nbsp;
+      - unless i === data.creators.size - 1
+        and&nbsp;
   %p All content is copyrighted by their respective owners.

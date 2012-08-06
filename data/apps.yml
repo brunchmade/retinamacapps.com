@@ -278,7 +278,7 @@
   developer: "Flying Meat"
   date: "2012-08-04"
 -
-  id: 31
+  id: 32
   name: "Pages"
   shortname: "pages"
   downloadURL: "http://itunes.apple.com/us/app/pages/id409201541?mt=12"
@@ -287,7 +287,7 @@
   developer: "Apple"
   date: "2012-08-05"
 -
-  id: 31
+  id: 33
   name: "Keynote"
   shortname: "keynote"
   downloadURL: "http://itunes.apple.com/us/app/keynote/id409183694?mt=12"
@@ -296,7 +296,7 @@
   developer: "Apple"
   date: "2012-08-05"
 -
-  id: 31
+  id: 34
   name: "OS X Server"
   shortname: "server"
   downloadURL: "http://itunes.apple.com/us/app/os-x-server/id537441259?mt=12"
