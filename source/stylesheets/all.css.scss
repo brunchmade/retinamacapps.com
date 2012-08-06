@@ -7,7 +7,6 @@ $iphoneGutterDelta: 32px;
 $ipadGutterDelta: 22px;
 $highlight: #1d82c2;
 
-
 /* ========== BASE ========== */
 body {
   font-family: "source-sans-pro", sans-serif;
@@ -28,9 +27,15 @@ h1 {
   margin: $gutter 0;
 }
 
-@media screen and (max-width: 1024px), (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   h1 {
-    margin: $gutter - $ipadGutterDelta 0;
+    margin: $gutter - $ipadLGutterDelta 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  h1 {
+    margin: $gutter - $ipadPGutterDelta 0;
   }
 }
 
@@ -45,10 +50,13 @@ h1 {
   width: 130px;
   padding-left: $gutter;
   position: fixed;
+  z-index: 1;
 }
 
 #main-content {
-	padding: 0 0 $gutter 140px + $gutter;
+	padding: 0 0 $gutter 120px + $gutter;
+  position: relative;;
+  z-index: 20;
 }
 
 #main-footer {
@@ -74,13 +82,23 @@ h1 {
   }
 }
 
-@media screen and (max-width: 1024px), (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   #main-header {
-    padding-left: $gutter - $ipadGutterDelta;
+    padding-left: $gutter - $ipadLGutterDelta;
   }
 
   #main-content {
-    padding: 0 0 $gutter - $ipadGutterDelta 120px + $gutter - $ipadGutterDelta;
+    padding: 0 0 $gutter - $ipadLGutterDelta 120px + $gutter - $ipadLGutterDelta;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #main-header {
+    padding-left: $gutter - $ipadPGutterDelta;
+  }
+
+  #main-content {
+    padding: 0 0 $gutter - $ipadPGutterDelta 120px + $gutter - $ipadPGutterDelta;
   }
 }
 
@@ -122,10 +140,6 @@ h1 {
   }
 }
 
-#app-list {
-  overflow: hidden;
-}
-
 .app-item {
   margin: $gutter 0 0 $gutter;
   float: left;
@@ -148,32 +162,38 @@ h1 {
   @include border-radius;
   box-shadow: 0px 7px 12px rgba(0, 0, 0, 0.5);
   z-index: 98;
-}
+
 	h3 {
 		color: #333;
 		font-size: 1.5em;
 		margin: 0;
 	}
-	a {
+	
+  a {
 		font-size: 0.8em;
 		color: #999;
 	}
 
-.tooltip:after{
-    border: solid;
-    border-color: #fff transparent;
-    border-width: 10px 10px 0 10px;
-    bottom: -10px;
-    content: "";
+  span {
     display: block;
-    left: 90px;
     position: absolute;
-    z-index: 99;
-   }
+    left: 90px;
+    bottom: -23px;
+    color: #fff;
+    text-shadow: 0 7px 12px rgba(0, 0, 0, 0.5);
+    font-size: 32px;
+  }
+}
 
-@media screen and (max-width: 1024px), (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   .app-item {
-    margin: $gutter - $ipadGutterDelta 0 0 $gutter - $ipadGutterDelta;
+    margin: $gutter - $ipadLGutterDelta 0 0 $gutter - $ipadLGutterDelta;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .app-item {
+    margin: $gutter - $ipadPGutterDelta 0 0 $gutter - $ipadPGutterDelta;
 
     img {
       width: 128px;
