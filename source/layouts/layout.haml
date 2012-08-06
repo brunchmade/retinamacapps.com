@@ -4,15 +4,15 @@
 		%meta{charset: "utf-8"}
 		%meta{content: "IE=edge,chrome=1", 'http-equiv' => "X-UA-Compatible"}
 		%meta{property: "og:title", content: "#{data.config.title}"}
-		%meta{property: "og:url", content: "https://retinapps.com"}
+		%meta{property: "og:url", content: "http://retinamacapps.com"}
 		%meta{property: "og:type", content: "website"}
-		%meta{property: "og:image", content: "https://retinapps.com/images/Icon-72@2x.png"}
+		%meta{property: "og:image", content: "http://retinamacapps.com/images/Icon-72@2x.png"}
 		%meta{property: "fb:admins", content: "1082730090,1325850192"}
 		%meta{property: "og:description", content: "#{data.config.description}"}
 		%meta{name: "description", content: "#{data.config.description}"}
 		%meta{name: "viewport", content: "width=device-width; maximum-scale=1.0;"}
 
-		%title= data.page.title || data.config.title
+		%title= data.page.title || data.config.description + " - " + data.config.title
 
 		%script{type: "text/javascript", src: "//use.typekit.net/jvy7zhz.js"}
 		%script{type: "text/javascript"}

@@ -331,3 +331,12 @@
   category: "Photography"
   developer: "Apple"
   date: "2012-08-05"
+-
+  id: 38
+  name: "Xcode"
+  shortname: "xcode"
+  downloadURL: "http://itunes.apple.com/us/app/xcode/id497799835?mt=12"
+  developerURL: "http://apple.com"
+  category: "Developer Tools"
+  developer: "Apple"
+  date: "2012-08-05"

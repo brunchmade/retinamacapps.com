@@ -26,7 +26,7 @@ p {
 
 h1 {
 	font-size: 1em;
-  margin: $gutter 0;
+  margin: $gutter 0 0;
 }
 
 h3 {
@@ -34,7 +34,6 @@ h3 {
   color: #999;
   font-size: 0.75em;
   font-weight: 600;
-  text-overflow: ellipsis;
 }
 
 @media screen and (max-width: 768px) {
@@ -45,7 +44,13 @@ h3 {
 
 @media screen and (max-width: 480px) {
   h1 {
-    margin: $gutter - $iphoneGutterDelta 0;
+    margin: 0 0 10px;
+    font-size: 2em;
+    
+    a {
+    	margin: 10px auto !important;
+    	position: relative;
+    }
   }
 }
 
@@ -99,9 +104,11 @@ h3 {
 
 @media screen and (max-width: 480px) {
   #main-header {
-    padding-left: 0;
+    padding: 0;
     float: none;
     position: relative;
+    width: 100%;
+    text-align: center;
 
     .main-footer {
       display: none;
@@ -115,9 +122,13 @@ h3 {
   }
   
   .main-footer {
-	  padding: 0;
-    float: none;
-    position: relative;
+	  margin: 20px 0;
+    width: 100%;
+    text-align: center;
+
+  	p {
+	  	margin: 5px 0;
+  	}
   }
 
   #main-content + .main-footer {
@@ -137,6 +148,12 @@ h3 {
   height: 64px;
   margin: 0 0 5px;
   display: block;
+}
+
+#filter {
+	margin: 30px 0 15px;
+	font-size: 0.8em;
+	font-family: inherit;
 }
 
 #main-nav {
@@ -204,6 +221,23 @@ h3 {
 }
 
 @media screen and (max-width: 480px) {
+  #main-nav {
+	  margin: 0 auto;
+	  width: intrinsic;
+	  
+	  li {
+	  	float: left;
+	  	margin: 0 12px 30px;
+	  }
+  }
+  #main-nav:after {
+	  content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+  }
+  
   .app-item {
     width: 128px;
     margin: $gutter - $iphoneGutterDelta 0 0 $gutter - $iphoneGutterDelta;
