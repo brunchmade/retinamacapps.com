@@ -304,3 +304,30 @@
   category: "Utilities"
   developer: "Apple"
   date: "2012-08-05"
+-
+  id: 35
+  name: "Final Cut Pro"
+  shortname: "finalcutpro"
+  downloadURL: "http://itunes.apple.com/us/app/final-cut-pro/id424389933?mt=12"
+  developerURL: "http://apple.com"
+  category: "Video"
+  developer: "Apple"
+  date: "2012-08-05"
+-
+  id: 36
+  name: "Numbers"
+  shortname: "numbers"
+  downloadURL: "http://itunes.apple.com/us/app/numbers/id409203825?mt=12"
+  developerURL: "http://apple.com"
+  category: "Productivity"
+  developer: "Apple"
+  date: "2012-08-05"
+-
+  id: 37
+  name: "Aperture"
+  shortname: "aperture"
+  downloadURL: "http://itunes.apple.com/us/app/aperture/id408981426?mt=12"
+  developerURL: "http://apple.com"
+  category: "Photography"
+  developer: "Apple"
+  date: "2012-08-05"
