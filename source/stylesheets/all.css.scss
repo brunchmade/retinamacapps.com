@@ -60,7 +60,7 @@ h3 {
 	padding: 0 0 $gutter $sidebarWidth + $gutter;
 }
 
-#main-footer {
+.main-footer {
 	width: $sidebarWidth;
   margin-top: 130px;
   color: #999;
@@ -83,6 +83,10 @@ h3 {
   }
 }
 
+#main-content + .main-footer {
+  display: none;
+}
+
 @media screen and (max-width: 768px) {
   #main-header {
     padding-left: $gutter - $ipadPGutterDelta;
@@ -98,6 +102,10 @@ h3 {
     padding-left: 0;
     float: none;
     position: relative;
+
+    .main-footer {
+      display: none;
+    }
   }
 
   #main-content {
@@ -106,14 +114,24 @@ h3 {
     position: relative;
   }
   
-  #main-footer {
+  .main-footer {
 	  padding: 0;
     float: none;
     position: relative;
   }
+
+  #main-content + .main-footer {
+    display: block;
+  }
 }
 
 /* ========== MODULE ========== */
+#mc_embed_signup{
+  background:#fff;
+  clear:left;
+  font:14px Helvetica,Arial,sans-serif;
+}
+
 #logo {
   width: 64px;
   height: 64px;
