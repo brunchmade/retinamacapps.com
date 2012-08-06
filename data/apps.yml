@@ -9,22 +9,22 @@
   date: "2012-08-04"
 -
   id: 2
-  name: "Acorn"
-  shortname: "acorn"
-  downloadURL: "http://itunes.apple.com/us/app/acorn-image-editor-for-humans/id402280036?mt=12"
-  developerURL: "http://flyingmeat.com"
-  category: "Graphics & Design"
-  developer: "Flying Meat"
+  name: "Tweetbot"
+  shortname: "tweetbot"
+  downloadURL: "http://tapbots.com/tweetbot_mac/"
+  developerURL: "http://tapbots.com"
+  category: "Social Networking"
+  developer: "Tapbots"
   date: "2012-08-04"
 -
   id: 3
-  name: "Carbon Copy Cloner"
-  shortname: "carboncopycloner"
-  downloadURL: "http://www.bombich.com"
-  developerURL: "http://www.bombich.com"
-  category: "Utilities"
-  developer: "Bombich Software"
-  date: "2012-08-04"
+  name: "Pages"
+  shortname: "pages"
+  downloadURL: "http://itunes.apple.com/us/app/pages/id409201541?mt=12"
+  developerURL: "http://apple.com"
+  category: "Productivity"
+  developer: "Apple"
+  date: "2012-08-05"
 -
   id: 4
   name: "Coda"
@@ -243,12 +243,12 @@
   date: "2012-08-04"
 -
   id: 28
-  name: "Tweetbot"
-  shortname: "tweetbot"
-  downloadURL: "http://tapbots.com/tweetbot_mac/"
-  developerURL: "http://tapbots.com"
-  category: "Social Networking"
-  developer: "Tapbots"
+  name: "Carbon Copy Cloner"
+  shortname: "carboncopycloner"
+  downloadURL: "http://www.bombich.com"
+  developerURL: "http://www.bombich.com"
+  category: "Utilities"
+  developer: "Bombich Software"
   date: "2012-08-04"
 -
   id: 29
@@ -279,13 +279,13 @@
   date: "2012-08-04"
 -
   id: 32
-  name: "Pages"
-  shortname: "pages"
-  downloadURL: "http://itunes.apple.com/us/app/pages/id409201541?mt=12"
-  developerURL: "http://apple.com"
-  category: "Productivity"
-  developer: "Apple"
-  date: "2012-08-05"
+  name: "Acorn"
+  shortname: "acorn"
+  downloadURL: "http://itunes.apple.com/us/app/acorn-image-editor-for-humans/id402280036?mt=12"
+  developerURL: "http://flyingmeat.com"
+  category: "Graphics & Design"
+  developer: "Flying Meat"
+  date: "2012-08-04"
 -
   id: 33
   name: "Keynote"
