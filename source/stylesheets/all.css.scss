@@ -2,11 +2,11 @@
 @import "compass";
 
 /* ========== VARIABLES ========== */
-$sidebarWidth: 140px;
-$gutter: 40px;
+$sidebarWidth: 130px;
+$gutter: 30px;
 $ipadLGutterDelta: 22px;
-$ipadPGutterDelta: 28px;
-$iphoneGutterDelta: 32px;
+$ipadPGutterDelta: 8px;
+$iphoneGutterDelta: 8px;
 $highlight: #1d82c2;
 
 /* ========== BASE ========== */
@@ -25,7 +25,7 @@ p {
 }
 
 h1 {
-	font-size: 1.1em;
+	font-size: 1em;
   margin: $gutter 0;
 }
 
@@ -95,11 +95,21 @@ h3 {
 
 @media screen and (max-width: 480px) {
   #main-header {
-    padding-left: $gutter - $iphoneGutterDelta;
+    padding-left: 0;
+    float: none;
+    position: relative;
   }
 
   #main-content {
-    padding: 0 0 $gutter - $iphoneGutterDelta $sidebarWidth + $gutter - $iphoneGutterDelta;
+    padding: 0;
+    float: none;
+    position: relative;
+  }
+  
+  #main-footer {
+	  padding: 0;
+    float: none;
+    position: relative;
   }
 }
 
@@ -119,6 +129,7 @@ h3 {
   a {
     color: #333;
     text-decoration: none;
+    font-size: 0.8em;
 
     &:hover,
     &focus {
@@ -176,12 +187,12 @@ h3 {
 
 @media screen and (max-width: 480px) {
   .app-item {
-    width: 64px;
+    width: 128px;
     margin: $gutter - $iphoneGutterDelta 0 0 $gutter - $iphoneGutterDelta;
 
     img {
-      width: 64px;
-      height: 64px;
+      width: 128px;
+      height: 128px;
     }
   }
 }
