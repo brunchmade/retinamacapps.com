@@ -2,7 +2,7 @@
 @import "compass";
 
 /* ========== VARIABLES ========== */
-$sidebarWidth: 130px;
+$sidebarWidth: 140px;
 $gutter: 40px;
 $ipadLGutterDelta: 22px;
 $ipadPGutterDelta: 28px;
@@ -29,16 +29,11 @@ h1 {
   margin: $gutter 0;
 }
 
-h3 {
-  color: #333;
-  font-size: 1.5em;
-  margin: 0;
-}
-
-@media screen and (max-width: 1024px) {
-  h1 {
-    margin: $gutter - $ipadLGutterDelta 0;
-  }
+h3 {text-overflow: ellipsis;
+  color: #999;
+  font-size: 0.75em;
+  font-weight: 600;
+  margin: 10px 0 -4px 0;
 }
 
 @media screen and (max-width: 768px) {
@@ -84,16 +79,6 @@ h3 {
 
   p {
 	  margin: 10px 0;
-  }
-}
-
-@media screen and (max-width: 1024px) {
-  #main-header {
-    padding-left: $gutter - $ipadLGutterDelta;
-  }
-
-  #main-content {
-    padding: 0 0 $gutter - $ipadLGutterDelta $sidebarWidth + $gutter - $ipadLGutterDelta;
   }
 }
 
@@ -150,26 +135,28 @@ h3 {
   margin: $gutter 0 0 $gutter;
   float: left;
   position: relative;
+  text-align: center;
 
   > a:first-child {
     display: block;
   }
 
   img {
-    @include transition(width, 0.5s, height, 0.5s);
+    @include transition(width, 0.3s, height, 0.3s);
   }
 }
 
 .developer {
   font-size: 0.7em;
-  color: #999;
+  color: #ddd;
+  text-decoration: none;
+  margin: 0;
+  width: 256px;
 }
-
-@media screen and (max-width: 1024px) {
-  .app-item {
-    margin: $gutter - $ipadLGutterDelta 0 0 $gutter - $ipadLGutterDelta;
-  }
-}
+.developer:hover {
+		color: $highlight;
+		text-decoration: underline;
+	}
 
 @media screen and (max-width: 768px) {
   .app-item {
