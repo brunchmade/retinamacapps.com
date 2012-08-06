@@ -2,14 +2,15 @@
 @import "mixins";
 
 /* ========== VARIABLES ========== */
-$gutter: 50px;
+$gutter: 40px;
 $iphoneGutterDelta: 32px;
 $ipadGutterDelta: 22px;
+$highlight: #1d82c2;
+
 
 /* ========== BASE ========== */
 body {
   font-family: "source-sans-pro", sans-serif;
-  font-size: 13px;
 }
 
 ul {
@@ -41,27 +42,29 @@ h1 {
 
 /* ========== LAYOUT ========== */
 #main-header {
-  width: 120px;
+  width: 130px;
   padding-left: $gutter;
   position: fixed;
 }
 
 #main-content {
-	padding: 0 0 $gutter 120px + $gutter;
+	padding: 0 0 $gutter 140px + $gutter;
 }
 
 #main-footer {
-	width: 120px;
-  margin-top: 140px;
+	width: 130px;
+  margin-top: 130px;
   color: #999;
-  font-size: 9px;
+  font-size: 0.7em;
 
   a {
-    color: #3fbfff;
+    color: #333;
     text-decoration: none;
+    font-size: 1em;
 
     &:hover,
     &focus {
+    	color: $highlight;
       text-decoration: underline;
     }
   }
@@ -104,16 +107,16 @@ h1 {
 
 #main-nav {
   li {
-    margin-bottom: 8px;
+    margin-bottom: 5px;
   }
 
   a {
-  	font-size: 0.9em;
-    color: #3fbfff;
+    color: #333;
     text-decoration: none;
 
     &:hover,
     &focus {
+    	color: $highlight;
       text-decoration: underline;
     }
   }
