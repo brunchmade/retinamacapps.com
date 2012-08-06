@@ -19,18 +19,22 @@ p {
 
 h1 {
   margin: 0;
-  text-indent: -9999px;
 }
 
 /* ========== LAYOUT ========== */
 #main-header {
-  width: 256px;
-  padding: 0 20px;
-  float: left;
+  width: 200px;
+  position: fixed;
+  top: 0;
+  height: 100%;
+  overflow: hidden;
 }
 
 #main-content {
-  width: 100%;
+	position: relative;
+	top: 0;
+	left: 200px;
+	overflow: auto;
 }
 
 #main-footer {
@@ -73,13 +77,13 @@ h1 {
 }
 
 #app-list {
-  overflow: hidden;
+	overflow: scroll;
 }
 
 .app-item {
-  width: 128px;
+  width: 256;
   float: left;
-  margin: 30px;
+  margin: 50px 0 0 50px;
   position: relative;
 }
 

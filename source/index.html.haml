@@ -3,7 +3,7 @@
     - data.apps.each do |a|
       %li{class: "app-item #{a.shortname}"}
         %a{href: "#{a.downloadURL}", title: "Download #{a.name}"}
-          %img{src: "/images/apps/#{a.shortname}.png", alt: "#{a.name}", title: "#{a.name}", width: 128, height: 128}
+          %img{src: "/images/apps/#{a.shortname}.png", alt: "#{a.name}", title: "#{a.name}", width: 256, height: 256}
         .tooltip
           %h3= a.name
           %ul
