@@ -55,7 +55,7 @@ h1 {
 }
 
 #main-content {
-	padding: 0 0 $gutter 120px + $gutter;
+	padding: 0 0 $gutter 130px + $gutter;
   position: relative;;
   z-index: 20;
 }
@@ -156,8 +156,8 @@ h1 {
   position: absolute;
   top: -75px;
   left: -36px;
-  width: 160px;
-  height: 60px;
+  width: 240px;
+  height: 100px;
   padding: 20px;
   background: #fff;
   @include border-radius;
@@ -171,7 +171,7 @@ h1 {
 	}
 	
   a {
-		font-size: 0.8em;
+		font-size: 0.7em;
 		color: #999;
 	}
 
@@ -181,7 +181,7 @@ h1 {
     left: 90px;
     bottom: -23px;
     color: #fff;
-    text-shadow: 0 7px 12px rgba(0, 0, 0, 0.5);
+    text-shadow: 0 9px 7px rgba(0, 0, 0, 0.3);
     font-size: 32px;
   }
 }
