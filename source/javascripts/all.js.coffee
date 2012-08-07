@@ -35,7 +35,7 @@ $(document).ready ->
         file = "sort_recent.html"
 
     $.get "/partials/" + file, (data) ->
-      $("#main-content").fadeOut 250, ->
-        $(this).html(data).fadeIn 300
-      retinajs(true)
-      convertoToMailto()
+      $("#main-content").fadeOut 100, ->
+        $(this).html(data).fadeIn 150
+        retinajs(true)
+        convertoToMailto()
