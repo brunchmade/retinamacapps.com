@@ -1,11 +1,11 @@
 %footer.main-footer
-  %p &#9786; 2012
-  %p  
-    Created by&nbsp;
+
+  %ul
+    %li Crafted by:
     - data.creators.each_with_index do |c, i|
-      %a{href: "#{c.site}", target: "_blank", title: "Visit #{c.name}"}>= c.name
-      - if i === data.creators.size - 2
-        &nbsp;and&nbsp;
-      - elsif i != data.creators.size - 1
-        ,&nbsp;
-  %p All content is copyrighted by their respective owners.
+      %li
+        %a{href: "#{c.site}", target: "_blank", title: "Visit #{c.name}"}>= c.name
+
+  %p 
+    &#9786; 
+    %a#colophonModal= link_to "2012", "#", title: "Colophon"

@@ -23,6 +23,11 @@ $(document).ready ->
   $("#openNewsletterModal").click (e) ->
     e.preventDefault();
     $("#newsletterModal").reveal()
+
+  # Handle colophon click
+  $("#openColophonModal").click (e) ->
+    e.preventDefault();
+    $("#colophonModal").reveal()
   
   # Handle filter select event
   $("#filter").change ->
