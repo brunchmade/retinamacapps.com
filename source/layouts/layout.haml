@@ -18,7 +18,7 @@
 		%script{type: "text/javascript"}
 			try{Typekit.load();}catch(e){}
 
-		= stylesheet_link_tag "normalize", "all"
+		= stylesheet_link_tag "normalize", "reveal", "all"
 		%link{rel: "stylesheet", type: "text/css", href: "http://cdn-images.mailchimp.com/embedcode/slim-081711.css"}
 		%link{rel: "apple-touch-icon-precomposed", sizes: "72x72", href: "/images/Icon-72@2x.png"}
 		%link{rel: "apple-touch-icon-precomposed", sizes: "114x114", href: "/images/Icon@2x.png"}
@@ -30,10 +30,11 @@
 		= yield
 
 		= partial "shared/footer"
+		= partial "shared/_newsletterModal"
+		= partial "shared/_submissionModal"
 
 		%script{type: "text/javascript", src: "https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"}
 		= javascript_include_tag  "all"
-		
 		%script{type: "text/javascript"}
 			var _gaq = _gaq || [];
 			_gaq.push(['_setAccount', 'UA-4881230-16']);

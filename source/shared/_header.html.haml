@@ -4,16 +4,14 @@
 			%a#logo{href: "/", title: "Home"}
 				%img{src: "/images/retinapps.png", alt: "Retina Mac Apps", title: "Retina Mac Apps", width: 64, height: 64}
 			Retina Mac Apps
-
+	
 	%nav
 		%ul#main-nav
-			%li
-				%a#submit{href: "http://retinapps.wufoo.com/forms/z7x3p9", title: "Submit your retina app"} Submit your app
+			%li#openSubmissionModal= link_to "Submit your app", "#", title: "Submit your retina app"
 			%li
 				%a{href: "https://twitter.com/retinapps", target: "_blank", title: "Follow @retinapps"} @retinapps
-			%li
-				%a{href: "#", title: "Subscribe to email updates"} Weekly digest
-
+			%li#openNewsletterModal=link_to "Weekly digest", "#", title: "Subscribe to email updates"
+	
 	%select#filter
 		%option{value: "r"} Most Recent
 		%option{value: "c"} Category
