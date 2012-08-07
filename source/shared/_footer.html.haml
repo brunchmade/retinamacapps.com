@@ -4,7 +4,8 @@
     Created by&nbsp;
     - data.creators.each_with_index do |c, i|
       %a{href: "#{c.site}", target: "_blank", title: "Visit #{c.name}"}>= c.name
-      &nbsp;
-      - unless i === data.creators.size - 1
-        and&nbsp;
+      - if i === data.creators.size - 2
+        &nbsp;and&nbsp;
+      - elsif i != data.creators.size - 1
+        ,&nbsp;
   %p All content is copyrighted by their respective owners.

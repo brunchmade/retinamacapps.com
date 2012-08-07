@@ -15,9 +15,8 @@
 				%a{href: "#", title: "Subscribe to email updates"} Weekly digest
 
 	%select#filter
-		%option Most Recent
-		%option Category
-		%option Name
+		%option{value: "r"} Most Recent
+		%option{value: "c"} Category
+		%option{value: "n"} Name
 
-
-	= partial "shared/_footer"
+	= partial "shared/footer"

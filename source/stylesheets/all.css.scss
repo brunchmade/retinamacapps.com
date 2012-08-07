@@ -31,9 +31,19 @@ h1 {
 
 h3 {
   margin: 10px 0 -4px 0;
-  color: #999;
   font-size: 0.75em;
   font-weight: 600;
+
+  a {
+    color: #999;
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+      color: $highlight;
+      text-decoration: underline;
+    }
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -104,10 +114,10 @@ h3 {
 
 @media screen and (max-width: 480px) {
   #main-header {
+    width: 100%;
     padding: 0;
     float: none;
     position: relative;
-    width: 100%;
     text-align: center;
 
     .main-footer {
@@ -122,8 +132,8 @@ h3 {
   }
   
   .main-footer {
-	  margin: 20px 0;
     width: 100%;
+    margin: 20px 0;
     text-align: center;
 
   	p {
@@ -138,9 +148,9 @@ h3 {
 
 /* ========== MODULE ========== */
 #mc_embed_signup{
-  background:#fff;
-  clear:left;
-  font:14px Helvetica,Arial,sans-serif;
+  background: #fff;
+  clear: left;
+  font: 14px Helvetica, Arial, sans-serif;
 }
 
 #logo {
@@ -227,26 +237,18 @@ h3 {
 
 @media screen and (max-width: 480px) {
   #main-nav {
-	  margin: 0 auto;
 	  width: intrinsic;
+    margin: 0 auto;
 	  
 	  li {
-	  	float: left;
 	  	margin: 0 12px 30px;
+      float: left;
 	  }
   }
   
   #filter {
 	  width: 250px;
 	  height: 30px;
-  }
-  
-  #main-nav:after {
-	  content: ".";
-    display: block;
-    height: 0;
-    clear: both;
-    visibility: hidden;
   }
   
   .app-item {

@@ -1,0 +1,12 @@
+---
+layout: false
+---
+%ul#app-list
+  - sorted = data.apps.sort_by { |a| a[:name] }
+  - sorted.each do |a|
+    %li{class: "app-item #{a.shortname}"}
+      %a{href: "#{a.downloadURL}", class: "application", title: "Download #{a.name}"}
+        %img{src: "/images/apps/#{a.shortname}.png", alt: "#{a.name}", title: "#{a.name}", width: 256, height: 256}
+      %h3
+        %a{href: "#{a.downloadURL}"}= a.name
+      %a{href: "#{a.developerURL}", class: "developer", target: "_blank"}= a.developer
