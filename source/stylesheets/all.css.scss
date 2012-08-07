@@ -260,6 +260,12 @@ h3 {
 }
 
 @media screen and (max-width: 480px) {
+  #logo {
+    img {
+      margin: 0 auto 5px;
+    }
+  }
+
   #main-nav {
 	  width: intrinsic;
     margin: 0 auto;
@@ -360,5 +366,5 @@ h3 {
     iframe {
       max-height: 830px;
     }
-}
+  }
 }
