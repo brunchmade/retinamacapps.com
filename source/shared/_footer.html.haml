@@ -2,7 +2,7 @@
 
   %ul
     %li Crafted by:
-    - data.creators.each_with_index do |c, i|
+    - data.creators.each do |c|
       %li
         %a{href: "#{c.site}", target: "_blank", title: "Visit #{c.name}"}>= c.name
 
