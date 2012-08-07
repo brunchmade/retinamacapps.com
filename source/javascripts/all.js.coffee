@@ -45,3 +45,28 @@ $(document).ready ->
         $(this).html(data).fadeIn 225
         retinajs(true)
         convertoToMailto()
+
+  # GA Event Tracking
+  $(".application").on "click", (e) ->
+    _gaq.push(["_trackEvent", "Application Icon", "Download", $(this).attr "title"])
+
+  $(".application-name").on "click", (e) ->
+    _gaq.push(["_trackEvent", "Application Name", "Download", $(this).attr "title"])
+
+  $(".developer").on "click", (e) ->
+    _gaq.push(["_trackEvent", "Developer Name", "Visit", $(this).attr "title"])
+
+  $("#main-nav a").on "click", (e) ->
+    _gaq.push(["_trackEvent", "Main Nav", "Click", $(this).attr "title"])
+
+  $("#logo").on "click", (e) ->
+    _gaq.push(["_trackEvent", "Main Nav", "Click", $(this).attr "title"])
+
+  $("#openColophonModal").on "click", (e) ->
+    _gaq.push(["_trackEvent", "Main Nav", "Click", $(this).attr "title"])
+
+  $("#creators a").on "click", (e) ->
+    _gaq.push(["_trackEvent", "Creators", "Visit", $(this).attr "title"])
+
+  $("#filter").on "change", (e) ->
+    _gaq.push(["_trackEvent", "Filter", "Change", $(this).val()])
