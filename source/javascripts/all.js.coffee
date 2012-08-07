@@ -1,8 +1,17 @@
 //= require_tree .
 
 $(document).ready ->
-  $(".app-item").mouseenter ->
-    $(this).find(".tooltip").show()
+  retinajs()
 
-  $(".app-item").mouseleave ->
-    $(this).find(".tooltip").hide()
+  $("#filter").change ->
+    switch $(this).val()
+      when "c"
+        file = "sort_cat.html"
+      when "n"
+        file = "sort_name.html"
+      else
+        file = "sort_recent.html"
+
+    $.get "/partials/" + file, (data) ->
+      $("#main-content").html(data)
+      retinajs(true)

@@ -10,7 +10,7 @@
 		%meta{property: "fb:admins", content: "1082730090,1325850192"}
 		%meta{property: "og:description", content: "#{data.config.description}"}
 		%meta{name: "description", content: "#{data.config.description}"}
-		%meta{name: "viewport", content: "width=device-width; maximum-scale=1.0;"}
+		%meta{name: "viewport", content: "width=device-width, maximum-scale=1.0"}
 
 		%title= data.page.title || data.config.description + " - " + data.config.title
 
@@ -25,26 +25,23 @@
 		%link{rel: "shortcut icon", href: "/favicon.png", type: "image/png"}
 
 	%body{class: "#{page_classes}"}
-		= partial "shared/_header"
+		= partial "shared/header"
 
 		= yield
 
-		= partial "shared/_footer"
-
-		%script{type: "text/javascript", src: "https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"}
-		%script{type: "text/javascript", src: "javascripts/retina.js"}
-		= javascript_include_tag "foundation.min", "jquery.foundation.reveal", "all"
-		
+		= partial "shared/footer"
 		= partial "shared/_newsletterModal"
 		= partial "shared/_submissionModal"
-		
-		:javascript
+
+		%script{type: "text/javascript", src: "https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"}
+		= javascript_include_tag  "all"
+		%script{type: "text/javascript"}
 			var _gaq = _gaq || [];
-			_gaq.push(['_setAccount', UA-4881230-16']);
+			_gaq.push(['_setAccount', 'UA-4881230-16']);
 			_gaq.push(['_trackPageview']);
 			(function() {
-				var ga = document.createElement('script');
-				ga.type = 'text/javascript'; ga.async = true;
-				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-			  })();
+			var ga = document.createElement('script');
+			ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();

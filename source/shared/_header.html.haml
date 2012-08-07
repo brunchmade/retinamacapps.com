@@ -13,9 +13,8 @@
 			%li#openNewsletterModal=link_to "Weekly digest", "#", title: "Subscribe to email updates"
 	
 	%select#filter
-		%option Most Recent
-		%option Category
-		%option Name
-	
-	
-	= partial "shared/_footer"
+		%option{value: "r"} Most Recent
+		%option{value: "c"} Category
+		%option{value: "n"} Name
+
+	= partial "shared/footer"

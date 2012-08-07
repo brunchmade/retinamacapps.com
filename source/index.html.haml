@@ -1,8 +1,2 @@
 %article#main-content
-  %ul#app-list
-    - data.apps.each do |a|
-      %li{class: "app-item #{a.shortname}"}
-        %a{href: "#{a.downloadURL}", class: "application", title: "Download #{a.name}"}
-          %img{src: "/images/apps/#{a.shortname}.png", alt: "#{a.name}", title: "#{a.name}", width: 256, height: 256}
-        %h3= a.name
-        %a{href: "#{a.developerURL}", class: "developer", target: "_blank"}= a.developer
+  = partial "partials/sort_default"
