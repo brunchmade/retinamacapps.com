@@ -1,20 +1,3 @@
-/* Requires: normalize.css */
-/* Global Reset & Standards ---------------------- */
-* { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
-
-html { font-size: 62.5%; }
-
-body { background: white; font-size: 14px; line-height: 1; color: #222222; position: relative; -webkit-font-smoothing: antialiased; }
-
-/* Links ---------------------- */
-a { color: #2ba6cb; text-decoration: none; line-height: inherit; }
-
-a:hover { color: #2795b6; }
-
-a:focus { color: #2ba6cb; outline: none; }
-
-p a, p a:visited { line-height: inherit; }
-
 /* Misc ---------------------- */
 .left { float: left; }
 
