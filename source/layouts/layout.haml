@@ -15,7 +15,7 @@
 		%title= data.page.title || data.config.description + " - " + data.config.title
 
 		%script{type: "text/javascript", src: "//use.typekit.net/jvy7zhz.js"}
-		%script{type: "text/javascript"}
+		:javascript
 			try{Typekit.load();}catch(e){}
 
 		= stylesheet_link_tag "normalize", "reveal", "all"
@@ -35,7 +35,19 @@
 
 		%script{type: "text/javascript", src: "https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"}
 		= javascript_include_tag  "all"
-		%script{type: "text/javascript"}
+		:javascript
+			$(document).ready(function() {
+				$('#openNewsletterModal').click(function() {
+					$('#newsletterModal').reveal();
+				});
+			});
+		:javascript
+			$(document).ready(function() {
+				$('#openSubmissionModal').click(function() {
+					$('#submissionModal').reveal();
+				});
+			});
+		:javascript
 			var _gaq = _gaq || [];
 			_gaq.push(['_setAccount', 'UA-4881230-16']);
 			_gaq.push(['_trackPageview']);
