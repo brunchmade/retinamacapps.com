@@ -13,6 +13,16 @@ convertoToMailto = ->
 $(document).ready ->
   retinajs()
   convertoToMailto()
+
+  # Handle submit click
+  $("#openSubmissionModal").click (e) ->
+    e.preventDefault();
+    $("#submissionModal").reveal()
+
+  # Handle digest click
+  $("#openNewsletterModal").click (e) ->
+    e.preventDefault();
+    $("#newsletterModal").reveal()
   
   # Handle filter select event
   $("#filter").change ->
@@ -25,6 +35,7 @@ $(document).ready ->
         file = "sort_recent.html"
 
     $.get "/partials/" + file, (data) ->
-      $("#main-content").html(data)
+      $("#main-content").fadeOut 250, ->
+        $(this).html(data).fadeIn 300
       retinajs(true)
       convertoToMailto()
