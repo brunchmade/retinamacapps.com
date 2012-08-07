@@ -1,4 +1,13 @@
 -
+  id: 39
+  name: "CloudApp"
+  shortname: "cloudapp"
+  downloadURL: "http://itunes.apple.com/us/app/cloud/id417602904?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.getcloudapp.com/"
+  category: "Productivity"
+  developer: "Linebreak"
+  date: "2012-08-07"
+-
   id: 1
   name: "1Password"
   shortname: "1password"
