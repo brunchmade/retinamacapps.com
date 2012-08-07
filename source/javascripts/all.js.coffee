@@ -1,6 +1,8 @@
 //= require_tree .
 
 $(document).ready ->
+  retinajs()
+
   $("#filter").change ->
     switch $(this).val()
       when "c"
@@ -12,3 +14,4 @@ $(document).ready ->
 
     $.get "/partials/" + file, (data) ->
       $("#main-content").html(data)
+      retinajs(true)
