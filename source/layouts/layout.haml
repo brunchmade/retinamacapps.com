@@ -33,7 +33,9 @@
 
 		%script{type: "text/javascript", src: "https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"}
 		%script{type: "text/javascript", src: "javascripts/retina.js"}
-		= javascript_include_tag  "jquery.foundation.reveal", "all"
+		= javascript_include_tag "foundation.min", "jquery.foundation.reveal", "all"
+		
+		= partial "shared/_newsletterModal"
 		
 		:javascript
 			var _gaq = _gaq || [];
