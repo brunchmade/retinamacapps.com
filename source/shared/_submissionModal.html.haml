@@ -1,0 +1,10 @@
+#submissionModal.reveal-modal
+	%h2 HELLO PLEASE
+	= link_to "Wufoo", "http://retinapps.wufoo.com/forms/z7x3p9"
+	%a.close-reveal-modal ×
+:javascript
+	$(document).ready(function() {
+		$('#openSubmissionModal').click(function() {
+			$('#submissionModal').reveal();
+		});
+	});
