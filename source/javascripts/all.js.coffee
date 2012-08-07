@@ -1,8 +1,20 @@
 //= require_tree .
 
+deviceAgent = navigator.userAgent.toLowerCase();
+agent = deviceAgent.match(/(iphone|ipod|ipad|android)/);
+
+# Swap in mailto: for download links on mobile devices
+convertoToMailto = ->
+  $(".application").each ->
+    url = encodeURIComponent $(this).attr "href"
+    msg = encodeURIComponent $(this).attr "title"
+    $(this).attr "href", "mailto:?Subject=This%20app%20looks%20killer%20on%20Retina!&Body=" + msg + "%0d%0a" + url
+
 $(document).ready ->
   retinajs()
-
+  convertoToMailto()
+  
+  # Handle filter select event
   $("#filter").change ->
     switch $(this).val()
       when "c"
@@ -15,3 +27,4 @@ $(document).ready ->
     $.get "/partials/" + file, (data) ->
       $("#main-content").html(data)
       retinajs(true)
+      convertoToMailto()
