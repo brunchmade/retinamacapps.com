@@ -5,10 +5,11 @@ agent = deviceAgent.match(/(iphone|ipod|ipad|android)/);
 
 # Swap in mailto: for download links on mobile devices
 convertoToMailto = ->
-  $(".application").each ->
-    url = encodeURIComponent $(this).attr "href"
-    msg = encodeURIComponent $(this).attr "title"
-    $(this).attr "href", "mailto:?Subject=This%20app%20looks%20killer%20on%20Retina!&Body=" + msg + "%0d%0a" + url
+  if agent
+    $(".application").each ->
+      url = encodeURIComponent $(this).attr "href"
+      msg = encodeURIComponent $(this).attr "title"
+      $(this).attr "href", "mailto:?Subject=This%20app%20looks%20killer%20on%20Retina!&Body=" + msg + "%0d%0a" + url
 
 $(document).ready ->
   retinajs()
