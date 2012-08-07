@@ -191,8 +191,11 @@ h3 {
 }
 
 .app-category {
-  padding: $gutter 0 0 $gutter;
+  padding: $gutter * 2 0 $gutter $gutter;
   clear: both;
+  font-size: 0.8em;
+  font-weight: 600;
+  color: #999;
 }
 
 .app-item {
@@ -204,15 +207,6 @@ h3 {
 
   > a:first-child {
     display: block;
-  }
-
-  img {
-    @include transition(margin, 0.3s);
-
-    &:hover,
-    &:focus {
-			margin-top: -2px;
-    }
   }
 }
 
