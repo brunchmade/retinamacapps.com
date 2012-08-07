@@ -8,7 +8,7 @@ layout: false
     - if category != a.category
       - category = a.category
       %li{class: "app-category"}
-      	%div= a.category
+        %div= a.category
     %li{class: "app-item #{a.shortname}"}
       %a{href: "#{a.downloadURL}", class: "application", title: "Download #{a.name}"}
         %img{src: "/images/apps/#{a.shortname}.png", alt: "#{a.name}", title: "#{a.name}", width: 256, height: 256}

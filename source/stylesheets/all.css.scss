@@ -191,11 +191,19 @@ h3 {
 }
 
 .app-category {
-  padding: $gutter * 2 0 $gutter $gutter;
+  padding: $gutter * 3 0 $gutter / 2 $gutter * 2;
   clear: both;
   font-size: 0.8em;
-  font-weight: 600;
-  color: #999;
+  font-weight: 500;
+  color: #111;
+
+  div {
+    background: #eee;
+    padding: 4px 10px;
+    border-radius: 4px;
+    width: intrinsic;
+  }
+
 }
 
 .app-item {
@@ -226,7 +234,7 @@ h3 {
 
 @media screen and (max-width: 768px) {
   .app-category {
-    padding: $gutter - $ipadPGutterDelta 0 0 $gutter - $ipadPGutterDelta;
+    padding: $gutter * 2 0 $gutter / 2 $gutter;
   }
 
   .app-item {
@@ -257,7 +265,13 @@ h3 {
   }
 
   .app-category {
-    padding: $gutter - $iphoneGutterDelta 0 0 $gutter - $iphoneGutterDelta;
+    padding: $gutter * 2 0 0;
+
+    div {
+      width: 80%;
+      margin: 0 auto;
+      text-align: center;
+    }
   }
   
   .app-item {
