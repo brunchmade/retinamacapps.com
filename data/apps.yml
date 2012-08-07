@@ -2,7 +2,7 @@
   id: 1
   name: "1Password"
   shortname: "1password"
-  downloadURL: "http://itunes.apple.com/us/app/1password-password-manager/id443987910?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/1password-password-manager/id443987910?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "https://agilebits.com"
   category: "Productivity"
   developer: "AgileBits"
@@ -20,7 +20,7 @@
   id: 3
   name: "Pages"
   shortname: "pages"
-  downloadURL: "http://itunes.apple.com/us/app/pages/id409201541?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/pages/id409201541?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://apple.com"
   category: "Productivity"
   developer: "Apple"
@@ -29,7 +29,7 @@
   id: 4
   name: "Coda"
   shortname: "coda"
-  downloadURL: "http://itunes.apple.com/us/app/coda-2/id499340368?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/coda-2/id499340368?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://panic.com"
   category: "Developer Utilities"
   developer: "Panic"
@@ -38,7 +38,7 @@
   id: 5
   name: "Cyberduck"
   shortname: "cyberduck"
-  downloadURL: "http://itunes.apple.com/us/app/cyberduck/id409222199?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/cyberduck/id409222199?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://cyberduck.ch"
   category: "Productivity"
   developer: "David Kocher"
@@ -47,7 +47,7 @@
   id: 6
   name: "Day One"
   shortname: "dayone"
-  downloadURL: "http://itunes.apple.com/us/app/day-one/id422304217?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/day-one/id422304217?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://dayoneapp.com/"
   category: "Lifestyle"
   developer: "Bloom Built"
@@ -56,7 +56,7 @@
   id: 7
   name: "Direct Mail"
   shortname: "directmail"
-  downloadURL: "http://itunes.apple.com/us/app/direct-mail/id500040344?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/direct-mail/id500040344?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://directmailmac.com"
   category: "Business"
   developer: "e3 Software"
@@ -65,7 +65,7 @@
   id: 8
   name: "Evernote"
   shortname: "evernote"
-  downloadURL: "http://itunes.apple.com/us/app/evernote/id406056744?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/evernote/id406056744?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://www.evernote.com/"
   category: "Productivity"
   developer: "Evernote"
@@ -74,7 +74,7 @@
   id: 9
   name: "Fantastical"
   shortname: "fantastical"
-  downloadURL: "http://itunes.apple.com/us/app/fantastical/id435003921?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/fantastical/id435003921?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://flexibits.com"
   category: "Productivity"
   developer: "Flexibits"
@@ -83,7 +83,7 @@
   id: 10
   name: "Fidelia"
   shortname: "fidelia"
-  downloadURL: "http://itunes.apple.com/us/app/fidelia/id416135376?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/fidelia/id416135376?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://www.audiofile-engineering.com"
   category: "Music"
   developer: "Audiofile Engineering"
@@ -92,7 +92,7 @@
   id: 11
   name: "Firetask"
   shortname: "firetask"
-  downloadURL: "http://itunes.apple.com/us/app/firetask/id408035776?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/firetask/id408035776?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://www.firetask.com"
   category: "Productivity"
   developer: "Gerald Aquila"
@@ -128,7 +128,7 @@
   id: 15
   name: "Mac Family Tree"
   shortname: "macfamilytree"
-  downloadURL: "http://itunes.apple.com/us/app/macfamilytree/id402390872?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/macfamilytree/id402390872?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://www.syniumsoftware.com"
   category: "Productivity"
   developer: "Synium Software"
@@ -137,7 +137,7 @@
   id: 16
   name: "Mint"
   shortname: "mint"
-  downloadURL: "http://itunes.apple.com/us/app/mint-quickview/id533491939?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/mint-quickview/id533491939?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://www.mint.com"
   category: "Finance"
   developer: "Mint.com"
@@ -146,7 +146,7 @@
   id: 17
   name: "MoneyWiz"
   shortname: "moneywiz"
-  downloadURL: "http://itunes.apple.com/us/app/moneywiz-personal-finance/id465339122?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/moneywiz-personal-finance/id465339122?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://www.silverwiz.com"
   category: "Finance"
   developer: "SilverWiz"
@@ -164,7 +164,7 @@
   id: 19
   name: "Pulp"
   shortname: "pulp"
-  downloadURL: "http://itunes.apple.com/us/app/pulp/id406857632?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/pulp/id406857632?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://www.acrylicapps.com/pulp/"
   category: "News"
   developer: "Acrylic Software"
@@ -173,7 +173,7 @@
   id: 20
   name: "Reeder"
   shortname: "reeder"
-  downloadURL: "http://itunes.apple.com/us/app/reeder/id439845554?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/reeder/id439845554?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://reederapp.com"
   category: "News"
   developer: "Silvio Rizzi"
@@ -182,7 +182,7 @@
   id: 21
   name: "Slicy"
   shortname: "slicy"
-  downloadURL: "http://itunes.apple.com/us/app/slicy/id512533449?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/slicy/id512533449?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://macrabbit.com"
   category: "Graphics & Design"
   developer: "MacRabbit"
@@ -191,7 +191,7 @@
   id: 22
   name: "Sparrow"
   shortname: "sparrow"
-  downloadURL: "http://itunes.apple.com/us/app/sparrow/id417250177?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/sparrow/id417250177?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://www.sparrowmailapp.com/"
   category: "Productivity"
   developer: "Sparrow"
@@ -209,7 +209,7 @@
   id: 24
   name: "TextExpander"
   shortname: "textexpander"
-  downloadURL: "http://itunes.apple.com/us/app/textexpander-for-mac/id405274824?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/textexpander-for-mac/id405274824?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://smilesoftware.com"
   category: "Productivity"
   developer: "SmileOnMyMac"
@@ -227,7 +227,7 @@
   id: 26
   name: "Transmit"
   shortname: "transmit"
-  downloadURL: "http://itunes.apple.com/us/app/transmit/id403388562?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/transmit/id403388562?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://panic.com"
   category: "Productivity"
   developer: "Panic"
@@ -236,7 +236,7 @@
   id: 27
   name: "Trillian"
   shortname: "trillian"
-  downloadURL: "http://itunes.apple.com/us/app/trillian/id412056820?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/trillian/id412056820?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://www.trillian.im/"
   category: "Social Networking"
   developer: "Cerulean Studios"
@@ -254,7 +254,7 @@
   id: 29
   name: "Twitterrific"
   shortname: "twitterrific"
-  downloadURL: "http://itunes.apple.com/us/app/twitterrific-for-twitter/id414957465?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/twitterrific-for-twitter/id414957465?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://twitterrific.com/mac"
   category: "Social Networking"
   developer: "The Iconfactory"
@@ -272,7 +272,7 @@
   id: 31
   name: "VoodooPad"
   shortname: "voodoopad"
-  downloadURL: "http://itunes.apple.com/us/app/voodoopad-5/id514489722?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/voodoopad-5/id514489722?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://flyingmeat.com"
   category: "Productivity"
   developer: "Flying Meat"
@@ -281,7 +281,7 @@
   id: 32
   name: "Acorn"
   shortname: "acorn"
-  downloadURL: "http://itunes.apple.com/us/app/acorn-image-editor-for-humans/id402280036?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/acorn-image-editor-for-humans/id402280036?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://flyingmeat.com"
   category: "Graphics & Design"
   developer: "Flying Meat"
@@ -290,7 +290,7 @@
   id: 33
   name: "Keynote"
   shortname: "keynote"
-  downloadURL: "http://itunes.apple.com/us/app/keynote/id409183694?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/keynote/id409183694?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://apple.com"
   category: "Productivity"
   developer: "Apple"
@@ -299,7 +299,7 @@
   id: 34
   name: "OS X Server"
   shortname: "server"
-  downloadURL: "http://itunes.apple.com/us/app/os-x-server/id537441259?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/os-x-server/id537441259?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://apple.com"
   category: "Utilities"
   developer: "Apple"
@@ -308,7 +308,7 @@
   id: 35
   name: "Final Cut Pro"
   shortname: "finalcutpro"
-  downloadURL: "http://itunes.apple.com/us/app/final-cut-pro/id424389933?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/final-cut-pro/id424389933?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://apple.com"
   category: "Video"
   developer: "Apple"
@@ -317,7 +317,7 @@
   id: 36
   name: "Numbers"
   shortname: "numbers"
-  downloadURL: "http://itunes.apple.com/us/app/numbers/id409203825?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/numbers/id409203825?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://apple.com"
   category: "Productivity"
   developer: "Apple"
@@ -326,7 +326,7 @@
   id: 37
   name: "Aperture"
   shortname: "aperture"
-  downloadURL: "http://itunes.apple.com/us/app/aperture/id408981426?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/aperture/id408981426?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://apple.com"
   category: "Photography"
   developer: "Apple"
@@ -335,7 +335,7 @@
   id: 38
   name: "Xcode"
   shortname: "xcode"
-  downloadURL: "http://itunes.apple.com/us/app/xcode/id497799835?mt=12"
+  downloadURL: "http://itunes.apple.com/us/app/xcode/id497799835?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://apple.com"
   category: "Developer Tools"
   developer: "Apple"

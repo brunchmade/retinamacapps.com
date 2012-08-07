@@ -22,7 +22,7 @@
 		%link{rel: "stylesheet", type: "text/css", href: "http://cdn-images.mailchimp.com/embedcode/slim-081711.css"}
 		%link{rel: "apple-touch-icon-precomposed", sizes: "72x72", href: "/images/Icon-72@2x.png"}
 		%link{rel: "apple-touch-icon-precomposed", sizes: "114x114", href: "/images/Icon@2x.png"}
-		%link{rel: "shortcut icon", href: "/favicon.ico", type: "image/x-icon"}
+		%link{rel: "shortcut icon", href: "/favicon.png", type: "image/png"}
 
 	%body{class: "#{page_classes}"}
 		= partial "shared/_header"
@@ -33,5 +33,15 @@
 
 		%script{type: "text/javascript", src: "https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"}
 		%script{type: "text/javascript", src: "javascripts/retina.js"}
-		%script{type: "text/javascript", src: "javascripts/wufoo-submit.js"}
 		= javascript_include_tag  "all"
+		
+		:javascript
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', UA-4881230-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script');
+				ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
