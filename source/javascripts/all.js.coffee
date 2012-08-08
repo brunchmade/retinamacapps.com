@@ -65,7 +65,7 @@ $(document).ready ->
   $("#openColophonModal").on "click", (e) ->
     _gaq.push(["_trackEvent", "Main Nav", "Click", $(this).attr "title"])
 
-  $("#creators a").on "click", (e) ->
+  $(".creators a").on "click", (e) ->
     _gaq.push(["_trackEvent", "Creators", "Visit", $(this).attr "title"])
 
   $("#filter").on "change", (e) ->
