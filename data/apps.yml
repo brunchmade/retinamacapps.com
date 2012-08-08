@@ -1,4 +1,22 @@
 -
+  id: 55
+  name: "Rdio"
+  shortname: "rdio"
+  downloadURL: "http://www.rdio.com/apps/"
+  developerURL: "http://rdio.com"
+  category: "Music"
+  developer: "Rdio, Inc."
+  date: "2012-08-08"
+-
+  id: 54
+  name: "Skitch"
+  shortname: "skitch"
+  downloadURL: "http://itunes.apple.com/us/app/skitch/id425955336?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://evernote.com/skitch/"
+  category: "Productivity"
+  developer: "Evernote"
+  date: "2012-08-08"
+-
   id: 53
   name: "SourceTree"
   shortname: "sourcetree"
@@ -45,12 +63,12 @@
   date: "2012-08-08"
 -
   id: 48
-  name: "Dash"
-  shortname: "dash"
-  downloadURL: "http://itunes.apple.com/us/app/dash-docs-snippets/id458034879?mt=12&partnerId=30&siteID=XiIlgOb99EY"
-  developerURL: "http://kapeli.com/dash/"
-  category: "Developer Tools"
-  developer: "Kapeli"
+  name: "Glow for FB"
+  shortname: "glowforfb"
+  downloadURL: "http://www.glowforfb.com"
+  developerURL: "http://raffael.me"
+  category: "Social Networking"
+  developer: "Raffael Hannemann"
   date: "2012-08-08"
 -
   id: 47
@@ -108,12 +126,12 @@
   date: "2012-08-08"
 -
   id: 40
-  name: "Glow for FB"
-  shortname: "glowforfb"
-  downloadURL: "http://www.glowforfb.com"
-  developerURL: "http://raffael.me"
-  category: "Social Networking"
-  developer: "Raffael Hannemann"
+  name: "Dash"
+  shortname: "dash"
+  downloadURL: "http://itunes.apple.com/us/app/dash-docs-snippets/id458034879?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://kapeli.com/dash/"
+  category: "Developer Tools"
+  developer: "Kapeli"
   date: "2012-08-08"
 -
   id: 39
