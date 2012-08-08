@@ -1,4 +1,121 @@
 -
+  id: 53
+  name: "SourceTree"
+  shortname: "sourcetree"
+  downloadURL: "http://www.sourcetreeapp.com"
+  developerURL: "http://www.sourcetreeapp.com"
+  category: "Developer Tools"
+  developer: "Atlassian"
+  date: "2012-08-08"
+-
+  id: 52
+  name: "DragonDrop"
+  shortname: "dragondrop"
+  downloadURL: "http://itunes.apple.com/us/app/dragondrop/id499148234?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "https://twitter.com/shinypb"
+  category: "Utilities"
+  developer: "Whimsicalifornia"
+  date: "2012-08-08"
+-
+  id: 51
+  name: "MacJournal"
+  shortname: "macjournal"
+  downloadURL: "https://www.marinersoftware.com/products/macjournal/"
+  developerURL: "http://marinersoftware.com"
+  category: "Productivity"
+  developer: "Mariner/Dan Schimpf"
+  date: "2012-08-08"
+-
+  id: 50
+  name: "PaintCode"
+  shortname: "paintcode"
+  downloadURL: "http://itunes.apple.com/us/app/paintcode/id507897570?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.paintcodeapp.com"
+  category: "Productivity"
+  developer: "PixelCut"
+  date: "2012-08-08"
+-
+  id: 49
+  name: "ByteController"
+  shortname: "bytecontroller"
+  downloadURL: "http://itunes.apple.com/us/app/bytecontroller/id542035956?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://awil.no"
+  category: "Utilities"
+  developer: "Audun Wilhelmsen"
+  date: "2012-08-08"
+-
+  id: 48
+  name: "Dash"
+  shortname: "dash"
+  downloadURL: "http://itunes.apple.com/us/app/dash-docs-snippets/id458034879?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://kapeli.com/dash/"
+  category: "Developer Tools"
+  developer: "Kapeli"
+  date: "2012-08-08"
+-
+  id: 47
+  name: "Space Gremlin"
+  shortname: "spacegremlin"
+  downloadURL: "http://itunes.apple.com/us/app/space-gremlin/id414515628?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.spacegremlinapp.com/"
+  category: "Utilities"
+  developer: "Sean Christmann"
+  date: "2012-08-08"
+-
+  id: 46
+  name: "YoruFukurou"
+  shortname: "yorufukurou"
+  downloadURL: "https://sites.google.com/site/yorufukurou/home-en"
+  developerURL: "http://aki-null.net/"
+  category: "Social Networking"
+  developer: "@aki & @hydroxygenic"
+  date: "2012-08-08"
+-
+  id: 45
+  name: "Crunch"
+  shortname: "crunch"
+  downloadURL: "http://www.pragmaticcode.com/crunch/"
+  developerURL: "http://www.pragmaticcode.com/"
+  category: "Developer Tools"
+  developer: "Pragmatic Code"
+  date: "2012-08-08"
+-
+  id: 44
+  name: "Iron Money"
+  shortname: "ironmoney"
+  downloadURL: "http://itunes.apple.com/us/app/iron-money/id412762095&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "https://ironmoney.com/mac/"
+  category: "Finance"
+  developer: "Iron Money"
+  date: "2012-08-08"
+-
+  id: 42
+  name: "Armadillo Audio Notes"
+  shortname: "armadilloaudionotes"
+  downloadURL: "http://itunes.apple.com/de/app/armadillo-audio-notes/id532223938?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.fluxforge.com"
+  category: "Productivity"
+  developer: "Flux Forge"
+  date: "2012-08-08"
+-
+  id: 41
+  name: "InstaDesk"
+  shortname: "instadesk"
+  downloadURL: "http://itunes.apple.com/de/app/instadesk-best-mac-app-for/id428652446?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.instadesk-app.com"
+  category: "Social Networking"
+  developer: "Benedikt Terhechte"
+  date: "2012-08-08"
+-
+  id: 40
+  name: "Glow for FB"
+  shortname: "glowforfb"
+  downloadURL: "http://www.glowforfb.com"
+  developerURL: "http://raffael.me"
+  category: "Social Networking"
+  developer: "Raffael Hannemann"
+  date: "2012-08-08"
+-
   id: 39
   name: "CloudApp"
   shortname: "cloudapp"
