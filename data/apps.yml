@@ -1,4 +1,58 @@
 -
+  id: 61
+  name: "Pixelmator"
+  shortname: "pixelmator"
+  downloadURL: "http://itunes.apple.com/us/app/pixelmator/id407963104?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://pixelmator.com"
+  category: "Graphics & Design"
+  developer: "Pixelmator Team Ltd."
+  date: "2012-08-09"
+-
+  id: 60
+  name: "Play by Play"
+  shortname: "playbyplay"
+  downloadURL: "http://itunes.apple.com/us/app/play-by-play/id474543724?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://davidkeegan.com"
+  category: "Graphics & Design"
+  developer: "David Keegan"
+  date: "2012-08-09"
+-
+  id: 59
+  name: "Clocks"
+  shortname: "clocks"
+  downloadURL: "http://itunes.apple.com/app/clocks/id414554506?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.studiodalton.com/"
+  category: "Utilities"
+  developer: "Studio Dalton"
+  date: "2012-08-09"
+-
+  id: 58
+  name: "CopyPath"
+  shortname: "copypath"
+  downloadURL: "http://itunes.apple.com/us/app/copypath/id418079031?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://davidkeegan.com"
+  category: "Utilities"
+  developer: "David Keegan"
+  date: "2012-08-09"
+-
+  id: 57
+  name: "ShellTo"
+  shortname: "shellto"
+  downloadURL: "http://itunes.apple.com/us/app/shellto/id418075847?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://davidkeegan.com"
+  category: "Utilities"
+  developer: "David Keegan"
+  date: "2012-08-09"
+-
+  id: 56
+  name: "ZOC"
+  shortname: "zoc"
+  downloadURL: "http://www.emtec.com/zoc"
+  developerURL: "http://www.emtec.com"
+  category: "Utilities"
+  developer: "EmTec, Markus Schmidt"
+  date: "2012-08-09"
+-
   id: 55
   name: "Rdio"
   shortname: "rdio"
@@ -182,7 +236,7 @@
   id: 5
   name: "Cyberduck"
   shortname: "cyberduck"
-  downloadURL: "http://itunes.apple.com/us/app/cyberduck/id409222199?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  downloadURL: "http://update.cyberduck.ch/nightly/"
   developerURL: "http://cyberduck.ch"
   category: "Productivity"
   developer: "David Kocher"
