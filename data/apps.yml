@@ -1,4 +1,13 @@
 -
+  id: 62
+  name: "Things 2"
+  shortname: "things2"
+  downloadURL: "http://itunes.apple.com/us/app/things/id407951449?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://culturedcode.com"
+  category: "Productivity"
+  developer: "Cultured Code"
+  date: "2012-08-09"
+-
   id: 61
   name: "Pixelmator"
   shortname: "pixelmator"
