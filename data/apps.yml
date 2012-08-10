@@ -1,4 +1,13 @@
 -
+  id: 63
+  name: "iA Writer"
+  shortname: "iawriter"
+  downloadURL: "http://itunes.apple.com/us/app/ia-writer/id439623248?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://informationarchitects.net"
+  category: "Productivity"
+  developer: "Information Architects"
+  date: "2012-08-10"
+-
   id: 62
   name: "Things 2"
   shortname: "things2"
