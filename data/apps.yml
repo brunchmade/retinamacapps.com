@@ -1,4 +1,67 @@
 -
+  id: 71
+  name: "Skala Preview"
+  shortname: "skalapreview"
+  downloadURL: "http://itunes.apple.com/us/app/skala-preview/id498875079?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.bjango.com"
+  category: "Graphics & Design"
+  developer: "Bjango"
+  date: "2012-08-13"
+-
+  id: 70
+  name: "Ejector Seat"
+  shortname: "ejectorseat"
+  downloadURL: "http://boxcarsoftwa.re/ejectorseat"
+  developerURL: "http://boxcarsoftwa.re"
+  category: "Productivity"
+  developer: "Boxcar Software"
+  date: "2012-08-13"
+-
+  id: 69
+  name: "Caffeinated"
+  shortname: "caffeinated"
+  downloadURL: "http://itunes.apple.com/app/caffeinated/id502378856?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.geekygoodness.com/"
+  category: "News"
+  developer: "Curtis Hard"
+  date: "2012-08-13"
+-
+  id: 68
+  name: "Skip Tunes"
+  shortname: "skiptunes"
+  downloadURL: "http://itunes.apple.com/us/app/skip-tunes/id499695659?mt=12"
+  developerURL: "http://www.skiptunes.com"
+  category: "Music"
+  developer: "Skip Tunes"
+  date: "2012-08-13"
+-
+  id: 67
+  name: "IP Scanner"
+  shortname: "ipscanner"
+  downloadURL: "http://itunes.apple.com/us/app/ip-scanner-pro/id404167677?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://10base-t.com"
+  category: "Utilities"
+  developer: "10base-t Interactive"
+  date: "2012-08-13"
+-
+  id: 66
+  name: "OsiriX"
+  shortname: "osirix"
+  downloadURL: "http://www.osirix-viewer.com"
+  developerURL: "http://www.pixmeo.com"
+  category: "Medical"
+  developer: "Pixmeo"
+  date: "2012-08-13"
+-
+  id: 65
+  name: "DropCopy"
+  shortname: "dropcopy"
+  downloadURL: "http://itunes.apple.com/app/dropcopy/id403411542?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://10base-t.com"
+  category: "Productivity"
+  developer: "10base-t Interactive"
+  date: "2012-08-13"
+-
   id: 64
   name: "SpellTower"
   shortname: "spelltower"
