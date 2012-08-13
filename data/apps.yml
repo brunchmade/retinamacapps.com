@@ -1,4 +1,13 @@
 -
+  id: 72
+  name: "MoneyMoney"
+  shortname: "moneymoney"
+  downloadURL: "http://itunes.apple.com/us/app/moneymoney-banking/id418789307?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://moneymoney-app.com"
+  category: "Finance"
+  developer: "Raureif"
+  date: "2012-08-13"
+-
   id: 71
   name: "Skala Preview"
   shortname: "skalapreview"
