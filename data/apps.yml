@@ -1,4 +1,22 @@
 -
+  id: 74
+  name: "doo"
+  shortname: "doo"
+  downloadURL: "http://doo.net"
+  developerURL: "http://doo.net"
+  category: "Productivity"
+  developer: "doo GmbH"
+  date: "2012-08-13"
+-
+  id: 73
+  name: "Magic Maps"
+  shortname: "magicmaps"
+  downloadURL: "http://itunes.apple.com/us/app/magic-maps/id426030785?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://magicmaps.evanmiller.org/"
+  category: "Graphics & Design"
+  developer: "Evan Miller"
+  date: "2012-08-13"
+-
   id: 72
   name: "MoneyMoney"
   shortname: "moneymoney"
