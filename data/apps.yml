@@ -1,4 +1,13 @@
 -
+  id: 78
+  name: "Sudoku Touch"
+  shortname: "sudokutouch"
+  downloadURL: "http://itunes.apple.com/au/app/sudoku-touch/id512407879?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://getshinythings.com"
+  category: "Games"
+  developer: "Shiny Things Software"
+  date: "2012-08-13"
+-
   id: 77
   name: "Disk Alarm"
   shortname: "diskalarm"
