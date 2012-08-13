@@ -1,4 +1,13 @@
 -
+  id: 77
+  name: "Carousel"
+  shortname: "carousel"
+  downloadURL: "http://itunes.apple.com/us/app/carousel-best-way-to-experience/id437548184?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://mobelux.com"
+  category: "Social Networking"
+  developer: "Mobelux"
+  date: "2012-08-13"
+-
   id: 76
   name: "Multimon"
   shortname: "multimon"
