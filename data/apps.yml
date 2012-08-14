@@ -1,4 +1,85 @@
 -
+  id: 87
+  name: "Gemini: The Duplicate Finder"
+  shortname: "gemini"
+  downloadURL: "http://itunes.apple.com/us/app/gemini-the-duplicate-finder/id463541543?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://macpaw.com"
+  category: "Utilities"
+  developer: "MacPaw"
+  date: "2012-08-14"
+-
+  id: 86
+  name: "CleanMyDrive"
+  shortname: "cleanmydrive"
+  downloadURL: "http://itunes.apple.com/us/app/cleanmydrive-external-drives/id523620159?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://macpaw.com"
+  category: "Utilities"
+  developer: "MacPaw"
+  date: "2012-08-14"
+-
+  id: 85
+  name: "Sword & Sworcery EP"
+  shortname: "swordandsworceryep"
+  downloadURL: "http://itunes.apple.com/us/app/superbrothers-sword-sworcery/id530661872?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.swordandsworcery.com/"
+  category: "Games"
+  developer: "Superbrothers"
+  date: "2012-08-14"
+-
+  id: 84
+  name: "djay"
+  shortname: "djay"
+  downloadURL: "http://itunes.apple.com/us/app/djay/id411699771?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.algoriddim.com"
+  category: "Music"
+  developer: "Algoriddim"
+  date: "2012-08-14"
+-
+  id: 83
+  name: "JPEGmini"
+  shortname: "jpegmini"
+  downloadURL: "http://itunes.apple.com/us/app/jpegmini/id498944723?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.jpegmini.com"
+  category: "Photography"
+  developer: "JPEGmini"
+  date: "2012-08-14"
+-
+  id: 82
+  name: "Favs"
+  shortname: "favs"
+  downloadURL: "http://itunes.apple.com/us/app/favs/id436961703?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.favsapp.com"
+  category: "Social Networking"
+  developer: "Dirk Holtwick"
+  date: "2012-08-14"
+-
+  id: 81
+  name: "Inkist"
+  shortname: "inkist"
+  downloadURL: "http://itunes.apple.com/us/app/inkist/id518640757?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://inki.st/"
+  category: "Graphics & Design"
+  developer: "Tai Shimizu"
+  date: "2012-08-14"
+-
+  id: 80
+  name: "Star Wars: The Force Unleashed"
+  shortname: "starwarstheforceunleashed"
+  downloadURL: "http://itunes.apple.com/us/app/star-wars-the-force-unleashed/id515003911?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.aspyr.com"
+  category: "Games"
+  developer: "Aspyr Media"
+  date: "2012-08-14"
+-
+  id: 79
+  name: "PDF Toolkit"
+  shortname: "pdftoolkit"
+  downloadURL: "http://itunes.apple.com/us/app/pdf-toolkit/id405219581?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://molsim.info/mobsci/pdftoolkit.html"
+  category: "Productivity"
+  developer: "Mobile Science Apps"
+  date: "2012-08-14"
+-
   id: 78
   name: "Sudoku Touch"
   shortname: "sudokutouch"
