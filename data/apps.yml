@@ -1,4 +1,58 @@
 -
+  id: 93
+  name: "MarsEdit"
+  shortname: "marsedit"
+  downloadURL: "http://itunes.apple.com/us/app/marsedit-blog-editor-for-wordpress/id402376225?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.red-sweater.com/"
+  category: "Social Networking"
+  developer: "Red Sweater Software"
+  date: "2012-08-14"
+-
+  id: 92
+  name: "Wallpaper Wizard"
+  shortname: "wallpaperwizard"
+  downloadURL: "http://itunes.apple.com/us/app/wallpaper-wizard/id410801088?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://coppertino.com/"
+  category: "Utilities"
+  developer: "Coppertino Inc."
+  date: "2012-08-14"
+-
+  id: 91
+  name: "Twins Duplicate Finder"
+  shortname: "twins"
+  downloadURL: "http://itunes.apple.com/us/app/twins-duplicate-finder/id502961959?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.rockysandstudio.com"
+  category: "Utilities"
+  developer: "Rocky Sand Studios"
+  date: "2012-08-14"
+-
+  id: 90
+  name: "BeHealthy"
+  shortname: "behealthy"
+  downloadURL: "http://itunes.apple.com/us/app/behealthy/id442127171?mt=12partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://wunderkopf.com/"
+  category: "Health & Fitness"
+  developer: "Wunderkopf"
+  date: "2012-08-14"
+-
+  id: 89
+  name: "CopyLess"
+  shortname: "copyless"
+  downloadURL: "http://itunes.apple.com/us/app/copyless/id416439303?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.maxbor.net"
+  category: "Productivity"
+  developer: "maxbor"
+  date: "2012-08-14"
+-
+  id: 88
+  name: "ePic"
+  shortname: "epic"
+  downloadURL: "http://itunes.apple.com/us/app/epic/id428768193?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://epicreal.com"
+  category: "Entertainment"
+  developer: "Epicreal Team"
+  date: "2012-08-14"
+-
   id: 87
   name: "Gemini"
   shortname: "gemini"
