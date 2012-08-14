@@ -1,4 +1,13 @@
 -
+  id: 94
+  name: "Lens•Lab"
+  shortname: "lenslab"
+  downloadURL: "http://itunes.apple.com/us/app/lens-lab/id452548360?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://jeffmenter.wordpress.com/lens•lab/"
+  category: "Photography "
+  developer: "Jeff Menter"
+  date: "2012-08-14"
+-
   id: 93
   name: "MarsEdit"
   shortname: "marsedit"
