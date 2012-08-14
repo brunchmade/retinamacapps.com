@@ -1,10 +1,19 @@
 -
+  id: 95
+  name: "iTeleport"
+  shortname: "iteleport"
+  downloadURL: "http://itunes.apple.com/us/app/iteleport-vnc/id489094439?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.iteleportmobile.com"
+  category: "Utilities"
+  developer: "iTeleport VNC"
+  date: "2012-08-14"
+-
   id: 94
   name: "Lens•Lab"
   shortname: "lenslab"
   downloadURL: "http://itunes.apple.com/us/app/lens-lab/id452548360?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://jeffmenter.wordpress.com/lens•lab/"
-  category: "Photography "
+  category: "Photography"
   developer: "Jeff Menter"
   date: "2012-08-14"
 -
