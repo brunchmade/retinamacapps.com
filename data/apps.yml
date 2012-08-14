@@ -1,4 +1,13 @@
 -
+  id: 96
+  name: "Byword"
+  shortname: "byword"
+  downloadURL: "hhttp://itunes.apple.com/us/app/byword/id420212497?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://metaclassy.com/"
+  category: "Productivity"
+  developer: "Metaclassy, Lda."
+  date: "2012-08-14"
+-
   id: 95
   name: "iTeleport"
   shortname: "iteleport"
