@@ -1,4 +1,49 @@
 -
+  id: 106
+  name: "iStudiez Pro"
+  shortname: "istudiezpro"
+  downloadURL: "http://itunes.apple.com/us/app/istudiez-pro/id402989379?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.istudentpro.com"
+  category: "Productivity"
+  developer: "iStudiez Team"
+  date: "2012-08-15"
+-
+  id: 105
+  name: "File Storage Companion"
+  shortname: "filestoragecompanion"
+  downloadURL: "http://itunes.apple.com/app/file-storage-companion/id537235560?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://delitestudio.com"
+  category: "Productivity"
+  developer: "Delite Studio S.r.l."
+  date: "2012-08-15"
+-
+  id: 104
+  name: "Prices Drop Monitor for Amazon"
+  shortname: "pricesdropmonitorforamazon"
+  downloadURL: "http://itunes.apple.com/app/prices-drop-monitor-for-amazon/id473939551?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://delitestudio.com"
+  category: "Lifestyle"
+  developer: "Delite Studio S.r.l."
+  date: "2012-08-15"
+-
+  id: 103
+  name: "Browser Care"
+  shortname: "browsercare"
+  downloadURL: "http://itunes.apple.com/us/app/browser-care/id531173832?l=it&ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://browsercare.com"
+  category: "Utilities"
+  developer: "Giovanni Maria Cusaro"
+  date: "2012-08-15"
+-
+  id: 102
+  name: "HazeOver"
+  shortname: "hazeover"
+  downloadURL: "http://itunes.apple.com/us/app/hazeover/id430798174?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.hazeover.com"
+  category: "Productivity"
+  developer: "Maxim Ananov"
+  date: "2012-08-15"
+-
   id: 101
   name: "FxFactory"
   shortname: "fxfactory"
