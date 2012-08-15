@@ -11,23 +11,36 @@ convertoToMailto = ->
       msg = encodeURIComponent $(this).attr "title"
       $(this).attr "href", "mailto:?Subject=This%20app%20looks%20killer%20on%20Retina!&Body=" + msg + "%0d%0a" + url
 
+# Handle ajax to search apps
+searchApps = (s) ->
+  $.ajax
+    url: "/partials/search.html"
+    type: "post"
+    data: s
+    dataType: "html"
+    success: (data) ->
+      $("#main-content").fadeOut 175, ->
+        $(this).html(data).fadeIn 225
+        retinajs(true)
+        convertoToMailto()
+
 $(document).ready ->
   retinajs()
   convertoToMailto()
-
+  
   # Handle submit click
   $("#openSubmissionModal").click (e) ->
-    e.preventDefault();
+    e.preventDefault()
     $("#submissionModal").reveal()
 
   # Handle digest click
   $("#openNewsletterModal").click (e) ->
-    e.preventDefault();
+    e.preventDefault()
     $("#newsletterModal").reveal()
 
   # Handle colophon click
   $("#openColophonModal").click (e) ->
-    e.preventDefault();
+    e.preventDefault()
     $("#colophonModal").reveal()
   
   # Handle filter select event
@@ -45,6 +58,19 @@ $(document).ready ->
         $(this).html(data).fadeIn 225
         retinajs(true)
         convertoToMailto()
+
+  # Handle search submit
+  $("#searchForm").submit (e) ->
+    unless $(this).find("#search").val() is ''
+      formData = $(this).serialize()
+      searchApps(formData) if formData
+    return false
+
+  # Handle search keyup event
+  $("#searchForm").keyup ->
+    unless $(this).find("#search").val() is ''
+      formData = $(this).serialize()
+      searchApps(formData)
 
   # GA Event Tracking
   $(".application").on "click", (e) ->
@@ -70,3 +96,6 @@ $(document).ready ->
 
   $("#filter").on "change", (e) ->
     _gaq.push(["_trackEvent", "Filter", "Change", $(this).val()])
+
+  $("#search").on "focus", (e) ->
+    _gaq.push(["_trackEvent", "Search", "Focus"])

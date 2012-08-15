@@ -199,6 +199,14 @@ h3 {
   font-family: inherit;
 }
 
+#search {
+  width: $sidebarWidth - 10;
+  margin-bottom: 5px;
+  padding: 4px;
+  border: 1px solid #eee;
+  font-size: 12px;
+}
+
 #social{
   margin-top: 50px;
 }

@@ -10,7 +10,10 @@
 			%li#openSubmissionModal= link_to "Submit your app", "#", title: "Submit your retina app"
 			%li#openNewsletterModal= link_to "Weekly digest", "#", title: "Subscribe to email updates"
 			%li= link_to "@retinapps", "https://twitter.com/retinapps", title: "Follow @retinapps", target: "_blank"
-	
+
+	%form#searchForm
+		%input#search{name: "search", type: "text", val: "", placeholder: "search"}
+
 	%select#filter
 		%option{value: "r"} Most Recent
 		%option{value: "c"} Category
