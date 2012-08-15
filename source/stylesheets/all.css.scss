@@ -198,22 +198,11 @@ h3 {
   text-align: center;
 }
 
-#search {
-  width: 200px;
-  margin: 20px 0;
-  padding: 4px 0 3px 25px;
-  background: url("../images/search.png") no-repeat left center;
-  border: 1px solid #eee;
-  @include border-radius(20px);
-  font-family: "source-sans-pro", sans-serif;
-  font-size: 14px;
-}
-
-@media (-webkit-min-device-pixel-ratio: 2) {
-  #search {
-    background: url('../images/search@2x.png') no-repeat left center;
-    background-size: 21px 15px;
-  }
+input[type="search"] {
+  -webkit-appearance: searchfield;
+  box-sizing: border-box;
+  width: 220px;
+  margin: 30px 0 0;
 }
 
 #social{
@@ -225,6 +214,19 @@ h3 {
 
   .nothing {
     font-size: 14px;
+    margin: 30px;
+    text-align: center;
+
+    &a{
+    color: #999;
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+      color: $highlight;
+      text-decoration: underline;
+    }
+  }
   }
 }
 
@@ -326,6 +328,11 @@ h3 {
     }
   }
   
+  input[type="search"] {
+    width: 250px;
+    margin: 30px 0;
+  }
+
   .app-item {
     width: 128px;
     margin: $gutter - $iphoneGutterDelta 0 0 $gutter - $iphoneGutterDelta;
