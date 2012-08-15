@@ -175,11 +175,6 @@ h3 {
     margin-bottom: 5px;
   }
 
-  #getFeatured {
-    background: #cbeafe;
-    border-radius: 4px;
-  }
-
   a {
     color: #333;
     text-decoration: none;
@@ -199,23 +194,27 @@ h3 {
   font-family: inherit;
 }
 
+#searchForm {
+  text-align: center;
+}
+
 #search {
-  font-family: "source-sans-pro", sans-serif;
-  background: url("../images/search.png") no-repeat left center;
   width: 200px;
   margin: 20px 0;
   padding: 4px 0 3px 25px;
+  background: url("../images/search.png") no-repeat left center;
   border: 1px solid #eee;
+  @include border-radius(20px);
+  font-family: "source-sans-pro", sans-serif;
   font-size: 14px;
-  border-radius: 20px;
 }
-@media (-webkit-min-device-pixel-ratio: 2){
+
+@media (-webkit-min-device-pixel-ratio: 2) {
   #search {
     background: url('../images/search@2x.png') no-repeat left center;
     background-size: 21px 15px;
   }
 }
-
 
 #social{
   margin-top: 50px;
@@ -232,10 +231,14 @@ h3 {
   font-weight: 500;
   color: #111;
 
+  &:first-child {
+    padding-top: $gutter;
+  }
+
   div {
     background: #eee;
     padding: 4px 10px;
-    border-radius: 4px;
+    @include border-radius(4px);
     width: intrinsic;
   }
 }

@@ -27,7 +27,12 @@
 	%body{class: "#{page_classes}"}
 		= partial "shared/header"
 
-		= yield
+		%article#main-content
+			%form#searchForm
+				%input#search{name: "search", type: "text", val: "", placeholder: "Search apps"}
+
+			#app-wrapper
+				= yield
 
 		= partial "shared/footer"
 		= partial "shared/_newsletterModal"

@@ -11,18 +11,38 @@ convertoToMailto = ->
       msg = encodeURIComponent $(this).attr "title"
       $(this).attr "href", "mailto:?Subject=This%20app%20looks%20killer%20on%20Retina!&Body=" + msg + "%0d%0a" + url
 
+# Handler get request for filter
+filterChange = (val) ->
+  switch val
+    when "c"
+      file = "sort_cat.html"
+    when "n"
+      file = "sort_name.html"
+    else
+      file = "sort_recent.html"
+
+  $.get "/partials/" + file, (data) ->
+    $("#app-wrapper").fadeOut 175, ->
+      $(this).html(data).fadeIn 225
+      retinajs(true)
+      convertoToMailto()
+
 # Handle ajax to search apps
-searchApps = (s) ->
-  $.ajax
-    url: "/partials/search.html"
-    type: "post"
-    data: s
-    dataType: "html"
-    success: (data) ->
-      $("#main-content").fadeOut 175, ->
-        $(this).html(data).fadeIn 225
-        retinajs(true)
-        convertoToMailto()
+searchApps = ->
+  unless $("#searchForm").find("#search").val() is ''
+    formData = $("#searchForm").serialize()
+    $.ajax
+      url: "/partials/search.html"
+      type: "post"
+      data: formData
+      dataType: "html"
+      success: (data) ->
+        $("#app-wrapper").fadeOut 175, ->
+          $(this).html(data).fadeIn 225
+          retinajs(true)
+          convertoToMailto()
+  else
+    filterChange $("#filter").val()
 
 $(document).ready ->
   retinajs()
@@ -45,32 +65,16 @@ $(document).ready ->
   
   # Handle filter select event
   $("#filter").change ->
-    switch $(this).val()
-      when "c"
-        file = "sort_cat.html"
-      when "n"
-        file = "sort_name.html"
-      else
-        file = "sort_recent.html"
-
-    $.get "/partials/" + file, (data) ->
-      $("#main-content").fadeOut 175, ->
-        $(this).html(data).fadeIn 225
-        retinajs(true)
-        convertoToMailto()
+    filterChange $(this).val()
 
   # Handle search submit
   $("#searchForm").submit (e) ->
-    unless $(this).find("#search").val() is ''
-      formData = $(this).serialize()
-      searchApps(formData) if formData
+    searchApps()
     return false
 
   # Handle search keyup event
   $("#searchForm").keyup ->
-    unless $(this).find("#search").val() is ''
-      formData = $(this).serialize()
-      searchApps(formData)
+    searchApps()
 
   # GA Event Tracking
   $(".application").on "click", (e) ->
