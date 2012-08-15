@@ -1,8 +1,53 @@
 -
+  id: 101
+  name: "FxFactory"
+  shortname: "fxfactory"
+  downloadURL: "http://www.noiseindustries.com/fxfactory/download/"
+  developerURL: "http://www.noiseindustries.com"
+  category: "Video"
+  developer: "Noise Industries"
+  date: "2012-08-14"
+-
+  id: 100
+  name: "Desktop Calendar Plus"
+  shortname: "desktopcalendarplus"
+  downloadURL: "http://itunes.apple.com/app/desktop-calendar-plus/id524688159?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://3fl.jp/dcp/"
+  category: "Utilities"
+  developer: "3flab, inc."
+  date: "2012-08-14"
+-
+  id: 99
+  name: "BreakTime"
+  shortname: "breaktime"
+  downloadURL: "http://itunes.apple.com/us/app/breaktime/id427475982?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://excitedpixel.com"
+  category: "Productivity"
+  developer: "Excited Pixel"
+  date: "2012-08-14"
+-
+  id: 98
+  name: "Double Decker"
+  shortname: "doubledecker"
+  downloadURL: "http://itunes.apple.com/us/app/double-decker/id514177303?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://toohardbasket.com"
+  category: "Games"
+  developer: "Too Hard Basket"
+  date: "2012-08-14"
+-
+  id: 97
+  name: "Guitar Jam Tracks"
+  shortname: "guitarjamtracks"
+  downloadURL: "http://itunes.apple.com/us/app/guitar-jam-tracks-scale-trainer/id548947732?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.ninebuzz.com"
+  category: "Music"
+  developer: "Ninebuzz"
+  date: "2012-08-14"
+-
   id: 96
   name: "Byword"
   shortname: "byword"
-  downloadURL: "hhttp://itunes.apple.com/us/app/byword/id420212497?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  downloadURL: "http://itunes.apple.com/us/app/byword/id420212497?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://metaclassy.com/"
   category: "Productivity"
   developer: "Metaclassy, Lda."
