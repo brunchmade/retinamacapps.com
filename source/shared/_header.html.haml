@@ -7,8 +7,8 @@
 	
 	%nav
 		%ul#main-nav
-			%li#openSubmissionModal= link_to "Submit your app", "#", title: "Submit your retina app"
-			%li#openNewsletterModal= link_to "Weekly digest", "#", title: "Subscribe to email updates"
+			%li= link_to "Submit your app", "#", class: "openSubmissionModal", title: "Submit your retina app"
+			%li= link_to "Weekly digest", "#", id: "openNewsletterModal", title: "Subscribe to email updates"
 			%li= link_to "@retinapps", "https://twitter.com/retinapps", title: "Follow @retinapps", target: "_blank"
 
 	%select#filter

@@ -49,7 +49,7 @@ $(document).ready ->
   convertoToMailto()
   
   # Handle submit click
-  $("#openSubmissionModal").click (e) ->
+  $(".openSubmissionModal").on "click", (e) ->
     e.preventDefault()
     $("#submissionModal").reveal()
 

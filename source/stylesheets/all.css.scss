@@ -217,16 +217,16 @@ input[type="search"] {
     margin: 30px;
     text-align: center;
 
-    &a{
-    color: #999;
-    text-decoration: none;
+    a {
+      color: #999;
+      text-decoration: none;
 
-    &:hover,
-    &:focus {
-      color: $highlight;
-      text-decoration: underline;
+      &:hover,
+      &:focus {
+        color: $highlight;
+        text-decoration: underline;
+      }
     }
-  }
   }
 }
 
