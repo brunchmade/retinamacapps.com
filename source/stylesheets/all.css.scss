@@ -200,12 +200,22 @@ h3 {
 }
 
 #search {
-  width: $sidebarWidth - 10;
-  margin-bottom: 5px;
-  padding: 4px;
+  font-family: "source-sans-pro", sans-serif;
+  background: url("../images/search.png") no-repeat left center;
+  width: 200px;
+  margin: 20px 0;
+  padding: 4px 0 3px 25px;
   border: 1px solid #eee;
-  font-size: 12px;
+  font-size: 14px;
+  border-radius: 20px;
 }
+@media (-webkit-min-device-pixel-ratio: 2){
+  #search {
+    background: url('../images/search@2x.png') no-repeat left center;
+    background-size: 21px 15px;
+  }
+}
+
 
 #social{
   margin-top: 50px;
