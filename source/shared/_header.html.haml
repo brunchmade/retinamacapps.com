@@ -9,7 +9,7 @@
 		%ul#main-nav
 			%li= link_to "Submit your app", "#", class: "openSubmissionModal", title: "Submit your retina app"
 			%li= link_to "Weekly digest", "#", id: "openNewsletterModal", title: "Subscribe to email updates"
-			%li= link_to "@retinapps", "https://twitter.com/retinapps", title: "Follow @retinapps", target: "_blank"
+			%li= link_to "@retinamacapps", "https://twitter.com/retinamacapps", title: "Follow @retinamacapps", target: "_blank"
 
 	%select#filter
 		%option{value: "r"} Most Recent
@@ -17,7 +17,7 @@
 		%option{value: "n"} Name
 
 	#social
-		%a{href: "https://twitter.com/share", class: "twitter-share-button", data: {via: "retinapps", related: "retinapps", dnt: "true"}} Tweet
+		%a{href: "https://twitter.com/share", class: "twitter-share-button", data: {via: "retinapps", related: "retinamacapps", dnt: "true"}} Tweet
 		.fb-like{"data-show-faces" => "false", data: {href: "http://retinamacapps.com", send: "false", layout: "button_count", width: "150", font: "lucida grande"}}
 
 	= partial "shared/footer"
