@@ -1,11 +1,20 @@
 -
-  id: 117
+  id: 118
   name: "Sketch 2"
   shortname: "sketch2"
   downloadURL: "http://itunes.apple.com/us/app/sketch/id402476602?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://bohemiancoding.com/sketch/"
   category: "Graphics & Design"
   developer: "Bohemian Coding"
+  date: "2012-08-16"
+-
+  id: 117
+  name: "Smultron 5"
+  shortname: "smultron"
+  downloadURL: "http://itunes.apple.com/us/app/smultron-5/id543634397?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.peterborgapps.com/smultron"
+  category: "Productivity"
+  developer: "Peter Borg Apps AB"
   date: "2012-08-16"
 -
   id: 116
