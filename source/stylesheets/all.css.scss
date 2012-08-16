@@ -198,11 +198,11 @@ h3 {
   text-align: center;
 }
 
-input[type="search"] {
-  -webkit-appearance: searchfield;
-  box-sizing: border-box;
+#search {
   width: 220px;
   margin: 30px 0 0;
+  -webkit-appearance: searchfield;
+  box-sizing: border-box;
 }
 
 #social{

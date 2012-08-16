@@ -41,6 +41,9 @@ searchApps = ->
           $(this).html(data).fadeIn 225
           retinajs(true)
           convertoToMailto()
+          $(".openSubmissionModal").click (e) ->
+            e.preventDefault()
+            $("#submissionModal").reveal()
   else
     filterChange $("#filter").val()
 
@@ -49,7 +52,7 @@ $(document).ready ->
   convertoToMailto()
   
   # Handle submit click
-  $(".openSubmissionModal").on "click", (e) ->
+  $("#openSubmissionModal").click (e) ->
     e.preventDefault()
     $("#submissionModal").reveal()
 
@@ -74,6 +77,10 @@ $(document).ready ->
 
   # Handle search keyup event
   $("#searchForm").keyup ->
+    searchApps()
+
+  # Handle clear search field event
+  $("#search").on "search", (e) ->
     searchApps()
 
   # GA Event Tracking
