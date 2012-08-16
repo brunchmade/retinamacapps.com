@@ -1,4 +1,103 @@
 -
+  id: 117
+  name: "Sketch 2"
+  shortname: "sketch2"
+  downloadURL: "http://itunes.apple.com/us/app/sketch/id402476602?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://bohemiancoding.com/sketch/"
+  category: "Graphics & Design"
+  developer: "Bohemian Coding"
+  date: "2012-08-16"
+-
+  id: 116
+  name: "Pickr"
+  shortname: "pickr"
+  downloadURL: "http://itunes.apple.com/us/app/pickr/id543659953?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://sebj.me"
+  category: "Developer Tools"
+  developer: "Seb Jachec"
+  date: "2012-08-16"
+-
+  id: 115
+  name: "Flint"
+  shortname: "flint"
+  downloadURL: "http://giantcomet.com/flint"
+  developerURL: "http://giantcomet.com/"
+  category: "Productivity"
+  developer: "Giant Comet"
+  date: "2012-08-16"
+-
+  id: 114
+  name: "free"
+  shortname: "free"
+  downloadURL: "http://itunes.apple.com/us/app/free/id486226904?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://myownapp.com/"
+  category: "Business"
+  developer: "MOApp Software"
+  date: "2012-08-16"
+-
+  id: 113
+  name: "Write 2"
+  shortname: "write2"
+  downloadURL: "http://itunes.apple.com/us/app/write-2/id542987253?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://myownapp.com/"
+  category: "Business"
+  developer: "MOApp Software"
+  date: "2012-08-16"
+-
+  id: 112
+  name: "Logoist"
+  shortname: "logoist"
+  downloadURL: "http://itunes.apple.com/app/logoist/id502501999?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.avisnocturna.com"
+  category: "Graphics & Design"
+  developer: "AvisNocturna Software"
+  date: "2012-08-16"
+-
+  id: 111
+  name: "Dammit"
+  shortname: "dammit"
+  downloadURL: "http://itunes.apple.com/us/app/dammit-speed-dial-buttons/id507501811?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://myownapp.com/"
+  category: "Productivity"
+  developer: "MOApp Software"
+  date: "2012-08-16"
+-
+  id: 110
+  name: "Quick and Dirty"
+  shortname: "quickanddirty"
+  downloadURL: "http://qndapp.com"
+  developerURL: "http://myownapp.com/"
+  category: "Photography"
+  developer: "MOApp Software"
+  date: "2012-08-16"
+-
+  id: 109
+  name: "Plug Spy"
+  shortname: "plugspy"
+  downloadURL: "&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.celmaro.com"
+  category: "Lifestyle"
+  developer: "celmaro"
+  date: "2012-08-16"
+-
+  id: 108
+  name: "Break Reminder"
+  shortname: "breakreminder"
+  downloadURL: "http://itunes.apple.com/us/app/break-reminder/id405918679?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.tinybird.com"
+  category: "Health & Fitness"
+  developer: "Tinybird Interactive AB"
+  date: "2012-08-16"
+-
+  id: 107
+  name: "QQ"
+  shortname: "qq"
+  downloadURL: "http://itunes.apple.com/us/app/qq/id451108668?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://iblog.tencent.com/"
+  category: "Social Networking"
+  developer: "iTeam"
+  date: "2012-08-16"
+-
   id: 106
   name: "iStudiez Pro"
   shortname: "istudiezpro"
