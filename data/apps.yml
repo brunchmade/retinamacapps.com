@@ -1,4 +1,13 @@
 -
+  id: 123
+  name: "Shade"
+  shortname: "shade"
+  downloadURL: "http://itunes.apple.com/us/app/shade/id546881298?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.limit-point.com"
+  category: "Utilities"
+  developer: "Limit Point LLC"
+  date: "2012-08-16"
+-
   id: 122
   name: "Cheddar for Mac (Beta)"
   shortname: "cheddar"
