@@ -1,4 +1,22 @@
 -
+  id: 125
+  name: "Focus"
+  shortname: "focus"
+  downloadURL: "http://itunes.apple.com/us/app/focus/id432599692?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://coppertino.com/"
+  category: "Photography"
+  developer: "Coppertino Inc."
+  date: "2012-08-17"
+-
+  id: 124
+  name: "PDF Nomad"
+  shortname: "pdfnomad"
+  downloadURL: "http://sintraworks.com/index.php/sintraworks/pdfnomad_home"
+  developerURL: "http://sintraworks.com/"
+  category: "Pro"
+  developer: "SintraWorks"
+  date: "2012-08-17"
+-
   id: 123
   name: "Shade"
   shortname: "shade"
