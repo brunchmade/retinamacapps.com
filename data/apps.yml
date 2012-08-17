@@ -1,4 +1,40 @@
 -
+  id: 122
+  name: "Cheddar for Mac (Beta)"
+  shortname: "cheddar"
+  downloadURL: "https://cheddarapp.com/mac"
+  developerURL: "http://nothingmagical.com/"
+  category: "Productivity"
+  developer: "Nothing Magical"
+  date: "2012-08-16"
+-
+  id: 121
+  name: "SimpleEdit"
+  shortname: "simpleedit"
+  downloadURL: "http://simpleeditapp.com/"
+  developerURL: "http://myownapp.com/"
+  category: "Developer Tools"
+  developer: "MOApp Software"
+  date: "2012-08-16"
+-
+  id: 120
+  name: "CocoaBox"
+  shortname: "cocoabox"
+  downloadURL: "http://itunes.apple.com/us/app/cocoabox/id513740073?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://myownapp.com/"
+  category: "Developer Tools"
+  developer: "MOApp Software"
+  date: "2012-08-16"
+-
+  id: 119
+  name: "Verto Studio 3D"
+  shortname: "vertostudio3d"
+  downloadURL: "http://itunes.apple.com/us/app/verto-studio-3d/id503496509?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://vertostudio.com"
+  category: "Graphics & Design"
+  developer: "Michael L. Farrell"
+  date: "2012-08-16"
+-
   id: 118
   name: "Sketch 2"
   shortname: "sketch2"
@@ -36,7 +72,7 @@
   date: "2012-08-16"
 -
   id: 114
-  name: "free"
+  name: "Free"
   shortname: "free"
   downloadURL: "http://itunes.apple.com/us/app/free/id486226904?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://myownapp.com/"
@@ -104,7 +140,7 @@
   downloadURL: "http://itunes.apple.com/us/app/qq/id451108668?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://iblog.tencent.com/"
   category: "Social Networking"
-  developer: "iTeam"
+  developer: "Tencent iTeam"
   date: "2012-08-16"
 -
   id: 106
