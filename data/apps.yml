@@ -1,4 +1,13 @@
 -
+  id: 133
+  name: "CodeRunner"
+  shortname: "coderunner"
+  downloadURL: "http://itunes.apple.com/us/app/coderunner/id433335799?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://krillapps.com"
+  category: "Developer Tools"
+  developer: "Nikolai Krill"
+  date: "2012-08-17"
+-
   id: 132
   name: "ShutterSnitch Backup"
   shortname: "shuttersnitchbackup"
