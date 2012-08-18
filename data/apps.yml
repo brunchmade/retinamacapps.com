@@ -1,4 +1,67 @@
 -
+  id: 132
+  name: "ShutterSnitch Backup"
+  shortname: "shuttersnitchbackup"
+  downloadURL: "http://www.shuttersnitch.com/backup"
+  developerURL: "https://www.2ndnaturesoftware.com"
+  category: "Photography"
+  developer: "2ndNature"
+  date: "2012-08-17"
+-
+  id: 131
+  name: "Delish"
+  shortname: "delish"
+  downloadURL: "http://itunes.apple.com/us/app/delish/id504472899?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.pinepointsoftware.com"
+  category: "Productivity"
+  developer: "Pine Point Software LLC"
+  date: "2012-08-17"
+-
+  id: 130
+  name: "Screens VNC"
+  shortname: "screensvnc"
+  downloadURL: "http://itunes.apple.com/ca/app/screens-vnc-control-your-computer/id446107677?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://edovia.com"
+  category: "Utilities"
+  developer: "Edovia, Inc."
+  date: "2012-08-17"
+-
+  id: 129
+  name: "Bronson Watermarker"
+  shortname: "bronsonwatermarker"
+  downloadURL: "http://itunes.apple.com/us/app/bronson-watermarker/id481867513?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://quoteunquoteapps.com"
+  category: "Productivity"
+  developer: "Quote-Unquote Apps"
+  date: "2012-08-17"
+-
+  id: 128
+  name: "Cartographica"
+  shortname: "cartographica"
+  downloadURL: "http://macgis.com"
+  developerURL: "http://macgis.com"
+  category: "Productivity"
+  developer: "ClueTrust"
+  date: "2012-08-17"
+-
+  id: 127
+  name: "ClipWrap"
+  shortname: "clipwrap"
+  downloadURL: "http://www.divergentmedia.com/clipwrap/trial"
+  developerURL: "http://www.divergentmedia.com"
+  category: "Video"
+  developer: "Divergent Media"
+  date: "2012-08-17"
+-
+  id: 126
+  name: "ScopeBox"
+  shortname: "scopebox"
+  downloadURL: "http://www.divergentmedia.com/scopebox/trial"
+  developerURL: "http://www.divergentmedia.com"
+  category: "Video"
+  developer: "Divergent Media"
+  date: "2012-08-17"
+-
   id: 125
   name: "Focus"
   shortname: "focus"
