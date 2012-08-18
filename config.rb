@@ -60,6 +60,9 @@ configure :build do
   
   # Minify Javascript on build
   activate :minify_javascript
+
+  # Add hashes to files for caching
+  activate :asset_hash
   
   # Enable cache buster
   # activate :cache_buster
