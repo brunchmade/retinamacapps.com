@@ -37,8 +37,8 @@ searchApps = ->
       data: formData
       dataType: "html"
       success: (data) ->
-        $("#app-wrapper").fadeOut 175, ->
-          $(this).html(data).fadeIn 225
+        $("#app-wrapper").fadeOut 25, ->
+          $(this).html(data).fadeIn 50
           retinajs(true)
           convertoToMailto()
           $(".openSubmissionModal").click (e) ->
