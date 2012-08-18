@@ -27,6 +27,14 @@ filterChange = (val) ->
       retinajs(true)
       convertoToMailto()
 
+# Keyup delay
+delay = (->
+  timer = 0
+  (callback, ms) ->
+    clearTimeout timer
+    timer = setTimeout(callback, ms)
+)()
+
 # Handle ajax to search apps
 searchApps = ->
   unless $("#searchForm").find("#search").val() is ''
@@ -77,7 +85,9 @@ $(document).ready ->
 
   # Handle search keyup event
   $("#searchForm").keyup ->
-    searchApps()
+    delay (->
+      searchApps()
+    ), 500
 
   # Handle clear search field event
   $("#search").on "search", (e) ->
