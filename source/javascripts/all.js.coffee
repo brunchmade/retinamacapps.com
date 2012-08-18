@@ -1,5 +1,3 @@
-//= require_tree .
-
 deviceAgent = navigator.userAgent.toLowerCase();
 agent = deviceAgent.match(/(iphone|ipod|ipad|android)/);
 
