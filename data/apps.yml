@@ -1,4 +1,49 @@
 -
+  id: 138
+  name: "Seasonality Core"
+  shortname: "seasonalitycore"
+  downloadURL: "http://itunes.apple.com/us/app/seasonality-core/id412771173?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.gauchosoft.com"
+  category: "Weather"
+  developer: "Gaucho Software, LLC"
+  date: "2012-08-19"
+-
+  id: 137
+  name: "Monosnap"
+  shortname: "monosnap"
+  downloadURL: "http://itunes.apple.com/us/app/monosnap/id540348655?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://monosnap.com"
+  category: "Graphics & Design"
+  developer: "Monosnap"
+  date: "2012-08-19"
+-
+  id: 136
+  name: "Continu"
+  shortname: "continu"
+  downloadURL: "http://itunes.apple.com/us/app/continu/id535406742?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://zenangst.com"
+  category: "Utilities"
+  developer: "Christoffer Winterkvist"
+  date: "2012-08-19"
+-
+  id: 135
+  name: "FreeSpace"
+  shortname: "freespace"
+  downloadURL: "http://itunes.apple.com/us/app/freespace/id457520846?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://freespaceosx.0fees.net/"
+  category: "Utilities"
+  developer: "Fung"
+  date: "2012-08-19"
+-
+  id: 134
+  name: "Jump Desktop VNC"
+  shortname: "jumpdesktop"
+  downloadURL: "http://itunes.apple.com/us/app/jump-desktop-remote-desktop/id524141863?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://jumpdesktop.com"
+  category: "Utilities"
+  developer: "PhaseFive Systems"
+  date: "2012-08-19"
+-
   id: 133
   name: "CodeRunner"
   shortname: "coderunner"
