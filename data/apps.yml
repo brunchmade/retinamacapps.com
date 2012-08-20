@@ -1,4 +1,22 @@
 -
+  id: 140
+  name: "MPlayerX"
+  shortname: "mplayerx"
+  downloadURL: "http://mplayerx.org"
+  developerURL: "http://code.google.com/u/zongyao.qu/"
+  category: "Entertainment"
+  developer: "Zongyao Qu"
+  date: "2012-08-20"
+-
+  id: 139
+  name: "CloudPull"
+  shortname: "cloudpull"
+  downloadURL: "http://www.goldenhillsoftware.com/cloudpull/"
+  developerURL: "http://www.goldenhillsoftware.com/"
+  category: "Utilities"
+  developer: "Golden Hill Software"
+  date: "2012-08-20"
+-
   id: 138
   name: "Seasonality Core"
   shortname: "seasonalitycore"
@@ -36,7 +54,7 @@
   date: "2012-08-19"
 -
   id: 134
-  name: "Jump Desktop VNC"
+  name: "Jump Desktop RDP & VNC"
   shortname: "jumpdesktop"
   downloadURL: "http://itunes.apple.com/us/app/jump-desktop-remote-desktop/id524141863?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://jumpdesktop.com"
