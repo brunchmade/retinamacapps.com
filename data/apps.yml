@@ -1,4 +1,31 @@
 -
+  id: 143
+  name: "moApp for App.net (alpha)"
+  shortname: "moappdotnet"
+  downloadURL: "http://myownapp.com/apps/"
+  developerURL: "http://myownapp.com/"
+  category: "Social Networking"
+  developer: "MOApp Software"
+  date: "2012-08-20"
+-
+  id: 142
+  name: "Will it fit"
+  shortname: "willitfit"
+  downloadURL: "http://itunes.apple.com/us/app/will-it-fit/id521680466?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://twelvetwenty.nl"
+  category: "Graphics & Design"
+  developer: "Twelve Twenty"
+  date: "2012-08-20"
+-
+  id: 141
+  name: "Uberlayer"
+  shortname: "uberlayer"
+  downloadURL: "http://itunes.apple.com/us/app/uberlayer/id510139938?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://twelvetwenty.nl"
+  category: "Developer Tools"
+  developer: "Twelve Twenty"
+  date: "2012-08-20"
+-
   id: 140
   name: "MPlayerX"
   shortname: "mplayerx"
