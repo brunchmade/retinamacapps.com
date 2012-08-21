@@ -1,4 +1,31 @@
 -
+  id: 146
+  name: "Bartender (Beta)"
+  shortname: "bartender"
+  downloadURL: "http://www.macbartender.com/"
+  developerURL: "http://www.surteesstudios.com"
+  category: "Utilities"
+  developer: "Surtees Software"
+  date: "2012-08-21"
+-
+  id: 145
+  name: "Twins Mini"
+  shortname: "twinsmini"
+  downloadURL: "http://itunes.apple.com/app/twins-mini/id540383737?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.rockysandstudio.com"
+  category: "Productivity"
+  developer: "Rocky Sand Studio"
+  date: "2012-08-21"
+-
+  id: 144
+  name: "QuickRes"
+  shortname: "quickres"
+  downloadURL: "http://gravidrop.com/QuickRes/"
+  developerURL: "http://www.inertiactive.com"
+  category: "Utilities"
+  developer: "Inertactive"
+  date: "2012-08-21"
+-
   id: 143
   name: "moApp for App.net (alpha)"
   shortname: "moappdotnet"
