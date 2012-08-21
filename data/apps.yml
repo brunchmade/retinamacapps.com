@@ -1,4 +1,13 @@
 -
+  id: 147
+  name: "Words App"
+  shortname: "wordsapp"
+  downloadURL: "http://itunes.apple.com/us/app/words-app/id541687107?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.newnet-soft.com/Words/"
+  category: "News"
+  developer: "Sven Read, John Read"
+  date: "2012-08-21"
+-
   id: 146
   name: "Bartender (Beta)"
   shortname: "bartender"
