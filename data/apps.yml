@@ -1,4 +1,13 @@
 -
+  id: 148
+  name: "Chronicle"
+  shortname: "chronicle"
+  downloadURL: "http://itunes.apple.com/us/app/chronicle-bill-management/id402355593?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://chronicleapp.com/"
+  category: "Finance"
+  developer: "LittleFin LLC"
+  date: "2012-08-22"
+-
   id: 147
   name: "Words App"
   shortname: "wordsapp"
