@@ -1,4 +1,58 @@
 -
+  id: 154
+  name: "Star Wars: Empire at War"
+  shortname: "starwarseaw"
+  downloadURL: "http://itunes.apple.com/us/app/star-wars-empire-at-war/id420787036?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.aspyr.com/games/star-wars-empire-at-war"
+  category: "Games"
+  developer: "Aspyr Media, Inc."
+  date: "2012-08-23"
+-
+  id: 153
+  name: "Quake 4"
+  shortname: "quake4"
+  downloadURL: "http://itunes.apple.com/us/app/quake-4/id492135099?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.aspyr.com/games/quake-4"
+  category: "Games"
+  developer: "Aspyr Media, Inc."
+  date: "2012-08-23"
+-
+  id: 152
+  name: "Prey"
+  shortname: "prey"
+  downloadURL: "http://itunes.apple.com/us/app/prey/id425258189?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.aspyr.com/games/prey"
+  category: "Games"
+  developer: "Aspyr Media, Inc."
+  date: "2012-08-23"
+-
+  id: 151
+  name: "Civilization V"
+  shortname: "civilizationv"
+  downloadURL: "http://itunes.apple.com/us/app/civilization-v-campaign-edition/id439924718?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.aspyr.com/"
+  category: "Games"
+  developer: "Aspyr Media, Inc."
+  date: "2012-08-23"
+-
+  id: 150
+  name: "Pomodorable"
+  shortname: "pomodorable"
+  downloadURL: "http://itunes.apple.com/us/app/pomodorable/id503406673?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.newnet-soft.com/Words/"
+  category: "Productivity"
+  developer: "Monocle Society"
+  date: "2012-08-23"
+-
+  id: 149
+  name: "TuneSpan"
+  shortname: "tunespan"
+  downloadURL: "http://itunes.apple.com/us/app/tunespan/id528459889?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://tunespan.com"
+  category: "Utilities"
+  developer: "Random Applications"
+  date: "2012-08-23"
+-
   id: 148
   name: "Chronicle"
   shortname: "chronicle"
