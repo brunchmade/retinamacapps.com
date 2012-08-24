@@ -1,4 +1,58 @@
 -
+  id: 160
+  name: "iStopMotion 3"
+  shortname: "istopmotion3"
+  downloadURL: "http://itunes.apple.com/us/app/istopmotion-3/id546649552?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://boinx.com/istopmotion/mac/?utm_source=App%2BStore%2BEN&utm_medium=App%2BStore&utm_campaign=iStopMotion"
+  category: "Video"
+  developer: "Boinx Software"
+  date: "2012-08-24"
+-
+  id: 159
+  name: "Living Earth HD"
+  shortname: "livingearthhd"
+  downloadURL: "http://itunes.apple.com/us/app/living-earth-hd-desktop-weather/id539362919?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.livingearthapp.com/mac_support/"
+  category: "Utilities"
+  developer: "Radiantlabs, LLC"
+  date: "2012-08-24"
+-
+  id: 158
+  name: "properVOLUME"
+  shortname: "propervolume"
+  downloadURL: "http://itunes.apple.com/us/app/propervolume/id521142667?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://cyberplexus.com/propervolume/"
+  category: "Utilities"
+  developer: "Plexus"
+  date: "2012-08-24"
+-
+  id: 157
+  name: "Mou"
+  shortname: "mou"
+  downloadURL: "http://mouapp.com"
+  developerURL: "http://chenluois.com"
+  category: "Developer Tools"
+  developer: "Chen Luo"
+  date: "2012-08-24"
+-
+  id: 156
+  name: "Smaller"
+  shortname: "smaller"
+  downloadURL: "http://smallerapp.com"
+  developerURL: "http://chenluois.com"
+  category: "Developer Tools"
+  developer: "Chen Luo"
+  date: "2012-08-24"
+-
+  id: 155
+  name: "ResolutionTab"
+  shortname: "resolutiontab"
+  downloadURL: "http://itunes.apple.com/us/app/resolutiontab/id540141595?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.shpakovski.com/"
+  category: "Developer Tools"
+  developer: "Vadim Shpakovski"
+  date: "2012-08-24"
+-
   id: 154
   name: "Star Wars: Empire at War"
   shortname: "starwarseaw"
@@ -274,7 +328,7 @@
   shortname: "pdfnomad"
   downloadURL: "http://sintraworks.com/index.php/sintraworks/pdfnomad_home"
   developerURL: "http://sintraworks.com/"
-  category: "Pro"
+  category: "Productivity"
   developer: "SintraWorks"
   date: "2012-08-17"
 -
