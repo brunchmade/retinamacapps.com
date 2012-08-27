@@ -1,9 +1,54 @@
 -
+  id: 165
+  name: "Forklift"
+  shortname: "forklift"
+  downloadURL: "http://www.binarynights.com/"
+  developerURL: "http://www.binarynights.com/"
+  category: "Developer Tools"
+  developer: "Binary Nights"
+  date: "2012-08-27"
+-
+  id: 164
+  name: "Trickster"
+  shortname: "trickster"
+  downloadURL: "http://www.apparentsoft.com/trickster/download"
+  developerURL: "http://www.apparentsoft.com"
+  category: "Productivity"
+  developer: "Apparent Software"
+  date: "2012-08-27"
+-
+  id: 163
+  name: "Taco HTML Edit"
+  shortname: "tacohtmledit"
+  downloadURL: "http://itunes.apple.com/us/app/taco-html-edit/id405146005?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://tacosw.com"
+  category: Developer Tools"
+  developer: "Taco Software"
+  date: "2012-08-27"
+-
+  id: 162
+  name: "Thermometer"
+  shortname: "thermometer"
+  downloadURL: "http://itunes.apple.com/us/app/thermometer/id432854492?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://studiodalton.com/"
+  category: "Weather"
+  developer: "StudioDalton"
+  date: "2012-08-27"
+-
+  id: 161
+  name: "QuickClear"
+  shortname: "quickclear"
+  downloadURL: "http://www.quickresapp.com/QuickClear/"
+  developerURL: "http://www.inertiactive.com"
+  category: "Productivity"
+  developer: "Inertactive"
+  date: "2012-08-27"
+-
   id: 160
   name: "iStopMotion 3"
   shortname: "istopmotion3"
   downloadURL: "http://itunes.apple.com/us/app/istopmotion-3/id546649552?mt=12&partnerId=30&siteID=XiIlgOb99EY"
-  developerURL: "http://boinx.com/istopmotion/mac/?utm_source=App%2BStore%2BEN&utm_medium=App%2BStore&utm_campaign=iStopMotion"
+  developerURL: "http://boinx.com/istopmotion/mac/"
   category: "Video"
   developer: "Boinx Software"
   date: "2012-08-24"
