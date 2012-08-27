@@ -1,5 +1,23 @@
 -
   id: 165
+  name: "Postbox"
+  shortname: "postbox"
+  downloadURL: "http://www.postbox-inc.com/"
+  developerURL: "http://www.postbox-inc.com/"
+  category: "Productivity"
+  developer: "Postbox, Inc."
+  date: "2012-08-27"
+-
+  id: 165
+  name: "Seldomridge Desktops - Colorado"
+  shortname: "seldomridgedesktopscolorado"
+  downloadURL: "http://itunes.apple.com/us/app/seldomridge-desktops-colorado/id512266387?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.richardseldomridge.com/desktops"
+  category: "Lifestyle"
+  developer: "Richard Seldomridge Photography"
+  date: "2012-08-27"
+-
+  id: 165
   name: "Forklift"
   shortname: "forklift"
   downloadURL: "http://www.binarynights.com/"
