@@ -1,4 +1,49 @@
 -
+  id: 170
+  name: "Temperature Gauge"
+  shortname: "temperaturegauge"
+  downloadURL: "http://itunes.apple.com/us/app/temperature-gauge/id467830521?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.tunabellysoftware.com"
+  category: "Utilities"
+  developer: "Tunabelly Software"
+  date: "2012-08-29"
+-
+  id: 169
+  name: "Scrawl"
+  shortname: "scrawl"
+  downloadURL: "http://itunes.apple.com/us/app/scrawl/id480126603?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://thedunahoos.com/scrawl"
+  category: "Productivity"
+  developer: "Bread and Butter Software, LLC"
+  date: "2012-08-29"
+-
+  id: 168
+  name: "Squirrel"
+  shortname: "squirrel"
+  downloadURL: "http://itunes.apple.com/us/app/squirrel/id402403220?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.squirrelapp.com/"
+  category: "Finance"
+  developer: "Axel Péju"
+  date: "2012-08-29"
+-
+  id: 167
+  name: "ProStack Lite"
+  shortname: "prostacklite"
+  downloadURL: "http://itunes.apple.com/us/app/prostack-lite/id550852002?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.lessapps.net"
+  category: "Developer Tools"
+  developer: "LessApps"
+  date: "2012-08-29"
+-
+  id: 166
+  name: "Photo Importer"
+  shortname: "photoimporter"
+  downloadURL: "http://itunes.apple.com/us/app/photo-importer/id530904003?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://zenangst.com"
+  category: "Photography"
+  developer: "Christoffer Winterkvist"
+  date: "2012-08-29"
+-
   id: 165
   name: "Postbox"
   shortname: "postbox"
