@@ -1,4 +1,13 @@
 -
+  id: 171
+  name: "Parallels"
+  shortname: "parallels"
+  downloadURL: "http://www.parallels.com"
+  developerURL: "http://www.parallels.com"
+  category: "Utilities"
+  developer: "Parallels"
+  date: "2012-08-30"
+-
   id: 170
   name: "Temperature Gauge"
   shortname: "temperaturegauge"
@@ -1338,15 +1347,6 @@
   developerURL: "http://www.silverwiz.com"
   category: "Finance"
   developer: "SilverWiz"
-  date: "2012-08-04"
--
-  id: 18
-  name: "Parallels"
-  shortname: "parallels"
-  downloadURL: "http://www.parallels.com"
-  developerURL: "http://www.parallels.com"
-  category: "Utilities"
-  developer: "Parallels"
   date: "2012-08-04"
 -
   id: 19
