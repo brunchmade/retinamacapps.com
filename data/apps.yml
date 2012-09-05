@@ -1,4 +1,31 @@
 -
+  id: 174
+  name: "Analog"
+  shortname: "analog"
+  downloadURL: "http://itunes.apple.com/us/app/analog/id418343177?mt=12"
+  developerURL: "http://www.realmacsoftware.com"
+  category: "Photography"
+  developer: "Realmac Software"
+  date: "2012-09-05"
+-
+  id: 173
+  name: "Presentation Prompter"
+  shortname: "presentationprompter"
+  downloadURL: "http://presentationprompter.com/"
+  developerURL: "http://ripeware.com"
+  category: "Video"
+  developer: "Ripeware LLC"
+  date: "2012-09-05"
+-
+  id: 172
+  name: "Speaker - Listen to the web"
+  shortname: "speaker"
+  downloadURL: "http://itunes.apple.com/us/app/speaker-listen-to-the-web/id518693967?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://TenStepsAhead.de"
+  category: "Productivity"
+  developer: "TenStepsAhead UG"
+  date: "2012-09-05"
+-
   id: 171
   name: "Parallels"
   shortname: "parallels"
