@@ -1,4 +1,13 @@
 -
+  id: 180
+  name: "Premiere Pro CS6"
+  shortname: "premierecs6"
+  downloadURL: "http://www.adobe.com/products/premiere.html?ref=retinamacapps"
+  developerURL: "http://adobe.com"
+  category: "Video"
+  developer: "Adobe"
+  date: "2012-09-06"
+-
   id: 179
   name: "Live Wallpaper"
   shortname: "livewallpaper"
