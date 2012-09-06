@@ -1,11 +1,29 @@
 -
-  id: 180
+  id: 182
   name: "Premiere Pro CS6"
   shortname: "premierecs6"
-  downloadURL: "http://www.adobe.com/products/premiere.html?ref=retinamacapps"
+  downloadURL: "http://www.tkqlhce.com/click-6202590-527534365?url=http%3A%2F%2Fstore.adobe.com%2Fcfusion%2Fstore%2Findex.cfm%3Fstore%3DOLS-US%26view%3Dols_prod%26loc%3DEN_US%26category%3D%2FApplications%2FPremierePro&cjsku=65171946"
   developerURL: "http://adobe.com"
   category: "Video"
   developer: "Adobe"
+  date: "2012-09-06"
+-
+  id: 181
+  name: "Australian Weather"
+  shortname: "australianweather"
+  downloadURL: "http://itunes.apple.com/us/app/australian-weather/id489725673?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.shiftyjelly.com/"
+  category: "Weather"
+  developer: "Shifty Jelly"
+  date: "2012-09-06"
+-
+  id: 180
+  name: "DrawnStrips Reader"
+  shortname: "drawnstripsreader"
+  downloadURL: "http://itunes.apple.com/us/app/drawnstrips-reader/id473092872?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.drawnstrips.com"
+  category: "Entertainment"
+  developer: "Fabrice Leyne"
   date: "2012-09-06"
 -
   id: 179
