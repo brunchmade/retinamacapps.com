@@ -1,4 +1,22 @@
 -
+  id: 184
+  name: "Flare"
+  shortname: "flare"
+  downloadURL: "http://itunes.apple.com/us/app/flare/id419917767?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://flareapp.com/"
+  category: "Photography"
+  developer: "The Iconfactory"
+  date: "2012-09-07"
+-
+  id: 183
+  name: "iExplorer"
+  shortname: "iexplorer"
+  downloadURL: "http://www.macroplant.com/iexplorer"
+  developerURL: "http://www.macroplant.com"
+  category: "Utilities"
+  developer: "Macroplant"
+  date: "2012-09-07"
+-
   id: 182
   name: "Premiere Pro CS6"
   shortname: "premierecs6"
