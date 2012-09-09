@@ -1,4 +1,13 @@
 -
+  id: 185
+  name: "Retinizer"
+  shortname: "retinizer"
+  downloadURL: "http://retinizer.mikelpr.com/?ref=retinamacapps.com"
+  developerURL: "http://mikelpr.com/"
+  category: "Utilities"
+  developer: "Mikel Pr"
+  date: "2012-09-08"
+-
   id: 184
   name: "Flare"
   shortname: "flare"
