@@ -1,11 +1,38 @@
 -
-  id: 186
+  id: 189
+  name: "Fusion"
+  shortname: "fusion"
+  downloadURL: "https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_fusion/5_0?lp=1&ref=retinamacapps.com"
+  developerURL: "https://vmware.com"
+  category: "Utilities"
+  developer: "VMware"
+  date: "2012-09-09"
+-
+  id: 188
   name: "Notefile"
   shortname: "notefile"
   downloadURL: "http://itunes.apple.com/us/app/notefile/id544878870?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://junecloud.com/"
   category: "Productivity"
   developer: "Junecloud"
+  date: "2012-09-09"
+-
+  id: 187
+  name: "Lucid"
+  shortname: "lucid"
+  downloadURL: "http://www.theescapers.com/lucid/?ref=retinamacapps.com"
+  developerURL: "http://www.theescapers.com"
+  category: "Productivity"
+  developer: "The Escapers"
+  date: "2012-09-09"
+-
+  id: 186
+  name: "beaTunes"
+  shortname: "beatunes"
+  downloadURL: "http://www.beatunes.com/beatunes-download.html"
+  developerURL: "http://www.tagtraum.com"
+  category: "Music"
+  developer: "tagtraum industries"
   date: "2012-09-09"
 -
   id: 185
