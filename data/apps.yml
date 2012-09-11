@@ -1,5 +1,5 @@
 -
-  id: 193
+  id: 194
   name: "OmniGraffle"
   shortname: "omnigraffle"
   downloadURL: "http://itunes.apple.com/us/artist/the-omni-group/id281731738?mt=12&partnerId=30&siteID=XiIlgOb99EY"
@@ -8,7 +8,7 @@
   developer: "The Omni Group"
   date: "2012-09-11"
 -
-  id: 192
+  id: 193
   name: "Artboard"
   shortname: "artboard"
   downloadURL: "http://itunes.apple.com/us/app/artboard/id414551588?mt=12&partnerId=30&siteID=XiIlgOb99EY"
@@ -17,7 +17,7 @@
   developer: "Mapdiva, LLC"
   date: "2012-09-11"
 -
-  id: 191
+  id: 192
   name: "Hazel"
   shortname: "hazel"
   downloadURL: "hhttp://www.noodlesoft.com/hazel.php"
@@ -26,12 +26,21 @@
   developer: "Noodlesoft"
   date: "2012-09-11"
 -
+  id: 191
+  name: "SpeedTao"
+  shortname: "speedtao"
+  downloadURL: "http://www.speedtao.net"
+  developerURL: "http://www.speedtao.net"
+  category: "Utilities"
+  developer: "Geekfun Tech"
+  date: "2012-09-11"
+-
   id: 190
   name: "MOBIZY"
   shortname: "mobizy"
   downloadURL: "http://itunes.apple.com/us/app/mobizy/id494584988?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://www.mobizy.com/"
-  category: "Productivity"
+  category: "Business"
   developer: "MOBIZY"
   date: "2012-09-11"
 -
