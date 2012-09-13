@@ -1,4 +1,22 @@
 -
+  id: 196
+  name: "xScope"
+  shortname: "xscope"
+  downloadURL: "http://itunes.apple.com/us/app/xscope/id447661441?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://xscopeapp.com/"
+  category: "Developer Tools"
+  developer: "The Iconfactory"
+  date: "2012-09-13"
+-
+  id: 195
+  name: "ProStack"
+  shortname: "prostack"
+  downloadURL: "http://itunes.apple.com/us/app/prostack/id548912476?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.lessapps.net"
+  category: "Developer Tools"
+  developer: "LessApps"
+  date: "2012-09-13"
+-
   id: 194
   name: "OmniGraffle"
   shortname: "omnigraffle"
@@ -240,15 +258,6 @@
   developerURL: "http://www.squirrelapp.com/"
   category: "Finance"
   developer: "Axel Péju"
-  date: "2012-08-29"
--
-  id: 167
-  name: "ProStack Lite"
-  shortname: "prostacklite"
-  downloadURL: "http://itunes.apple.com/us/app/prostack-lite/id550852002?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
-  developerURL: "http://www.lessapps.net"
-  category: "Developer Tools"
-  developer: "LessApps"
   date: "2012-08-29"
 -
   id: 166
