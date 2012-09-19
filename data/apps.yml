@@ -1,4 +1,40 @@
 -
+  id: 200
+  name: "Word"
+  shortname: "msword"
+  downloadURL: "http://www.microsoft.com/mac/products"
+  developerURL: "http://microsoft.com"
+  category: "Productivity"
+  developer: "Microsoft"
+  date: "2012-09-19"
+-
+  id: 199
+  name: "PowerPoint"
+  shortname: "msppt"
+  downloadURL: "http://www.microsoft.com/mac/products"
+  developerURL: "http://microsoft.com"
+  category: "Productivity"
+  developer: "Microsoft"
+  date: "2012-09-19"
+-
+  id: 198
+  name: "Excel"
+  shortname: "msexcel"
+  downloadURL: "http://www.microsoft.com/mac/products"
+  developerURL: "http://microsoft.com"
+  category: "Productivity"
+  developer: "Microsoft"
+  date: "2012-09-19"
+-
+  id: 197
+  name: "Writedown"
+  shortname: "writedown"
+  downloadURL: "http://itunes.apple.com/us/app/writedown/id507438458?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://serpensoft.com"
+  category: "Productivity"
+  developer: "Sergey Zorin"
+  date: "2012-09-19"
+-
   id: 196
   name: "xScope"
   shortname: "xscope"
