@@ -1,4 +1,22 @@
 -
+  id: 202
+  name: "TouchDraw"
+  shortname: "touchdraw"
+  downloadURL: "http://itunes.apple.com/us/app/touchdraw/id548887176?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://elevenworks.com"
+  category: "Graphics & Design"
+  developer: "Elevenworks LLC"
+  date: "2012-09-20"
+-
+  id: 201
+  name: "Archiver"
+  shortname: "archiver"
+  downloadURL: "http://itunes.apple.com/us/app/archiver/id404566360?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://archiverapp.com/"
+  category: "Utilities"
+  developer: "Incredible Bee Ltd"
+  date: "2012-09-20"
+-
   id: 200
   name: "Word"
   shortname: "msword"
