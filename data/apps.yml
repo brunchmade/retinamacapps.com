@@ -1,5 +1,5 @@
 -
-  id: 216
+  id: 214
   name: "Ulysses"
   shortname: "ulysses"
   downloadURL: "http://itunes.apple.com/us/app/ulysses/id402427877?mt=12&partnerId=30&siteID=XiIlgOb99EY"
@@ -8,7 +8,7 @@
   developer: "The Soulmen GBR"
   date: "2012-10-01"
 -
-  id: 215
+  id: 213
   name: "Together"
   shortname: "together"
   downloadURL: "http://itunes.apple.com/us/app/together/id413664665?mt=12&partnerId=30&siteID=XiIlgOb99EY"
@@ -17,7 +17,7 @@
   developer: "Steve Harris"
   date: "2012-10-01"
 -
-  id: 214
+  id: 212
   name: "Sky Gamblers: Air Supremacy"
   shortname: "skygamblers"
   downloadURL: "http://itunes.apple.com/us/app/sky-gamblers-air-supremacy/id529680523?mt=12&partnerId=30&siteID=XiIlgOb99EY"
@@ -26,7 +26,7 @@
   developer: "Namco"
   date: "2012-10-01"
 -
-  id: 213
+  id: 211
   name: "SketchBook Pro 6"
   shortname: "sketchbookpro6"
   downloadURL: "http://itunes.apple.com/us/app/sketchbook-pro-6/id553377898?mt=12&partnerId=30&siteID=XiIlgOb99EY"
@@ -35,31 +35,13 @@
   developer: "Autodesk"
   date: "2012-10-01"
 -
-  id: 212
+  id: 210
   name: "Real Racing 2"
   shortname: "realracing2"
   downloadURL: "http://itunes.apple.com/us/app/real-racing-2/id486487611?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://www.ea.com/real-racing-2-mac-app"
   category: "Games"
   developer: "Electronic Arts"
-  date: "2012-10-01"
--
-  id: 211
-  name: ""
-  shortname: ""
-  downloadURL: "&partnerId=30&siteID=XiIlgOb99EY"
-  developerURL: ""
-  category: ""
-  developer: ""
-  date: "2012-10-01"
--
-  id: 210
-  name: ""
-  shortname: ""
-  downloadURL: "&partnerId=30&siteID=XiIlgOb99EY"
-  developerURL: ""
-  category: ""
-  developer: ""
   date: "2012-10-01"
 -
   id: 209
