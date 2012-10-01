@@ -1,4 +1,130 @@
 -
+  id: 216
+  name: "Ulysses"
+  shortname: "ulysses"
+  downloadURL: "http://itunes.apple.com/us/app/ulysses/id402427877?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.the-soulmen.com/ulysses/"
+  category: "Productivity"
+  developer: "The Soulmen GBR"
+  date: "2012-10-01"
+-
+  id: 215
+  name: "Together"
+  shortname: "together"
+  downloadURL: "http://itunes.apple.com/us/app/together/id413664665?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://reinventedsoftware.com/together/"
+  category: "Productivity"
+  developer: "Steve Harris"
+  date: "2012-10-01"
+-
+  id: 214
+  name: "Sky Gamblers: Air Supremacy"
+  shortname: "skygamblers"
+  downloadURL: "http://itunes.apple.com/us/app/sky-gamblers-air-supremacy/id529680523?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://namco.com/"
+  category: "Games"
+  developer: "Namco"
+  date: "2012-10-01"
+-
+  id: 213
+  name: "SketchBook Pro 6"
+  shortname: "sketchbookpro6"
+  downloadURL: "http://itunes.apple.com/us/app/sketchbook-pro-6/id553377898?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.sketchbook.com/"
+  category: "Graphics & Design"
+  developer: "Autodesk"
+  date: "2012-10-01"
+-
+  id: 212
+  name: "Real Racing 2"
+  shortname: "realracing2"
+  downloadURL: "http://itunes.apple.com/us/app/real-racing-2/id486487611?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.ea.com/real-racing-2-mac-app"
+  category: "Games"
+  developer: "Electronic Arts"
+  date: "2012-10-01"
+-
+  id: 211
+  name: ""
+  shortname: ""
+  downloadURL: "&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: ""
+  category: ""
+  developer: ""
+  date: "2012-10-01"
+-
+  id: 210
+  name: ""
+  shortname: ""
+  downloadURL: "&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: ""
+  category: ""
+  developer: ""
+  date: "2012-10-01"
+-
+  id: 209
+  name: "Magic Window - Timelapse Desktop"
+  shortname: "magicwindow"
+  downloadURL: "http://itunes.apple.com/us/app/magic-window-timelapse-desktop/id432840866?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://magicwindowapp.com/"
+  category: "Entertainment"
+  developer: "Jetson Creative, LLC"
+  date: "2012-10-01"
+-
+  id: 208
+  name: "iBank"
+  shortname: "ibank"
+  downloadURL: "http://itunes.apple.com/us/app/ibank/id402422773?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.iggsoftware.com/ibank"
+  category: "Finance"
+  developer: "IGG Software, LLC"
+  date: "2012-10-01"
+-
+  id: 207
+  name: "Colorstrokes"
+  shortname: "colorstrokes"
+  downloadURL: "http://itunes.apple.com/us/app/colorstrokes/id459413843?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.colorstrokesapp.com/"
+  category: "Photography"
+  developer: "Colorstrokes"
+  date: "2012-10-01"
+-
+  id: 206
+  name: "Cobook"
+  shortname: "cobook"
+  downloadURL: "http://itunes.apple.com/us/app/cobook/id525225808?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.cobookapp.com/"
+  category: "Productivity"
+  developer: "Cobook"
+  date: "2012-10-01"
+-
+  id: 205
+  name: "My Alarm Clock"
+  shortname: "myalarmclock"
+  downloadURL: "http://itunes.apple.com/us/app/my-alarm-clock/id494841448?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://apalon.com"
+  category: "Utilities"
+  developer: "Apalon"
+  date: "2012-10-01"
+-
+  id: 204
+  name: "RoadMovie"
+  shortname: "roadmovie"
+  downloadURL: "http://itunes.apple.com/us/app/roadmovie/id408218908?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.bitfield.se"
+  category: "Video"
+  developer: "Bitfield AB"
+  date: "2012-10-01"
+-
+  id: 203
+  name: "DeskBrowser"
+  shortname: "deskbrowser"
+  downloadURL: "http://itunes.apple.com/us/app/deskbrowser/id516516078?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.twitter.com/EnterNickari"
+  category: "Social Networking"
+  developer: "Firaenix"
+  date: "2012-10-01"
+-
   id: 202
   name: "TouchDraw"
   shortname: "touchdraw"
