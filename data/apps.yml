@@ -1,4 +1,13 @@
 -
+  id: 215
+  name: "WeathrClip"
+  shortname: "weathrclip"
+  downloadURL: "http://itunes.apple.com/us/app/weathrclip/id548125767?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://weathrclip.com"
+  category: "Weather"
+  developer: "Galvin Wiggins"
+  date: "2012-10-01"
+-
   id: 214
   name: "Ulysses"
   shortname: "ulysses"
