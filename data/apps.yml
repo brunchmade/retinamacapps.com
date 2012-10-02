@@ -1,5 +1,14 @@
 -
   id: 215
+  name: "Opera"
+  shortname: "opera"
+  downloadURL: "http://itunes.apple.com/us/app/opera/id404764921?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://opera.com"
+  category: "Productivity"
+  developer: "Opera Software"
+  date: "2012-10-02"
+-
+  id: 215
   name: "WeathrClip"
   shortname: "weathrclip"
   downloadURL: "http://itunes.apple.com/us/app/weathrclip/id548125767?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
