@@ -44,22 +44,13 @@
   developer: "Florian Denis"
   date: "2012-10-26"
 -
-  id: 225
-  name: ""
-  shortname: ""
-  downloadURL: "&partnerId=30&siteID=XiIlgOb99EY"
-  developerURL: "https://foundapp.com"
-  category: "Productivity"
-  developer: "Found Software, Inc."
-  date: "2012-10-26"
--
   id: 224
   name: "Found"
   shortname: "found"
   downloadURL: "http://itunes.apple.com/app/found/id527134927?mt=12&partnerId=30&siteID=XiIlgOb99EY"
-  developerURL: ""
-  category: ""
-  developer: ""
+  developerURL: "https://foundapp.com"
+  category: "Productivity"
+  developer: "Found Software, Inc."
   date: "2012-10-26"
 -
   id: 223
