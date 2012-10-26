@@ -367,3 +367,1686 @@
   category: "Utilities"
   developer: "Geekfun Tech"
   date: "2012-09-11"
+-
+  id: 190
+  name: "MOBIZY"
+  shortname: "mobizy"
+  downloadURL: "http://itunes.apple.com/us/app/mobizy/id494584988?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.mobizy.com/"
+  category: "Business"
+  developer: "MOBIZY"
+  date: "2012-09-11"
+-
+  id: 189
+  name: "Fusion"
+  shortname: "fusion"
+  downloadURL: "https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_fusion/5_0?lp=1&ref=retinamacapps.com"
+  developerURL: "https://vmware.com"
+  category: "Utilities"
+  developer: "VMware"
+  date: "2012-09-09"
+-
+  id: 188
+  name: "Notefile"
+  shortname: "notefile"
+  downloadURL: "http://itunes.apple.com/us/app/notefile/id544878870?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://junecloud.com/"
+  category: "Productivity"
+  developer: "Junecloud"
+  date: "2012-09-09"
+-
+  id: 187
+  name: "Lucid"
+  shortname: "lucid"
+  downloadURL: "http://www.theescapers.com/lucid/?ref=retinamacapps.com"
+  developerURL: "http://www.theescapers.com"
+  category: "Productivity"
+  developer: "The Escapers"
+  date: "2012-09-09"
+-
+  id: 186
+  name: "beaTunes"
+  shortname: "beatunes"
+  downloadURL: "http://www.beatunes.com/beatunes-download.html"
+  developerURL: "http://www.tagtraum.com"
+  category: "Music"
+  developer: "tagtraum industries"
+  date: "2012-09-09"
+-
+  id: 185
+  name: "Retinizer"
+  shortname: "retinizer"
+  downloadURL: "http://retinizer.mikelpr.com/?ref=retinamacapps.com"
+  developerURL: "http://mikelpr.com/"
+  category: "Utilities"
+  developer: "Mikel Pr"
+  date: "2012-09-08"
+-
+  id: 184
+  name: "Flare"
+  shortname: "flare"
+  downloadURL: "http://itunes.apple.com/us/app/flare/id419917767?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://flareapp.com/"
+  category: "Photography"
+  developer: "The Iconfactory"
+  date: "2012-09-07"
+-
+  id: 183
+  name: "iExplorer"
+  shortname: "iexplorer"
+  downloadURL: "http://www.macroplant.com/iexplorer"
+  developerURL: "http://www.macroplant.com"
+  category: "Utilities"
+  developer: "Macroplant"
+  date: "2012-09-07"
+-
+  id: 182
+  name: "Premiere Pro CS6"
+  shortname: "premierecs6"
+  downloadURL: "http://www.tkqlhce.com/click-6202590-527534365?url=http%3A%2F%2Fstore.adobe.com%2Fcfusion%2Fstore%2Findex.cfm%3Fstore%3DOLS-US%26view%3Dols_prod%26loc%3DEN_US%26category%3D%2FApplications%2FPremierePro&cjsku=65171946"
+  developerURL: "http://adobe.com"
+  category: "Video"
+  developer: "Adobe"
+  date: "2012-09-06"
+-
+  id: 181
+  name: "Australian Weather"
+  shortname: "australianweather"
+  downloadURL: "http://itunes.apple.com/us/app/australian-weather/id489725673?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.shiftyjelly.com/"
+  category: "Weather"
+  developer: "Shifty Jelly"
+  date: "2012-09-06"
+-
+  id: 180
+  name: "DrawnStrips Reader"
+  shortname: "drawnstripsreader"
+  downloadURL: "http://itunes.apple.com/us/app/drawnstrips-reader/id473092872?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.drawnstrips.com"
+  category: "Entertainment"
+  developer: "Fabrice Leyne"
+  date: "2012-09-06"
+-
+  id: 179
+  name: "Live Wallpaper"
+  shortname: "livewallpaper"
+  downloadURL: "http://itunes.apple.com/us/app/live-wallpaper/id531123879?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://facebook.com/squidmelon"
+  category: "Utilities"
+  developer: "SquidMelon"
+  date: "2012-09-05"
+-
+  id: 178
+  name: "The Last Rocket"
+  shortname: "thelastrocket"
+  downloadURL: "http://itunes.apple.com/us/app/the-last-rocket/id548951908?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://thelastrocket.com/"
+  category: "Games"
+  developer: "Shaun Inman"
+  date: "2012-09-05"
+-
+  id: 177
+  name: "Prepo"
+  shortname: "prepo"
+  downloadURL: "http://itunes.apple.com/us/app/prepo/id476533227?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://wearemothership.com/work/prepo/"
+  category: "Developer Tools"
+  developer: "Mothership Software"
+  date: "2012-09-05"
+-
+  id: 176
+  name: "Going"
+  shortname: "going"
+  downloadURL: "http://itunes.apple.com/us/app/going/id550069982?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://getgoingapp.com/"
+  category: "Social Networking"
+  developer: "Oliver Bolton"
+  date: "2012-09-05"
+-
+  id: 175
+  name: "Crow"
+  shortname: "crow"
+  downloadURL: "http://itunes.apple.com/us/app/crow/id520411565?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.sunsidegames.com/"
+  category: "Games"
+  developer: "Sunside Inc."
+  date: "2012-09-05"
+-
+  id: 174
+  name: "Analog"
+  shortname: "analog"
+  downloadURL: "http://itunes.apple.com/us/app/analog/id418343177?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.realmacsoftware.com"
+  category: "Photography"
+  developer: "Realmac Software"
+  date: "2012-09-05"
+-
+  id: 173
+  name: "Presentation Prompter"
+  shortname: "presentationprompter"
+  downloadURL: "http://presentationprompter.com/"
+  developerURL: "http://ripeware.com"
+  category: "Video"
+  developer: "Ripeware LLC"
+  date: "2012-09-05"
+-
+  id: 172
+  name: "Speaker - Listen to the web"
+  shortname: "speaker"
+  downloadURL: "http://itunes.apple.com/us/app/speaker-listen-to-the-web/id518693967?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://TenStepsAhead.de"
+  category: "Productivity"
+  developer: "TenStepsAhead UG"
+  date: "2012-09-05"
+-
+  id: 171
+  name: "Parallels"
+  shortname: "parallels"
+  downloadURL: "http://www.parallels.com"
+  developerURL: "http://www.parallels.com"
+  category: "Utilities"
+  developer: "Parallels"
+  date: "2012-08-30"
+-
+  id: 170
+  name: "Temperature Gauge"
+  shortname: "temperaturegauge"
+  downloadURL: "http://itunes.apple.com/us/app/temperature-gauge/id467830521?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.tunabellysoftware.com"
+  category: "Utilities"
+  developer: "Tunabelly Software"
+  date: "2012-08-29"
+-
+  id: 169
+  name: "Scrawl"
+  shortname: "scrawl"
+  downloadURL: "http://itunes.apple.com/us/app/scrawl/id480126603?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://thedunahoos.com/scrawl"
+  category: "Productivity"
+  developer: "Bread and Butter Software, LLC"
+  date: "2012-08-29"
+-
+  id: 168
+  name: "Squirrel"
+  shortname: "squirrel"
+  downloadURL: "http://itunes.apple.com/us/app/squirrel/id402403220?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.squirrelapp.com/"
+  category: "Finance"
+  developer: "Axel Péju"
+  date: "2012-08-29"
+-
+  id: 166
+  name: "Photo Importer"
+  shortname: "photoimporter"
+  downloadURL: "http://itunes.apple.com/us/app/photo-importer/id530904003?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://zenangst.com"
+  category: "Photography"
+  developer: "Christoffer Winterkvist"
+  date: "2012-08-29"
+-
+  id: 165
+  name: "Postbox"
+  shortname: "postbox"
+  downloadURL: "http://www.postbox-inc.com/"
+  developerURL: "http://www.postbox-inc.com/"
+  category: "Productivity"
+  developer: "Postbox, Inc."
+  date: "2012-08-27"
+-
+  id: 165
+  name: "Seldomridge Desktops - Colorado"
+  shortname: "seldomridgedesktopscolorado"
+  downloadURL: "http://itunes.apple.com/us/app/seldomridge-desktops-colorado/id512266387?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.richardseldomridge.com/desktops"
+  category: "Lifestyle"
+  developer: "Richard Seldomridge Photography"
+  date: "2012-08-27"
+-
+  id: 165
+  name: "Forklift"
+  shortname: "forklift"
+  downloadURL: "http://www.binarynights.com/"
+  developerURL: "http://www.binarynights.com/"
+  category: "Developer Tools"
+  developer: "Binary Nights"
+  date: "2012-08-27"
+-
+  id: 164
+  name: "Trickster"
+  shortname: "trickster"
+  downloadURL: "http://www.apparentsoft.com/trickster/download"
+  developerURL: "http://www.apparentsoft.com"
+  category: "Productivity"
+  developer: "Apparent Software"
+  date: "2012-08-27"
+-
+  id: 163
+  name: "Taco HTML Edit"
+  shortname: "tacohtmledit"
+  downloadURL: "http://itunes.apple.com/us/app/taco-html-edit/id405146005?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://tacosw.com"
+  category: Developer Tools"
+  developer: "Taco Software"
+  date: "2012-08-27"
+-
+  id: 162
+  name: "Thermometer"
+  shortname: "thermometer"
+  downloadURL: "http://itunes.apple.com/us/app/thermometer/id432854492?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://studiodalton.com/"
+  category: "Weather"
+  developer: "StudioDalton"
+  date: "2012-08-27"
+-
+  id: 161
+  name: "QuickClear"
+  shortname: "quickclear"
+  downloadURL: "http://www.quickresapp.com/QuickClear/"
+  developerURL: "http://www.inertiactive.com"
+  category: "Productivity"
+  developer: "Inertactive"
+  date: "2012-08-27"
+-
+  id: 160
+  name: "iStopMotion 3"
+  shortname: "istopmotion3"
+  downloadURL: "http://itunes.apple.com/us/app/istopmotion-3/id546649552?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://boinx.com/istopmotion/mac/"
+  category: "Video"
+  developer: "Boinx Software"
+  date: "2012-08-24"
+-
+  id: 159
+  name: "Living Earth HD"
+  shortname: "livingearthhd"
+  downloadURL: "http://itunes.apple.com/us/app/living-earth-hd-desktop-weather/id539362919?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.livingearthapp.com/mac_support/"
+  category: "Utilities"
+  developer: "Radiantlabs, LLC"
+  date: "2012-08-24"
+-
+  id: 158
+  name: "properVOLUME"
+  shortname: "propervolume"
+  downloadURL: "http://itunes.apple.com/us/app/propervolume/id521142667?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://cyberplexus.com/propervolume/"
+  category: "Utilities"
+  developer: "Plexus"
+  date: "2012-08-24"
+-
+  id: 157
+  name: "Mou"
+  shortname: "mou"
+  downloadURL: "http://mouapp.com"
+  developerURL: "http://chenluois.com"
+  category: "Developer Tools"
+  developer: "Chen Luo"
+  date: "2012-08-24"
+-
+  id: 156
+  name: "Smaller"
+  shortname: "smaller"
+  downloadURL: "http://smallerapp.com"
+  developerURL: "http://chenluois.com"
+  category: "Developer Tools"
+  developer: "Chen Luo"
+  date: "2012-08-24"
+-
+  id: 155
+  name: "ResolutionTab"
+  shortname: "resolutiontab"
+  downloadURL: "http://itunes.apple.com/us/app/resolutiontab/id540141595?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.shpakovski.com/"
+  category: "Developer Tools"
+  developer: "Vadim Shpakovski"
+  date: "2012-08-24"
+-
+  id: 154
+  name: "Star Wars: Empire at War"
+  shortname: "starwarseaw"
+  downloadURL: "http://itunes.apple.com/us/app/star-wars-empire-at-war/id420787036?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.aspyr.com/games/star-wars-empire-at-war"
+  category: "Games"
+  developer: "Aspyr Media, Inc."
+  date: "2012-08-23"
+-
+  id: 153
+  name: "Quake 4"
+  shortname: "quake4"
+  downloadURL: "http://itunes.apple.com/us/app/quake-4/id492135099?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.aspyr.com/games/quake-4"
+  category: "Games"
+  developer: "Aspyr Media, Inc."
+  date: "2012-08-23"
+-
+  id: 152
+  name: "Prey"
+  shortname: "prey"
+  downloadURL: "http://itunes.apple.com/us/app/prey/id425258189?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.aspyr.com/games/prey"
+  category: "Games"
+  developer: "Aspyr Media, Inc."
+  date: "2012-08-23"
+-
+  id: 151
+  name: "Civilization V"
+  shortname: "civilizationv"
+  downloadURL: "http://itunes.apple.com/us/app/civilization-v-campaign-edition/id439924718?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.aspyr.com/"
+  category: "Games"
+  developer: "Aspyr Media, Inc."
+  date: "2012-08-23"
+-
+  id: 150
+  name: "Pomodorable"
+  shortname: "pomodorable"
+  downloadURL: "http://itunes.apple.com/us/app/pomodorable/id503406673?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.newnet-soft.com/Words/"
+  category: "Productivity"
+  developer: "Monocle Society"
+  date: "2012-08-23"
+-
+  id: 149
+  name: "TuneSpan"
+  shortname: "tunespan"
+  downloadURL: "http://itunes.apple.com/us/app/tunespan/id528459889?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://tunespan.com"
+  category: "Utilities"
+  developer: "Random Applications"
+  date: "2012-08-23"
+-
+  id: 148
+  name: "Chronicle"
+  shortname: "chronicle"
+  downloadURL: "http://itunes.apple.com/us/app/chronicle-bill-management/id402355593?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://chronicleapp.com/"
+  category: "Finance"
+  developer: "LittleFin LLC"
+  date: "2012-08-22"
+-
+  id: 147
+  name: "Words App"
+  shortname: "wordsapp"
+  downloadURL: "http://itunes.apple.com/us/app/words-app/id541687107?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.newnet-soft.com/Words/"
+  category: "News"
+  developer: "Sven Read, John Read"
+  date: "2012-08-21"
+-
+  id: 146
+  name: "Bartender (Beta)"
+  shortname: "bartender"
+  downloadURL: "http://www.macbartender.com/"
+  developerURL: "http://www.surteesstudios.com"
+  category: "Utilities"
+  developer: "Surtees Software"
+  date: "2012-08-21"
+-
+  id: 145
+  name: "Twins Mini"
+  shortname: "twinsmini"
+  downloadURL: "http://itunes.apple.com/app/twins-mini/id540383737?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.rockysandstudio.com"
+  category: "Productivity"
+  developer: "Rocky Sand Studio"
+  date: "2012-08-21"
+-
+  id: 144
+  name: "QuickRes"
+  shortname: "quickres"
+  downloadURL: "http://quickresapp.com"
+  developerURL: "http://www.inertiactive.com"
+  category: "Utilities"
+  developer: "Inertactive"
+  date: "2012-08-21"
+-
+  id: 143
+  name: "moApp for App.net (alpha)"
+  shortname: "moappdotnet"
+  downloadURL: "http://myownapp.com/apps/"
+  developerURL: "http://myownapp.com/"
+  category: "Social Networking"
+  developer: "MOApp Software"
+  date: "2012-08-20"
+-
+  id: 142
+  name: "Will it fit"
+  shortname: "willitfit"
+  downloadURL: "http://itunes.apple.com/us/app/will-it-fit/id521680466?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://twelvetwenty.nl"
+  category: "Graphics & Design"
+  developer: "Twelve Twenty"
+  date: "2012-08-20"
+-
+  id: 141
+  name: "Uberlayer"
+  shortname: "uberlayer"
+  downloadURL: "http://itunes.apple.com/us/app/uberlayer/id510139938?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://twelvetwenty.nl"
+  category: "Developer Tools"
+  developer: "Twelve Twenty"
+  date: "2012-08-20"
+-
+  id: 140
+  name: "MPlayerX"
+  shortname: "mplayerx"
+  downloadURL: "http://mplayerx.org"
+  developerURL: "http://code.google.com/u/zongyao.qu/"
+  category: "Entertainment"
+  developer: "Zongyao Qu"
+  date: "2012-08-20"
+-
+  id: 139
+  name: "CloudPull"
+  shortname: "cloudpull"
+  downloadURL: "http://www.goldenhillsoftware.com/cloudpull/"
+  developerURL: "http://www.goldenhillsoftware.com/"
+  category: "Utilities"
+  developer: "Golden Hill Software"
+  date: "2012-08-20"
+-
+  id: 138
+  name: "Seasonality Core"
+  shortname: "seasonalitycore"
+  downloadURL: "http://itunes.apple.com/us/app/seasonality-core/id412771173?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.gauchosoft.com"
+  category: "Weather"
+  developer: "Gaucho Software, LLC"
+  date: "2012-08-19"
+-
+  id: 137
+  name: "Monosnap"
+  shortname: "monosnap"
+  downloadURL: "http://itunes.apple.com/us/app/monosnap/id540348655?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://monosnap.com"
+  category: "Graphics & Design"
+  developer: "Monosnap"
+  date: "2012-08-19"
+-
+  id: 136
+  name: "Continu"
+  shortname: "continu"
+  downloadURL: "http://itunes.apple.com/us/app/continu/id535406742?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://zenangst.com"
+  category: "Utilities"
+  developer: "Christoffer Winterkvist"
+  date: "2012-08-19"
+-
+  id: 135
+  name: "FreeSpace"
+  shortname: "freespace"
+  downloadURL: "http://itunes.apple.com/us/app/freespace/id457520846?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://freespaceosx.0fees.net/"
+  category: "Utilities"
+  developer: "Fung"
+  date: "2012-08-19"
+-
+  id: 134
+  name: "Jump Desktop RDP & VNC"
+  shortname: "jumpdesktop"
+  downloadURL: "http://itunes.apple.com/us/app/jump-desktop-remote-desktop/id524141863?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://jumpdesktop.com"
+  category: "Utilities"
+  developer: "PhaseFive Systems"
+  date: "2012-08-19"
+-
+  id: 133
+  name: "CodeRunner"
+  shortname: "coderunner"
+  downloadURL: "http://itunes.apple.com/us/app/coderunner/id433335799?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://krillapps.com"
+  category: "Developer Tools"
+  developer: "Nikolai Krill"
+  date: "2012-08-17"
+-
+  id: 132
+  name: "ShutterSnitch Backup"
+  shortname: "shuttersnitchbackup"
+  downloadURL: "http://www.shuttersnitch.com/backup"
+  developerURL: "https://www.2ndnaturesoftware.com"
+  category: "Photography"
+  developer: "2ndNature"
+  date: "2012-08-17"
+-
+  id: 131
+  name: "Delish"
+  shortname: "delish"
+  downloadURL: "http://itunes.apple.com/us/app/delish/id504472899?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.pinepointsoftware.com"
+  category: "Productivity"
+  developer: "Pine Point Software LLC"
+  date: "2012-08-17"
+-
+  id: 130
+  name: "Screens VNC"
+  shortname: "screensvnc"
+  downloadURL: "http://itunes.apple.com/ca/app/screens-vnc-control-your-computer/id446107677?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://edovia.com"
+  category: "Utilities"
+  developer: "Edovia, Inc."
+  date: "2012-08-17"
+-
+  id: 129
+  name: "Bronson Watermarker"
+  shortname: "bronsonwatermarker"
+  downloadURL: "http://itunes.apple.com/us/app/bronson-watermarker/id481867513?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://quoteunquoteapps.com"
+  category: "Productivity"
+  developer: "Quote-Unquote Apps"
+  date: "2012-08-17"
+-
+  id: 128
+  name: "Cartographica"
+  shortname: "cartographica"
+  downloadURL: "http://macgis.com"
+  developerURL: "http://macgis.com"
+  category: "Productivity"
+  developer: "ClueTrust"
+  date: "2012-08-17"
+-
+  id: 127
+  name: "ClipWrap"
+  shortname: "clipwrap"
+  downloadURL: "http://www.divergentmedia.com/clipwrap/trial"
+  developerURL: "http://www.divergentmedia.com"
+  category: "Video"
+  developer: "Divergent Media"
+  date: "2012-08-17"
+-
+  id: 126
+  name: "ScopeBox"
+  shortname: "scopebox"
+  downloadURL: "http://www.divergentmedia.com/scopebox/trial"
+  developerURL: "http://www.divergentmedia.com"
+  category: "Video"
+  developer: "Divergent Media"
+  date: "2012-08-17"
+-
+  id: 125
+  name: "Focus"
+  shortname: "focus"
+  downloadURL: "http://itunes.apple.com/us/app/focus/id432599692?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://coppertino.com/"
+  category: "Photography"
+  developer: "Coppertino Inc."
+  date: "2012-08-17"
+-
+  id: 124
+  name: "PDF Nomad"
+  shortname: "pdfnomad"
+  downloadURL: "http://sintraworks.com/index.php/sintraworks/pdfnomad_home"
+  developerURL: "http://sintraworks.com/"
+  category: "Productivity"
+  developer: "SintraWorks"
+  date: "2012-08-17"
+-
+  id: 123
+  name: "Shade"
+  shortname: "shade"
+  downloadURL: "http://itunes.apple.com/us/app/shade/id546881298?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.limit-point.com"
+  category: "Utilities"
+  developer: "Limit Point LLC"
+  date: "2012-08-16"
+-
+  id: 122
+  name: "Cheddar for Mac (Beta)"
+  shortname: "cheddar"
+  downloadURL: "https://cheddarapp.com/mac"
+  developerURL: "http://nothingmagical.com/"
+  category: "Productivity"
+  developer: "Nothing Magical"
+  date: "2012-08-16"
+-
+  id: 121
+  name: "SimpleEdit"
+  shortname: "simpleedit"
+  downloadURL: "http://simpleeditapp.com/"
+  developerURL: "http://myownapp.com/"
+  category: "Developer Tools"
+  developer: "MOApp Software"
+  date: "2012-08-16"
+-
+  id: 120
+  name: "CocoaBox"
+  shortname: "cocoabox"
+  downloadURL: "http://itunes.apple.com/us/app/cocoabox/id513740073?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://myownapp.com/"
+  category: "Developer Tools"
+  developer: "MOApp Software"
+  date: "2012-08-16"
+-
+  id: 119
+  name: "Verto Studio 3D"
+  shortname: "vertostudio3d"
+  downloadURL: "http://itunes.apple.com/us/app/verto-studio-3d/id503496509?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://vertostudio.com"
+  category: "Graphics & Design"
+  developer: "Michael L. Farrell"
+  date: "2012-08-16"
+-
+  id: 118
+  name: "Sketch 2"
+  shortname: "sketch2"
+  downloadURL: "http://itunes.apple.com/us/app/sketch/id402476602?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://bohemiancoding.com/sketch/"
+  category: "Graphics & Design"
+  developer: "Bohemian Coding"
+  date: "2012-08-16"
+-
+  id: 117
+  name: "Smultron 5"
+  shortname: "smultron"
+  downloadURL: "http://itunes.apple.com/us/app/smultron-5/id543634397?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.peterborgapps.com/smultron"
+  category: "Productivity"
+  developer: "Peter Borg Apps AB"
+  date: "2012-08-16"
+-
+  id: 116
+  name: "Pickr"
+  shortname: "pickr"
+  downloadURL: "http://itunes.apple.com/us/app/pickr/id543659953?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://sebj.me"
+  category: "Developer Tools"
+  developer: "Seb Jachec"
+  date: "2012-08-16"
+-
+  id: 115
+  name: "Flint"
+  shortname: "flint"
+  downloadURL: "http://giantcomet.com/flint"
+  developerURL: "http://giantcomet.com/"
+  category: "Productivity"
+  developer: "Giant Comet"
+  date: "2012-08-16"
+-
+  id: 114
+  name: "Free"
+  shortname: "free"
+  downloadURL: "http://itunes.apple.com/us/app/free/id486226904?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://myownapp.com/"
+  category: "Business"
+  developer: "MOApp Software"
+  date: "2012-08-16"
+-
+  id: 113
+  name: "Write 2"
+  shortname: "write2"
+  downloadURL: "http://itunes.apple.com/us/app/write-2/id542987253?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://myownapp.com/"
+  category: "Business"
+  developer: "MOApp Software"
+  date: "2012-08-16"
+-
+  id: 112
+  name: "Logoist"
+  shortname: "logoist"
+  downloadURL: "http://itunes.apple.com/app/logoist/id502501999?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.avisnocturna.com"
+  category: "Graphics & Design"
+  developer: "AvisNocturna Software"
+  date: "2012-08-16"
+-
+  id: 111
+  name: "Dammit"
+  shortname: "dammit"
+  downloadURL: "http://itunes.apple.com/us/app/dammit-speed-dial-buttons/id507501811?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://myownapp.com/"
+  category: "Productivity"
+  developer: "MOApp Software"
+  date: "2012-08-16"
+-
+  id: 110
+  name: "Quick and Dirty"
+  shortname: "quickanddirty"
+  downloadURL: "http://qndapp.com"
+  developerURL: "http://myownapp.com/"
+  category: "Photography"
+  developer: "MOApp Software"
+  date: "2012-08-16"
+-
+  id: 109
+  name: "Plug Spy"
+  shortname: "plugspy"
+  downloadURL: "&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.celmaro.com"
+  category: "Lifestyle"
+  developer: "celmaro"
+  date: "2012-08-16"
+-
+  id: 108
+  name: "Break Reminder"
+  shortname: "breakreminder"
+  downloadURL: "http://itunes.apple.com/us/app/break-reminder/id405918679?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.tinybird.com"
+  category: "Health & Fitness"
+  developer: "Tinybird Interactive AB"
+  date: "2012-08-16"
+-
+  id: 107
+  name: "QQ"
+  shortname: "qq"
+  downloadURL: "http://itunes.apple.com/us/app/qq/id451108668?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://iblog.tencent.com/"
+  category: "Social Networking"
+  developer: "Tencent iTeam"
+  date: "2012-08-16"
+-
+  id: 106
+  name: "iStudiez Pro"
+  shortname: "istudiezpro"
+  downloadURL: "http://itunes.apple.com/us/app/istudiez-pro/id402989379?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.istudentpro.com"
+  category: "Productivity"
+  developer: "iStudiez Team"
+  date: "2012-08-15"
+-
+  id: 105
+  name: "File Storage Companion"
+  shortname: "filestoragecompanion"
+  downloadURL: "http://itunes.apple.com/app/file-storage-companion/id537235560?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://delitestudio.com"
+  category: "Productivity"
+  developer: "Delite Studio S.r.l."
+  date: "2012-08-15"
+-
+  id: 104
+  name: "Prices Drop Monitor for Amazon"
+  shortname: "pricesdropmonitorforamazon"
+  downloadURL: "http://itunes.apple.com/app/prices-drop-monitor-for-amazon/id473939551?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://delitestudio.com"
+  category: "Lifestyle"
+  developer: "Delite Studio S.r.l."
+  date: "2012-08-15"
+-
+  id: 103
+  name: "Browser Care"
+  shortname: "browsercare"
+  downloadURL: "http://itunes.apple.com/us/app/browser-care/id531173832?l=it&ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://browsercare.com"
+  category: "Utilities"
+  developer: "Giovanni Maria Cusaro"
+  date: "2012-08-15"
+-
+  id: 102
+  name: "HazeOver"
+  shortname: "hazeover"
+  downloadURL: "http://itunes.apple.com/us/app/hazeover/id430798174?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.hazeover.com"
+  category: "Productivity"
+  developer: "Maxim Ananov"
+  date: "2012-08-15"
+-
+  id: 101
+  name: "FxFactory"
+  shortname: "fxfactory"
+  downloadURL: "http://www.noiseindustries.com/fxfactory/download/"
+  developerURL: "http://www.noiseindustries.com"
+  category: "Video"
+  developer: "Noise Industries"
+  date: "2012-08-14"
+-
+  id: 100
+  name: "Desktop Calendar Plus"
+  shortname: "desktopcalendarplus"
+  downloadURL: "http://itunes.apple.com/app/desktop-calendar-plus/id524688159?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://3fl.jp/dcp/"
+  category: "Utilities"
+  developer: "3flab, inc."
+  date: "2012-08-14"
+-
+  id: 99
+  name: "BreakTime"
+  shortname: "breaktime"
+  downloadURL: "http://itunes.apple.com/us/app/breaktime/id427475982?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://excitedpixel.com"
+  category: "Productivity"
+  developer: "Excited Pixel"
+  date: "2012-08-14"
+-
+  id: 98
+  name: "Double Decker"
+  shortname: "doubledecker"
+  downloadURL: "http://itunes.apple.com/us/app/double-decker/id514177303?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://toohardbasket.com"
+  category: "Games"
+  developer: "Too Hard Basket"
+  date: "2012-08-14"
+-
+  id: 97
+  name: "Guitar Jam Tracks"
+  shortname: "guitarjamtracks"
+  downloadURL: "http://itunes.apple.com/us/app/guitar-jam-tracks-scale-trainer/id548947732?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.ninebuzz.com"
+  category: "Music"
+  developer: "Ninebuzz"
+  date: "2012-08-14"
+-
+  id: 96
+  name: "Byword"
+  shortname: "byword"
+  downloadURL: "http://itunes.apple.com/us/app/byword/id420212497?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://metaclassy.com/"
+  category: "Productivity"
+  developer: "Metaclassy, Lda."
+  date: "2012-08-14"
+-
+  id: 95
+  name: "iTeleport"
+  shortname: "iteleport"
+  downloadURL: "http://itunes.apple.com/us/app/iteleport-vnc/id489094439?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.iteleportmobile.com"
+  category: "Utilities"
+  developer: "iTeleport VNC"
+  date: "2012-08-14"
+-
+  id: 94
+  name: "Lens•Lab"
+  shortname: "lenslab"
+  downloadURL: "http://itunes.apple.com/us/app/lens-lab/id452548360?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://jeffmenter.wordpress.com/lens•lab/"
+  category: "Photography"
+  developer: "Jeff Menter"
+  date: "2012-08-14"
+-
+  id: 93
+  name: "MarsEdit"
+  shortname: "marsedit"
+  downloadURL: "http://itunes.apple.com/us/app/marsedit-blog-editor-for-wordpress/id402376225?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.red-sweater.com/"
+  category: "Social Networking"
+  developer: "Red Sweater Software"
+  date: "2012-08-14"
+-
+  id: 92
+  name: "Wallpaper Wizard"
+  shortname: "wallpaperwizard"
+  downloadURL: "http://itunes.apple.com/us/app/wallpaper-wizard/id410801088?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://coppertino.com/"
+  category: "Utilities"
+  developer: "Coppertino Inc."
+  date: "2012-08-14"
+-
+  id: 91
+  name: "Twins Duplicate Finder"
+  shortname: "twins"
+  downloadURL: "http://itunes.apple.com/us/app/twins-duplicate-finder/id502961959?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.rockysandstudio.com"
+  category: "Utilities"
+  developer: "Rocky Sand Studios"
+  date: "2012-08-14"
+-
+  id: 90
+  name: "BeHealthy"
+  shortname: "behealthy"
+  downloadURL: "http://itunes.apple.com/us/app/behealthy/id442127171?mt=12partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://wunderkopf.com/"
+  category: "Health & Fitness"
+  developer: "Wunderkopf"
+  date: "2012-08-14"
+-
+  id: 89
+  name: "CopyLess"
+  shortname: "copyless"
+  downloadURL: "http://itunes.apple.com/us/app/copyless/id416439303?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.maxbor.net"
+  category: "Productivity"
+  developer: "maxbor"
+  date: "2012-08-14"
+-
+  id: 88
+  name: "ePic"
+  shortname: "epic"
+  downloadURL: "http://itunes.apple.com/us/app/epic/id428768193?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://epicreal.com"
+  category: "Entertainment"
+  developer: "Epicreal Team"
+  date: "2012-08-14"
+-
+  id: 87
+  name: "Gemini"
+  shortname: "gemini"
+  downloadURL: "http://itunes.apple.com/us/app/gemini-the-duplicate-finder/id463541543?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://macpaw.com"
+  category: "Utilities"
+  developer: "MacPaw"
+  date: "2012-08-14"
+-
+  id: 86
+  name: "CleanMyDrive"
+  shortname: "cleanmydrive"
+  downloadURL: "http://itunes.apple.com/us/app/cleanmydrive-external-drives/id523620159?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://macpaw.com"
+  category: "Utilities"
+  developer: "MacPaw"
+  date: "2012-08-14"
+-
+  id: 85
+  name: "Sword & Sworcery EP"
+  shortname: "swordandsworceryep"
+  downloadURL: "http://itunes.apple.com/us/app/superbrothers-sword-sworcery/id530661872?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.swordandsworcery.com/"
+  category: "Games"
+  developer: "Superbrothers"
+  date: "2012-08-14"
+-
+  id: 84
+  name: "djay"
+  shortname: "djay"
+  downloadURL: "http://itunes.apple.com/us/app/djay/id411699771?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.algoriddim.com"
+  category: "Music"
+  developer: "Algoriddim"
+  date: "2012-08-14"
+-
+  id: 83
+  name: "JPEGmini"
+  shortname: "jpegmini"
+  downloadURL: "http://itunes.apple.com/us/app/jpegmini/id498944723?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.jpegmini.com"
+  category: "Photography"
+  developer: "JPEGmini"
+  date: "2012-08-14"
+-
+  id: 82
+  name: "Favs"
+  shortname: "favs"
+  downloadURL: "http://itunes.apple.com/us/app/favs/id436961703?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.favsapp.com"
+  category: "Social Networking"
+  developer: "Dirk Holtwick"
+  date: "2012-08-14"
+-
+  id: 81
+  name: "Inkist"
+  shortname: "inkist"
+  downloadURL: "http://itunes.apple.com/us/app/inkist/id518640757?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://inki.st/"
+  category: "Graphics & Design"
+  developer: "Tai Shimizu"
+  date: "2012-08-14"
+-
+  id: 80
+  name: "Star Wars: The Force Unleashed"
+  shortname: "starwarstheforceunleashed"
+  downloadURL: "http://itunes.apple.com/us/app/star-wars-the-force-unleashed/id515003911?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.aspyr.com"
+  category: "Games"
+  developer: "Aspyr Media"
+  date: "2012-08-14"
+-
+  id: 79
+  name: "PDF Toolkit"
+  shortname: "pdftoolkit"
+  downloadURL: "http://itunes.apple.com/us/app/pdf-toolkit/id405219581?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://molsim.info/mobsci/pdftoolkit.html"
+  category: "Productivity"
+  developer: "Mobile Science Apps"
+  date: "2012-08-14"
+-
+  id: 77
+  name: "Disk Alarm"
+  shortname: "diskalarm"
+  downloadURL: "http://itunes.apple.com/us/app/disk-alarm/id424472944?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://diskalarm.com"
+  category: "Utilities"
+  developer: "Pomcast.biz"
+  date: "2012-08-13"
+-
+  id: 76
+  name: "Multimon"
+  shortname: "multimon"
+  downloadURL: "http://itunes.apple.com/us/app/multimon/id522324709?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.delveapps.com"
+  category: "Productivity"
+  developer: "Delve Apps"
+  date: "2012-08-13"
+-
+  id: 75
+  name: "FlashFrozen"
+  shortname: "flashfrozen"
+  downloadURL: "http://itunes.apple.com/us/app/flashfrozen/id413876424?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://flashfrozen.net"
+  category: "Utilities"
+  developer: "Tyler Loch"
+  date: "2012-08-13"
+-
+  id: 74
+  name: "doo"
+  shortname: "doo"
+  downloadURL: "http://doo.net"
+  developerURL: "http://doo.net"
+  category: "Productivity"
+  developer: "doo GmbH"
+  date: "2012-08-13"
+-
+  id: 73
+  name: "Magic Maps"
+  shortname: "magicmaps"
+  downloadURL: "http://itunes.apple.com/us/app/magic-maps/id426030785?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://magicmaps.evanmiller.org/"
+  category: "Graphics & Design"
+  developer: "Evan Miller"
+  date: "2012-08-13"
+-
+  id: 72
+  name: "MoneyMoney"
+  shortname: "moneymoney"
+  downloadURL: "http://itunes.apple.com/us/app/moneymoney-banking/id418789307?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://moneymoney-app.com"
+  category: "Finance"
+  developer: "Raureif"
+  date: "2012-08-13"
+-
+  id: 71
+  name: "Skala Preview"
+  shortname: "skalapreview"
+  downloadURL: "http://itunes.apple.com/us/app/skala-preview/id498875079?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.bjango.com"
+  category: "Graphics & Design"
+  developer: "Bjango"
+  date: "2012-08-13"
+-
+  id: 70
+  name: "Ejector Seat"
+  shortname: "ejectorseat"
+  downloadURL: "http://boxcarsoftwa.re/ejectorseat"
+  developerURL: "http://boxcarsoftwa.re"
+  category: "Productivity"
+  developer: "Boxcar Software"
+  date: "2012-08-13"
+-
+  id: 69
+  name: "Caffeinated"
+  shortname: "caffeinated"
+  downloadURL: "http://itunes.apple.com/app/caffeinated/id502378856?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.geekygoodness.com/"
+  category: "News"
+  developer: "Curtis Hard"
+  date: "2012-08-13"
+-
+  id: 68
+  name: "Skip Tunes"
+  shortname: "skiptunes"
+  downloadURL: "http://itunes.apple.com/us/app/skip-tunes/id499695659?mt=12"
+  developerURL: "http://www.skiptunes.com"
+  category: "Music"
+  developer: "Skip Tunes"
+  date: "2012-08-13"
+-
+  id: 67
+  name: "IP Scanner"
+  shortname: "ipscanner"
+  downloadURL: "http://itunes.apple.com/us/app/ip-scanner-pro/id404167677?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://10base-t.com"
+  category: "Utilities"
+  developer: "10base-t Interactive"
+  date: "2012-08-13"
+-
+  id: 66
+  name: "OsiriX"
+  shortname: "osirix"
+  downloadURL: "http://www.osirix-viewer.com"
+  developerURL: "http://www.pixmeo.com"
+  category: "Medical"
+  developer: "Pixmeo"
+  date: "2012-08-13"
+-
+  id: 65
+  name: "DropCopy"
+  shortname: "dropcopy"
+  downloadURL: "http://itunes.apple.com/app/dropcopy/id403411542?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://10base-t.com"
+  category: "Productivity"
+  developer: "10base-t Interactive"
+  date: "2012-08-13"
+-
+  id: 64
+  name: "SpellTower"
+  shortname: "spelltower"
+  downloadURL: "http://itunes.apple.com/us/app/spelltower/id544860924?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.spelltower.com"
+  category: "Games"
+  developer: "Zach Gage"
+  date: "2012-08-10"
+-
+  id: 63
+  name: "iA Writer"
+  shortname: "iawriter"
+  downloadURL: "http://itunes.apple.com/us/app/ia-writer/id439623248?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://informationarchitects.net"
+  category: "Productivity"
+  developer: "Information Architects"
+  date: "2012-08-10"
+-
+  id: 62
+  name: "Things 2"
+  shortname: "things2"
+  downloadURL: "http://itunes.apple.com/us/app/things/id407951449?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://culturedcode.com"
+  category: "Productivity"
+  developer: "Cultured Code"
+  date: "2012-08-09"
+-
+  id: 61
+  name: "Pixelmator"
+  shortname: "pixelmator"
+  downloadURL: "http://itunes.apple.com/us/app/pixelmator/id407963104?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://pixelmator.com"
+  category: "Graphics & Design"
+  developer: "Pixelmator Team Ltd."
+  date: "2012-08-09"
+-
+  id: 60
+  name: "Play by Play"
+  shortname: "playbyplay"
+  downloadURL: "http://itunes.apple.com/us/app/play-by-play/id474543724?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://davidkeegan.com"
+  category: "Graphics & Design"
+  developer: "David Keegan"
+  date: "2012-08-09"
+-
+  id: 59
+  name: "Clocks"
+  shortname: "clocks"
+  downloadURL: "http://itunes.apple.com/app/clocks/id414554506?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.studiodalton.com/"
+  category: "Utilities"
+  developer: "Studio Dalton"
+  date: "2012-08-09"
+-
+  id: 58
+  name: "CopyPath"
+  shortname: "copypath"
+  downloadURL: "http://itunes.apple.com/us/app/copypath/id418079031?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://davidkeegan.com"
+  category: "Utilities"
+  developer: "David Keegan"
+  date: "2012-08-09"
+-
+  id: 57
+  name: "ShellTo"
+  shortname: "shellto"
+  downloadURL: "http://itunes.apple.com/us/app/shellto/id418075847?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://davidkeegan.com"
+  category: "Utilities"
+  developer: "David Keegan"
+  date: "2012-08-09"
+-
+  id: 56
+  name: "ZOC"
+  shortname: "zoc"
+  downloadURL: "http://www.emtec.com/zoc"
+  developerURL: "http://www.emtec.com"
+  category: "Utilities"
+  developer: "EmTec, Markus Schmidt"
+  date: "2012-08-09"
+-
+  id: 55
+  name: "Rdio"
+  shortname: "rdio"
+  downloadURL: "http://www.rdio.com/apps/"
+  developerURL: "http://rdio.com"
+  category: "Music"
+  developer: "Rdio, Inc."
+  date: "2012-08-08"
+-
+  id: 54
+  name: "Skitch"
+  shortname: "skitch"
+  downloadURL: "http://itunes.apple.com/us/app/skitch/id425955336?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://evernote.com/skitch/"
+  category: "Productivity"
+  developer: "Evernote"
+  date: "2012-08-08"
+-
+  id: 53
+  name: "SourceTree"
+  shortname: "sourcetree"
+  downloadURL: "http://www.sourcetreeapp.com"
+  developerURL: "http://www.sourcetreeapp.com"
+  category: "Developer Tools"
+  developer: "Atlassian"
+  date: "2012-08-08"
+-
+  id: 52
+  name: "DragonDrop"
+  shortname: "dragondrop"
+  downloadURL: "http://itunes.apple.com/us/app/dragondrop/id499148234?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "https://twitter.com/shinypb"
+  category: "Utilities"
+  developer: "Whimsicalifornia"
+  date: "2012-08-08"
+-
+  id: 51
+  name: "MacJournal"
+  shortname: "macjournal"
+  downloadURL: "https://www.marinersoftware.com/products/macjournal/"
+  developerURL: "http://marinersoftware.com"
+  category: "Productivity"
+  developer: "Mariner/Dan Schimpf"
+  date: "2012-08-08"
+-
+  id: 50
+  name: "PaintCode"
+  shortname: "paintcode"
+  downloadURL: "http://itunes.apple.com/us/app/paintcode/id507897570?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.paintcodeapp.com"
+  category: "Productivity"
+  developer: "PixelCut"
+  date: "2012-08-08"
+-
+  id: 49
+  name: "ByteController"
+  shortname: "bytecontroller"
+  downloadURL: "http://itunes.apple.com/us/app/bytecontroller/id542035956?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://awil.no"
+  category: "Utilities"
+  developer: "Audun Wilhelmsen"
+  date: "2012-08-08"
+-
+  id: 48
+  name: "Glow for FB"
+  shortname: "glowforfb"
+  downloadURL: "http://www.glowforfb.com"
+  developerURL: "http://raffael.me"
+  category: "Social Networking"
+  developer: "Raffael Hannemann"
+  date: "2012-08-08"
+-
+  id: 47
+  name: "Space Gremlin"
+  shortname: "spacegremlin"
+  downloadURL: "http://itunes.apple.com/us/app/space-gremlin/id414515628?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.spacegremlinapp.com/"
+  category: "Utilities"
+  developer: "Sean Christmann"
+  date: "2012-08-08"
+-
+  id: 46
+  name: "YoruFukurou"
+  shortname: "yorufukurou"
+  downloadURL: "https://sites.google.com/site/yorufukurou/home-en"
+  developerURL: "http://aki-null.net/"
+  category: "Social Networking"
+  developer: "@aki & @hydroxygenic"
+  date: "2012-08-08"
+-
+  id: 45
+  name: "Crunch"
+  shortname: "crunch"
+  downloadURL: "http://www.pragmaticcode.com/crunch/"
+  developerURL: "http://www.pragmaticcode.com/"
+  category: "Developer Tools"
+  developer: "Pragmatic Code"
+  date: "2012-08-08"
+-
+  id: 44
+  name: "Iron Money"
+  shortname: "ironmoney"
+  downloadURL: "http://itunes.apple.com/us/app/iron-money/id412762095&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "https://ironmoney.com/mac/"
+  category: "Finance"
+  developer: "Iron Money"
+  date: "2012-08-08"
+-
+  id: 42
+  name: "Armadillo Audio Notes"
+  shortname: "armadilloaudionotes"
+  downloadURL: "http://itunes.apple.com/de/app/armadillo-audio-notes/id532223938?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.fluxforge.com"
+  category: "Productivity"
+  developer: "Flux Forge"
+  date: "2012-08-08"
+-
+  id: 41
+  name: "InstaDesk"
+  shortname: "instadesk"
+  downloadURL: "http://itunes.apple.com/de/app/instadesk-best-mac-app-for/id428652446?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.instadesk-app.com"
+  category: "Social Networking"
+  developer: "Benedikt Terhechte"
+  date: "2012-08-08"
+-
+  id: 40
+  name: "Dash"
+  shortname: "dash"
+  downloadURL: "http://itunes.apple.com/us/app/dash-docs-snippets/id458034879?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://kapeli.com/dash/"
+  category: "Developer Tools"
+  developer: "Kapeli"
+  date: "2012-08-08"
+-
+  id: 39
+  name: "CloudApp"
+  shortname: "cloudapp"
+  downloadURL: "http://itunes.apple.com/us/app/cloud/id417602904?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.getcloudapp.com/"
+  category: "Productivity"
+  developer: "Linebreak"
+  date: "2012-08-07"
+-
+  id: 1
+  name: "1Password"
+  shortname: "1password"
+  downloadURL: "http://itunes.apple.com/us/app/1password-password-manager/id443987910?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "https://agilebits.com"
+  category: "Productivity"
+  developer: "AgileBits"
+  date: "2012-08-04"
+-
+  id: 3
+  name: "Pages"
+  shortname: "pages"
+  downloadURL: "http://itunes.apple.com/us/app/pages/id409201541?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://apple.com"
+  category: "Productivity"
+  developer: "Apple"
+  date: "2012-08-05"
+-
+  id: 4
+  name: "Coda"
+  shortname: "coda"
+  downloadURL: "http://itunes.apple.com/us/app/coda-2/id499340368?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://panic.com"
+  category: "Developer Tools"
+  developer: "Panic"
+  date: "2012-08-04"
+-
+  id: 5
+  name: "Cyberduck"
+  shortname: "cyberduck"
+  downloadURL: "http://update.cyberduck.ch/nightly/"
+  developerURL: "http://cyberduck.ch"
+  category: "Productivity"
+  developer: "David Kocher"
+  date: "2012-08-04"
+-
+  id: 6
+  name: "Day One"
+  shortname: "dayone"
+  downloadURL: "http://itunes.apple.com/us/app/day-one/id422304217?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://dayoneapp.com/"
+  category: "Lifestyle"
+  developer: "Bloom Built"
+  date: "2012-08-04"
+-
+  id: 7
+  name: "Direct Mail"
+  shortname: "directmail"
+  downloadURL: "http://itunes.apple.com/us/app/direct-mail/id500040344?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://directmailmac.com"
+  category: "Business"
+  developer: "e3 Software"
+  date: "2012-08-04"
+-
+  id: 8
+  name: "Evernote"
+  shortname: "evernote"
+  downloadURL: "http://itunes.apple.com/us/app/evernote/id406056744?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.evernote.com/"
+  category: "Productivity"
+  developer: "Evernote"
+  date: "2012-08-04"
+-
+  id: 9
+  name: "Fantastical"
+  shortname: "fantastical"
+  downloadURL: "http://itunes.apple.com/us/app/fantastical/id435003921?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://flexibits.com"
+  category: "Productivity"
+  developer: "Flexibits"
+  date: "2012-08-04"
+-
+  id: 10
+  name: "Fidelia"
+  shortname: "fidelia"
+  downloadURL: "http://itunes.apple.com/us/app/fidelia/id416135376?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.audiofile-engineering.com"
+  category: "Music"
+  developer: "Audiofile Engineering"
+  date: "2012-08-04"
+-
+  id: 11
+  name: "Firetask"
+  shortname: "firetask"
+  downloadURL: "http://itunes.apple.com/us/app/firetask/id408035776?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.firetask.com"
+  category: "Productivity"
+  developer: "Gerald Aquila"
+  date: "2012-08-04"
+-
+  id: 12
+  name: "Google Chrome"
+  shortname: "googlechrome"
+  downloadURL: "https://www.google.com/chrome"
+  developerURL: "http://google.com"
+  category: "Utilities"
+  developer: "Google"
+  date: "2012-08-04"
+-
+  id: 13
+  name: "Kicksend"
+  shortname: "kicksend"
+  downloadURL: "http://kicksend.com/apps/mac/"
+  developerURL: "http://kicksend.com"
+  category: "Photography"
+  developer: "Receivd"
+  date: "2012-08-04"
+-
+  id: 14
+  name: "Little Snitch"
+  shortname: "littlesnitch"
+  downloadURL: "http://www.obdev.at/products/littlesnitch/download.html"
+  developerURL: "http://www.obdev.at"
+  category: "Utilities"
+  developer: "Objective Development"
+  date: "2012-08-04"
+-
+  id: 15
+  name: "Mac Family Tree"
+  shortname: "macfamilytree"
+  downloadURL: "http://itunes.apple.com/us/app/macfamilytree/id402390872?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.syniumsoftware.com"
+  category: "Productivity"
+  developer: "Synium Software"
+  date: "2012-08-04"
+-
+  id: 16
+  name: "Mint"
+  shortname: "mint"
+  downloadURL: "http://itunes.apple.com/us/app/mint-quickview/id533491939?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.mint.com"
+  category: "Finance"
+  developer: "Mint.com"
+  date: "2012-08-04"
+-
+  id: 17
+  name: "MoneyWiz"
+  shortname: "moneywiz"
+  downloadURL: "http://itunes.apple.com/us/app/moneywiz-personal-finance/id465339122?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.silverwiz.com"
+  category: "Finance"
+  developer: "SilverWiz"
+  date: "2012-08-04"
+-
+  id: 19
+  name: "Pulp"
+  shortname: "pulp"
+  downloadURL: "http://itunes.apple.com/us/app/pulp/id406857632?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.acrylicapps.com/pulp/"
+  category: "News"
+  developer: "Acrylic Software"
+  date: "2012-08-04"
+-
+  id: 20
+  name: "Reeder"
+  shortname: "reeder"
+  downloadURL: "http://itunes.apple.com/us/app/reeder/id439845554?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://reederapp.com"
+  category: "News"
+  developer: "Silvio Rizzi"
+  date: "2012-08-04"
+-
+  id: 21
+  name: "Slicy"
+  shortname: "slicy"
+  downloadURL: "http://itunes.apple.com/us/app/slicy/id512533449?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://macrabbit.com"
+  category: "Graphics & Design"
+  developer: "MacRabbit"
+  date: "2012-08-04"
+-
+  id: 22
+  name: "Sparrow"
+  shortname: "sparrow"
+  downloadURL: "http://itunes.apple.com/us/app/sparrow/id417250177?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.sparrowmailapp.com/"
+  category: "Productivity"
+  developer: "Sparrow"
+  date: "2012-08-04"
+-
+  id: 23
+  name: "Sublime Text"
+  shortname: "sublimetext"
+  downloadURL: "http://www.sublimetext.com/2"
+  developerURL: "http://www.sublimetext.com"
+  category: "Developer Tools"
+  developer: "Sublime HQ Pty Ltd"
+  date: "2012-08-04"
+-
+  id: 24
+  name: "TextExpander"
+  shortname: "textexpander"
+  downloadURL: "http://itunes.apple.com/us/app/textexpander-for-mac/id405274824?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://smilesoftware.com"
+  category: "Productivity"
+  developer: "SmileOnMyMac"
+  date: "2012-08-04"
+-
+  id: 25
+  name: "Transmission"
+  shortname: "transmission"
+  downloadURL: "http://www.transmissionbt.com"
+  developerURL: "http://www.transmissionbt.com"
+  category: "Utilities"
+  developer: "Transmission Project"
+  date: "2012-08-04"
+-
+  id: 26
+  name: "Transmit"
+  shortname: "transmit"
+  downloadURL: "http://itunes.apple.com/us/app/transmit/id403388562?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://panic.com"
+  category: "Productivity"
+  developer: "Panic"
+  date: "2012-08-04"
+-
+  id: 27
+  name: "Trillian"
+  shortname: "trillian"
+  downloadURL: "http://itunes.apple.com/us/app/trillian/id412056820?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.trillian.im/"
+  category: "Social Networking"
+  developer: "Cerulean Studios"
+  date: "2012-08-04"
+-
+  id: 28
+  name: "Carbon Copy Cloner"
+  shortname: "carboncopycloner"
+  downloadURL: "http://www.bombich.com"
+  developerURL: "http://www.bombich.com"
+  category: "Utilities"
+  developer: "Bombich Software"
+  date: "2012-08-04"
+-
+  id: 29
+  name: "Twitterrific"
+  shortname: "twitterrific"
+  downloadURL: "http://itunes.apple.com/us/app/twitterrific-for-twitter/id414957465?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://twitterrific.com/mac"
+  category: "Social Networking"
+  developer: "The Iconfactory"
+  date: "2012-08-04"
+-
+  id: 30
+  name: "VLC"
+  shortname: "vlc"
+  downloadURL: "http://www.videolan.org/vlc/download-macosx.html"
+  developerURL: "http://www.videolan.org"
+  category: "Entertainment"
+  developer: "VideoLAN"
+  date: "2012-08-04"
+-
+  id: 31
+  name: "VoodooPad"
+  shortname: "voodoopad"
+  downloadURL: "http://itunes.apple.com/us/app/voodoopad-5/id514489722?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://flyingmeat.com"
+  category: "Productivity"
+  developer: "Flying Meat"
+  date: "2012-08-04"
+-
+  id: 32
+  name: "Acorn"
+  shortname: "acorn"
+  downloadURL: "http://itunes.apple.com/us/app/acorn-image-editor-for-humans/id402280036?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://flyingmeat.com"
+  category: "Graphics & Design"
+  developer: "Flying Meat"
+  date: "2012-08-04"
+-
+  id: 33
+  name: "Keynote"
+  shortname: "keynote"
+  downloadURL: "http://itunes.apple.com/us/app/keynote/id409183694?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://apple.com"
+  category: "Productivity"
+  developer: "Apple"
+  date: "2012-08-05"
+-
+  id: 34
+  name: "OS X Server"
+  shortname: "server"
+  downloadURL: "http://itunes.apple.com/us/app/os-x-server/id537441259?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://apple.com"
+  category: "Utilities"
+  developer: "Apple"
+  date: "2012-08-05"
+-
+  id: 35
+  name: "Final Cut Pro"
+  shortname: "finalcutpro"
+  downloadURL: "http://itunes.apple.com/us/app/final-cut-pro/id424389933?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://apple.com"
+  category: "Video"
+  developer: "Apple"
+  date: "2012-08-05"
+-
+  id: 36
+  name: "Numbers"
+  shortname: "numbers"
+  downloadURL: "http://itunes.apple.com/us/app/numbers/id409203825?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://apple.com"
+  category: "Productivity"
+  developer: "Apple"
+  date: "2012-08-05"
+-
+  id: 37
+  name: "Aperture"
+  shortname: "aperture"
+  downloadURL: "http://itunes.apple.com/us/app/aperture/id408981426?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://apple.com"
+  category: "Photography"
+  developer: "Apple"
+  date: "2012-08-05"
+-
+  id: 38
+  name: "Xcode"
+  shortname: "xcode"
+  downloadURL: "http://itunes.apple.com/us/app/xcode/id497799835?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://apple.com"
+  category: "Developer Tools"
+  developer: "Apple"
+  date: "2012-08-05"
