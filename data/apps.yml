@@ -1,4 +1,13 @@
 -
+  id: 228
+  name: "Pocket"
+  shortname: "pocket"
+  downloadURL: "https://itunes.apple.com/us/app/pocket/id568494494?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://getpocket.com/"
+  category: "News"
+  developer: "Idea Shower"
+  date: "2012-10-26"
+-
   id: 2
   name: "Tweetbot"
   shortname: "tweetbot"
