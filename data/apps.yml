@@ -1,4 +1,139 @@
 -
+  id: 2
+  name: "Tweetbot"
+  shortname: "tweetbot"
+  downloadURL: "https://itunes.apple.com/us/app/tweetbot-for-twitter/id557168941?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://tapbots.com"
+  category: "Social Networking"
+  developer: "Tapbots"
+  date: "2012-10-26"
+-
+  id: 227
+  name: "Skype"
+  shortname: "skype"
+  downloadURL: "http://www.skype.com/go/downloading"
+  developerURL: "http://www.skype.com"
+  category: "Social Networking"
+  developer: "Skype"
+  date: "2012-10-26"
+-
+  id: 228
+  name: "iBooks Author"
+  shortname: "ibooksauthor"
+  downloadURL: "https://itunes.apple.com/us/app/ibooks-author/id490152466?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://apple.com/"
+  category: "Productivity"
+  developer: "Apple"
+  date: "2012-10-26"
+-
+  id: 227
+  name: "Snapheal"
+  shortname: "snapheal"
+  downloadURL: "http://itunes.apple.com/us/app/snapheal/id480623975?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://macphun.com/"
+  category: "Photography"
+  developer: "MacPhun"
+  date: "2012-10-26"
+-
+  id: 226
+  name: "Stitcha"
+  shortname: "stitcha"
+  downloadURL: "https://itunes.apple.com/app/stitcha/id551036823?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://floriandenis.net"
+  category: "Photography"
+  developer: "Florian Denis"
+  date: "2012-10-26"
+-
+  id: 225
+  name: ""
+  shortname: ""
+  downloadURL: "&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "https://foundapp.com"
+  category: "Productivity"
+  developer: "Found Software, Inc."
+  date: "2012-10-26"
+-
+  id: 224
+  name: "Found"
+  shortname: "found"
+  downloadURL: "http://itunes.apple.com/app/found/id527134927?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: ""
+  category: ""
+  developer: ""
+  date: "2012-10-26"
+-
+  id: 223
+  name: "Display Mode"
+  shortname: "displaymode"
+  downloadURL: "https://itunes.apple.com/us/app/display-mode-resolution-menu/id553412521?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.whereisthewalrus.com"
+  category: "Utilities"
+  developer: "Walrus Apps"
+  date: "2012-10-26"
+-
+  id: 222
+  name: "Drop'n'Roll video editor"
+  shortname: "dropnroll"
+  downloadURL: "https://itunes.apple.com/us/app/dropnroll-automatic-video/id552983725?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.dropnroll.tv"
+  category: "Video"
+  developer: "New Photographers Burning Factory Ltd."
+  date: "2012-10-26"
+-
+  id: 221
+  name: "Real Metronome"
+  shortname: "realmetronome"
+  downloadURL: "https://itunes.apple.com/us/app/real-metronome/id533752136?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://zeuselectronics.eu"
+  category: "Music"
+  developer: "Zeus Electronics"
+  date: "2012-10-26"
+-
+  id: 220
+  name: "Curio"
+  shortname: "curio"
+  downloadURL: "http://www.zengobi.com/products/curio/?ref=retinamacapps"
+  developerURL: "http://www.zengobi.com"
+  category: "Productivity"
+  developer: "Zengobi"
+  date: "2012-10-26"
+-
+  id: 219
+  name: "Firefox"
+  shortname: "firefox"
+  downloadURL: "http://firefox.com"
+  developerURL: "http://mozilla.org"
+  category: "Productivity"
+  developer: "Mozilla"
+  date: "2012-10-26"
+-
+  id: 218
+  name: "Type Fu"
+  shortname: "typefu"
+  downloadURL: "http://itunes.apple.com/us/app/type-fu/id509818877?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://kiwi-themes.com"
+  category: "Education"
+  developer: "Jarosław Foksa"
+  date: "2012-10-26"
+-
+  id: 217
+  name: "QuickLock"
+  shortname: "quicklock"
+  downloadURL: "http://quicklockapp.com/?ref=retinamacapps"
+  developerURL: "http://www.inertiactive.com"
+  category: "Utilities"
+  developer: "Inertactive"
+  date: "2012-10-26"
+-
+  id: 216
+  name: "Pool!"
+  shortname: "pool"
+  downloadURL: "https://itunes.apple.com/app/pool!/id416970936?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://byterun.com/"
+  category: "Games"
+  developer: "ByteRun"
+  date: "2012-10-26"
+-
   id: 215
   name: "Opera"
   shortname: "opera"
@@ -1599,15 +1734,6 @@
   developerURL: "https://agilebits.com"
   category: "Productivity"
   developer: "AgileBits"
-  date: "2012-08-04"
--
-  id: 2
-  name: "Tweetbot"
-  shortname: "tweetbot"
-  downloadURL: "http://tapbots.com/tweetbot_mac/"
-  developerURL: "http://tapbots.com"
-  category: "Social Networking"
-  developer: "Tapbots"
   date: "2012-08-04"
 -
   id: 3
