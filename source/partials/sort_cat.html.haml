@@ -9,10 +9,5 @@ layout: false
       - category = a.category
       %li{class: "app-category"}
         %div= a.category
-    %li{class: "app-item #{a.shortname}"}
+    %li{class: "#{a.shortname}"}
       %a{href: "#{a.downloadURL}", class: "application", title: "Download #{a.name}", target: "_blank"}
-        %img{src: "/images/apps/#{a.shortname}.png", alt: "#{a.name}", title: "#{a.name}", width: 256, height: 256}
-      %h3
-        %a{href: "#{a.downloadURL}", class: "application-name", title: "Download #{a.name}", target: "_blank"}= a.name
-      %a{href: "#{a.developerURL}", class: "developer", title: "Visit #{a.developer}", target: "_blank"}= a.developer
-      
