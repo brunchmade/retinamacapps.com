@@ -98,15 +98,6 @@
   developer: "Zengobi"
   date: "2012-10-26"
 -
-  id: 219
-  name: "Firefox"
-  shortname: "firefox"
-  downloadURL: "http://firefox.com"
-  developerURL: "http://mozilla.org"
-  category: "Productivity"
-  developer: "Mozilla"
-  date: "2012-10-26"
--
   id: 218
   name: "Type Fu"
   shortname: "typefu"
@@ -133,15 +124,6 @@
   category: "Games"
   developer: "ByteRun"
   date: "2012-10-26"
--
-  id: 215
-  name: "Opera"
-  shortname: "opera"
-  downloadURL: "http://itunes.apple.com/us/app/opera/id404764921?mt=12&partnerId=30&siteID=XiIlgOb99EY"
-  developerURL: "http://opera.com"
-  category: "Productivity"
-  developer: "Opera Software"
-  date: "2012-10-02"
 -
   id: 215
   name: "WeathrClip"
