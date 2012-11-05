@@ -1,4 +1,58 @@
 -
+  id: 234
+  name: "iDraw"
+  shortname: "idraw"
+  downloadURL: "https://itunes.apple.com/us/app/idraw/id404705039?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.indeeo.com/idraw/"
+  category: "Graphics & Design"
+  developer: "Indeeo, Inc"
+  date: "2012-11-04"
+-
+  id: 233
+  name: "LiveQuartz"
+  shortname: "livequartz"
+  downloadURL: "https://itunes.apple.com/us/app/livequartz/id402387626?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.livequartz.com/"
+  category: "Photography"
+  developer: "Romain Piveteau"
+  date: "2012-11-04"
+-
+  id: 232
+  name: "Prizmo"
+  shortname: "prizmo"
+  downloadURL: "https://itunes.apple.com/us/app/prizmo-2-scanning-ocr-speech/id546392952?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.creaceed.com/prizmo/about"
+  category: "Business"
+  developer: "Creaceed"
+  date: "2012-11-04"
+-
+  id: 231
+  name: "Bartender"
+  shortname: "bartender"
+  downloadURL: "http://www.macbartender.com/"
+  developerURL: "http://www.surteesstudios.com"
+  category: "Utilities"
+  developer: "Surtees Studios"
+  date: "2012-11-04"
+-
+  id: 230
+  name: "Mochi"
+  shortname: "mochi"
+  downloadURL: "https://itunes.apple.com/us/app/mochi/id548239407?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://mochi-notes.com"
+  category: "Productivity"
+  developer: "Jimmy Do"
+  date: "2012-11-04"
+-
+  id: 229
+  name: "Capture One"
+  shortname: "captureone"
+  downloadURL: "http://www.phaseone.com/Downloads/Capture-One-7.aspx"
+  developerURL: "http://www.phaseone.com/"
+  category: "Graphics & Design"
+  developer: "PhaseOne"
+  date: "2012-11-04"
+-
   id: 228
   name: "Pocket"
   shortname: "pocket"
@@ -753,15 +807,6 @@
   developerURL: "http://www.newnet-soft.com/Words/"
   category: "News"
   developer: "Sven Read, John Read"
-  date: "2012-08-21"
--
-  id: 146
-  name: "Bartender (Beta)"
-  shortname: "bartender"
-  downloadURL: "http://www.macbartender.com/"
-  developerURL: "http://www.surteesstudios.com"
-  category: "Utilities"
-  developer: "Surtees Software"
   date: "2012-08-21"
 -
   id: 145
