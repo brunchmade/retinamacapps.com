@@ -22,6 +22,10 @@ filterChange = (val) ->
   $.get "/partials/" + file, (data) ->
     $("#app-wrapper").fadeOut 175, ->
       $(this).html(data).fadeIn 225
+      if val is 'c'
+        $('#cat-list').fadeIn 225
+      else
+        $('#cat-list').fadeOut 175
       retinajs(true)
       convertoToMailto()
 
@@ -56,7 +60,7 @@ searchApps = ->
 $(document).ready ->
   retinajs()
   convertoToMailto()
-  
+
   # Handle submit click
   $("#openSubmissionModal").click (e) ->
     e.preventDefault()
@@ -71,7 +75,7 @@ $(document).ready ->
   $("#openColophonModal").click (e) ->
     e.preventDefault()
     $("#colophonModal").reveal()
-  
+
   # Handle filter select event
   $("#filter").change ->
     filterChange $(this).val()

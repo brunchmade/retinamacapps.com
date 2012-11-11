@@ -1,5 +1,5 @@
 -
-  id: 234
+  id: 237
   name: "Borderlands"
   shortname: "borderlands"
   downloadURL: "https://itunes.apple.com/us/app/borderlands-game-of-the-year/id411888529?mt=12&partnerId=30&siteID=XiIlgOb99EY"
@@ -8,7 +8,7 @@
   developer: "Feral Interactive"
   date: "2012-11-04"
 -
-  id: 234
+  id: 236
   name: "FotoMagico 4"
   shortname: "fotomagico"
   downloadURL: "https://itunes.apple.com/us/app/fotomagico-4/id538709823?mt=12&partnerId=30&siteID=XiIlgOb99EY"
@@ -17,7 +17,7 @@
   developer: "Boinx Software"
   date: "2012-11-04"
 -
-  id: 234
+  id: 235
   name: "Paprika Recipe Manager"
   shortname: "paprika"
   downloadURL: "https://itunes.apple.com/us/app/paprika-recipe-manager/id451907568?mt=12&partnerId=30&siteID=XiIlgOb99EY"
@@ -688,7 +688,7 @@
   shortname: "tacohtmledit"
   downloadURL: "http://itunes.apple.com/us/app/taco-html-edit/id405146005?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://tacosw.com"
-  category: Developer Tools"
+  category: "Developer Tools"
   developer: "Taco Software"
   date: "2012-08-27"
 -
