@@ -1,4 +1,13 @@
 -
+  id: 48
+  name: "Glow for FB"
+  shortname: "glowforfb"
+  downloadURL: "http://www.glowforfb.com"
+  developerURL: "http://raffael.me"
+  category: "Social Networking"
+  developer: "Raffael Hannemann"
+  date: "2012-08-08"
+-
   id: 237
   name: "Borderlands"
   shortname: "borderlands"
@@ -1698,15 +1707,6 @@
   developerURL: "http://awil.no"
   category: "Utilities"
   developer: "Audun Wilhelmsen"
-  date: "2012-08-08"
--
-  id: 48
-  name: "Glow for FB"
-  shortname: "glowforfb"
-  downloadURL: "http://www.glowforfb.com"
-  developerURL: "http://raffael.me"
-  category: "Social Networking"
-  developer: "Raffael Hannemann"
   date: "2012-08-08"
 -
   id: 47
