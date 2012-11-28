@@ -1,4 +1,5 @@
 -
+<<<<<<< HEAD
   id: 243
   name: "Frank DeLoupe"
   shortname: "frankdeloupe"
@@ -81,6 +82,18 @@
   date: "2012-11-28"
 -
   id: 234
+=======
+  id: 48
+  name: "Glow for FB"
+  shortname: "glowforfb"
+  downloadURL: "http://www.glowforfb.com"
+  developerURL: "http://raffael.me"
+  category: "Social Networking"
+  developer: "Raffael Hannemann"
+  date: "2012-08-08"
+-
+  id: 237
+>>>>>>> 0296ec81f4c1c9617f91af88dc0a9a4dfb37a067
   name: "Borderlands"
   shortname: "borderlands"
   downloadURL: "https://itunes.apple.com/us/app/borderlands-game-of-the-year/id411888529?mt=12&partnerId=30&siteID=XiIlgOb99EY"
@@ -89,7 +102,7 @@
   developer: "Feral Interactive"
   date: "2012-11-04"
 -
-  id: 234
+  id: 236
   name: "FotoMagico 4"
   shortname: "fotomagico"
   downloadURL: "https://itunes.apple.com/us/app/fotomagico-4/id538709823?mt=12&partnerId=30&siteID=XiIlgOb99EY"
@@ -98,7 +111,7 @@
   developer: "Boinx Software"
   date: "2012-11-04"
 -
-  id: 234
+  id: 235
   name: "Paprika Recipe Manager"
   shortname: "paprika"
   downloadURL: "https://itunes.apple.com/us/app/paprika-recipe-manager/id451907568?mt=12&partnerId=30&siteID=XiIlgOb99EY"
@@ -769,7 +782,7 @@
   shortname: "tacohtmledit"
   downloadURL: "http://itunes.apple.com/us/app/taco-html-edit/id405146005?mt=12&partnerId=30&siteID=XiIlgOb99EY"
   developerURL: "http://tacosw.com"
-  category: Developer Tools"
+  category: "Developer Tools"
   developer: "Taco Software"
   date: "2012-08-27"
 -
@@ -1779,15 +1792,6 @@
   developerURL: "http://awil.no"
   category: "Utilities"
   developer: "Audun Wilhelmsen"
-  date: "2012-08-08"
--
-  id: 48
-  name: "Glow for FB"
-  shortname: "glowforfb"
-  downloadURL: "http://www.glowforfb.com"
-  developerURL: "http://raffael.me"
-  category: "Social Networking"
-  developer: "Raffael Hannemann"
   date: "2012-08-08"
 -
   id: 47
