@@ -1,6 +1,5 @@
 -
-<<<<<<< HEAD
-  id: 243
+  id: 246
   name: "Frank DeLoupe"
   shortname: "frankdeloupe"
   downloadURL: "https://itunes.apple.com/us/app/frank-deloupe/id530458789?mt=12&partnerId=30&siteID=XiIlgOb99EY"
@@ -9,7 +8,7 @@
   developer: "Jumpzero"
   date: "2012-11-28"
 -
-  id: 242
+  id: 245
   name: "Pixa"
   shortname: "pixa"
   downloadURL: "https://itunes.apple.com/us/app/pixa/id527618971?mt=12&partnerId=30&siteID=XiIlgOb99EY"
@@ -18,7 +17,7 @@
   developer: "Shiny Frog"
   date: "2012-11-28"
 -
-  id: 241
+  id: 244
   name: "Keyboard Cowboy"
   shortname: "keyboardcowboy"
   downloadURL: "https://itunes.apple.com/us/app/keyboard-cowboy/id540305592?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
@@ -27,7 +26,7 @@
   developer: "Christoffer Winterkvist"
   date: "2012-11-28"
 -
-  id: 240
+  id: 243
   name: "Menstruation and Ovulation Calendar - Menstrual Period Calculator and Tracker"
   shortname: "menstr"
   downloadURL: "https://itunes.apple.com/us/app/menstruation-ovulation-calendar/id464291275?mt=12&partnerId=30&siteID=XiIlgOb99EY"
@@ -36,7 +35,7 @@
   developer: "EFRAC"
   date: "2012-11-28"
 -
-  id: 239
+  id: 242
   name: "YouTube to MP3"
   shortname: "youtubetomp3"
   downloadURL: "http://www.mediahuman.com/youtube-to-mp3-converter/"
@@ -45,7 +44,7 @@
   developer: "MediaHuman"
   date: "2012-11-28"
 -
-  id: 238
+  id: 241
   name: "iRenRen"
   shortname: "irenren"
   downloadURL: "https://itunes.apple.com/us/app/irenren/id572340099?mt=12&partnerId=30&siteID=XiIlgOb99EY"
@@ -54,7 +53,7 @@
   developer: "LessApps"
   date: "2012-11-28"
 -
-  id: 237
+  id: 240
   name: "Instafun"
   shortname: "instafun"
   downloadURL: "https://itunes.apple.com/us/app/instafun/id563301068?mt=12&partnerId=30&siteID=XiIlgOb99EY"
@@ -63,7 +62,7 @@
   developer: "Raffael Hannemann"
   date: "2012-11-28"
 -
-  id: 236
+  id: 239
   name: "Picturito for Facebook"
   shortname: "picturito"
   downloadURL: "https://itunes.apple.com/us/app/picturito-for-facebook/id574267737?mt=12&partnerId=30&siteID=XiIlgOb99EY"
@@ -72,7 +71,7 @@
   developer: "Pedro Vieira"
   date: "2012-11-28"
 -
-  id: 235
+  id: 238
   name: "Crosspost"
   shortname: "crosspost"
   downloadURL: "https://itunes.apple.com/us/app/crosspost/id577275757?mt=12&partnerId=30&siteID=XiIlgOb99EY"
@@ -81,8 +80,6 @@
   developer: "Stefano Di Luca"
   date: "2012-11-28"
 -
-  id: 234
-=======
   id: 48
   name: "Glow for FB"
   shortname: "glowforfb"
@@ -93,7 +90,6 @@
   date: "2012-08-08"
 -
   id: 237
->>>>>>> 0296ec81f4c1c9617f91af88dc0a9a4dfb37a067
   name: "Borderlands"
   shortname: "borderlands"
   downloadURL: "https://itunes.apple.com/us/app/borderlands-game-of-the-year/id411888529?mt=12&partnerId=30&siteID=XiIlgOb99EY"
