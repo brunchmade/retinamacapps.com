@@ -1,4 +1,68 @@
 -
+  id: 253
+  name: "Photoshop CS6"
+  shortname: "photoshop"
+  downloadURL: "http://www.dpbolvw.net/click-6202590-10674112?url=http%3A%2F%2Fvolumelicensing.adobe.com%2Fstore%3FAction%3DDisplayProductDetailsPage%26Locale%3Den_US%26SiteID%3Dadbeedus%26productID%3D249340500&cjsku=Photoshop+CS6+Extended+-+License"
+  developerURL: "http://adobe.com"
+  category: "Graphics & Design"
+  developer: "Adobe"
+  date: "2012-12-10"
+-
+  id: 252
+  name: "Illustrator CS6"
+  shortname: "illustrator"
+  downloadURL: "http://www.jdoqocy.com/click-6202590-10674112?url=http%3A%2F%2Fvolumelicensing.adobe.com%2Fstore%3FAction%3DDisplayProductDetailsPage%26Locale%3Den_US%26SiteID%3Dadbeedus%26productID%3D249340100&cjsku=Illustrator+CS6+-+License"
+  developerURL: "http://adobe.com"
+  category: "Graphics & Design"
+  developer: "Adobe"
+  date: "2012-12-10"
+-
+  id: 251
+  name: "Cornerstone"
+  shortname: "cornerstone"
+  downloadURL: "https://itunes.apple.com/us/app/cornerstone/id404789253?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://zennaware.com"
+  category: "Developer Tools"
+  developer: "Zenware"
+  date: "2012-12-10"
+
+-
+  id: 250
+  name: "Music Harbinger"
+  shortname: "musicharbinger"
+  downloadURL: "https://itunes.apple.com/us/app/music-harbinger/id539360022?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://w1tchdev.tumblr.com"
+  category: "Social Networking"
+  developer: "Pedro Vieira"
+  date: "2012-12-10"
+-
+  id: 249
+  name: "Healthier: Break Reminder"
+  shortname: "healthier"
+  downloadURL: "https://itunes.apple.com/us/app/healthier-break-reminder/id534953542?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://lessapps.net"
+  category: "Productivity"
+  developer: "LessApps"
+  date: "2012-12-10"
+-
+  id: 248
+  name: "Canyons & Arches Desktops"
+  shortname: "canyons"
+  downloadURL: "https://itunes.apple.com/us/app/canyons-arches-desktops-quality/id577709278?ls=1&mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://www.seldomridgedesktops.com"
+  category: "Lifestyle"
+  developer: "Richard Seldomridge Photography"
+  date: "2012-12-10"
+-
+  id: 247
+  name: "VK Play"
+  shortname: "vkplay"
+  downloadURL: "https://itunes.apple.com/ru/app/vk-play/id554905716?mt=12&partnerId=30&siteID=XiIlgOb99EY"
+  developerURL: "http://ithomia.com/vkplay"
+  category: "Music"
+  developer: "iThomia"
+  date: "2012-12-10"
+-
   id: 246
   name: "Frank DeLoupe"
   shortname: "frankdeloupe"
