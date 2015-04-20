@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<ul id="app-list">
+  {% for a in site.data.apps %}
+    <li class="app-item {{ a.shortname }}">
+      <a class="application" href="{{ a.downloadURL }}" target="_blank" title="Download {{ a.name }}">
+        <img alt="{{ a.name }}" height="256" src="{{ site.baseurl }}images/apps/{{ a.shortname }}.png" title="{{ a.name }}" width="256"/>
+      </a>
+      <h3>
+        <a class="application-name" href="{{ a.downloadURL }}" target="_blank" title="Download {{ a.name }}">
+          {{ a.name }}
+        </a>
+      </h3>
+      <a class="developer" href="{{ a.developerURL }}" target="_blank" title="Visit {{ a.developer }}">
+        {{ a.developer }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>

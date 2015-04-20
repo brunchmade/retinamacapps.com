@@ -1,0 +1,8 @@
+# Site settings
+title: "Retina Mac Apps"
+description: "Load up your new Retina Mac with these awesome apps"
+baseurl: "/"
+url: "https://retinamacapps.com"
+
+# Build settings
+markdown: kramdown

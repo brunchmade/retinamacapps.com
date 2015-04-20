@@ -1,8 +1,0 @@
-%ul#cat-list
-  - sorted = data.apps.sort_by { |a| [a[:category], a[:name]] }
-  - category = ""
-  - sorted.each do |a|
-    - if category != a.category
-      - category = a.category
-      %li
-        %a{href: "#cat-#{category.gsub(' ', '_').downcase}"} #{category}
